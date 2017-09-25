@@ -1,0 +1,42 @@
+{% extends '_layouts/layout_2-3_1-3_v2.html' %}
+
+{% block page_title %}
+  Page per GP - NHS.UK
+{% endblock page_title %}
+
+{% block pageTitle %}
+  Meanwood Group Practice
+{% endblock pageTitle %}
+
+{% block leftHalf %}
+  {% include '_includes/archive/v2/location.html' %}
+{% endblock %}
+
+{% block rightHalf %}
+  {% include '_includes/archive/v2/contact-details.html' %}
+{% endblock %}
+
+<!-- Main content here -->
+{% block content %}
+  {% include '_includes/archive/v2/accepting-patients.html' %}
+  <hr style="margin:32px 0;" />
+  {% include '_includes/archive/v2/online-services-mobile.html' %}
+  <hr style="margin:32px 0;" />
+  {% include '_includes/archive/v2/what-patients-say.html' %}
+  <hr style="margin:32px 0;" />
+  {% include '_includes/archive/v2/reception-opening-times.html' %}
+  {% include '_includes/archive/v2/gp-appointment-times.html' %}
+  <hr style="margin:16px 0;" />
+  {% include '_includes/archive/v2/registered-patients.html' %}
+  <hr style="margin:16px 0;" />
+  {% include '_includes/archive/v2/gps-at-this-surgery.html' %}
+  <hr style="margin:32px 0 24px 0;" />
+  {% include '_includes/archive/v2/services-clinics.html' %}
+  <hr style="margin:32px 0 24px 0;" />
+  {% include '_includes/archive/v2/facilities.html' %}
+  <hr style="margin:32px 0 24px 0;" />
+  {% include '_includes/archive/v2/additional-languages.html' %}
+{% endblock content %}
+
+{% block rightColumn %}
+{% endblock rightColumn %}

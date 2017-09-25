@@ -1,0 +1,17 @@
+.overlay {
+  background:transparent;
+  position:relative;
+  width:100%; /* your iframe width */
+  height:480px; /* your iframe height */
+  top:480px; /* your iframe height */
+  margin-top:-480px !important; /* your iframe height */
+}
+
+
+iframe {
+  height: 200px;
+
+  @include media(640px) {
+    height: 400px;
+  }
+}

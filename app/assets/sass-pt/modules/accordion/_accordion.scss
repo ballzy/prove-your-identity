@@ -1,0 +1,14 @@
+.accordion {
+  margin: 16px 0;
+}
+
+.accordion__item {
+  background-color: #f5f5f5;
+  margin: 0;
+  border-bottom: 1px solid #d9e1e2;
+  padding: 8px;
+
+  @include media(640px) {
+    padding: 16px;
+  }
+}

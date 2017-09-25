@@ -1,0 +1,29 @@
+{% extends '_layouts/layout_2-3_1-3_v5.html' %}
+
+{% block page_title %}
+  V1CLOSED
+{% endblock page_title %}
+
+{% block pageTitle %}
+  Meanwood Group Practice
+{% endblock pageTitle %}
+
+{% block surgeryInfo %}
+  {% include '_includes/archive/v5/contact-details.html' %}
+{% endblock %}
+
+<!-- Main content here -->
+{% block content %}
+  {% include '_includes/archive/v5/opening-times_closed.html' %}
+  <!-- {% include '_includes/archive/v5/bank-holiday-times.html' %} -->
+  <hr class="hr--full-width" />
+  {% include '_includes/archive/v5/things-you-can-do-online.html' %}
+  <hr class="hr--full-width" />
+{% endblock content %}
+
+
+{% block rightColumn %}
+    {% include '_includes/archive/v5/need-help-quickly.html' %}
+{% endblock rightColumn %}
+
+{% include '_includes/archive/v5/need-help-quickly.html' %}

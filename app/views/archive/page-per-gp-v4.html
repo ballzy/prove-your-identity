@@ -1,0 +1,20 @@
+{% extends '_layouts/layout_2-3_1-3_v4.html' %}
+
+{% block page_title %}
+  Page per GP - NHS.UK
+{% endblock page_title %}
+
+{% block pageTitle %}
+  Meanwood Group Practice
+{% endblock pageTitle %}
+
+{% block surgeryInfo %}
+  {% include '_includes/archive/v4/contact-details.html' %}
+  {% include '_includes/archive/v4/open-emergency-same-day-appointments.html' %}
+  {% include '_includes/archive/v4/bank-holiday-times.html' %}
+{% endblock %}
+
+<!-- Main content here -->
+{% block content %}
+  {% include '_includes/archive/v4/things-you-can-do-online.html' %}
+{% endblock content %}

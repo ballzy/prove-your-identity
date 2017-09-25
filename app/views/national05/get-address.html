@@ -1,0 +1,30 @@
+{% extends '_layouts/layout_2-3.html' %}
+
+{% block page_title %}View medical record online{{serviceName}}{% endblock %}
+
+
+
+{% block content %}
+
+<div class="first-item">
+  <form>
+    <div class="form-group">
+      <fieldset class="inline">
+        <span class="section-header">View your medical record online</span>
+        <h1>Your address</h1>
+        <p>In order to see if you can view your medical record online yet we need to know which area of the country you are in.</p>
+
+        <div class="form-group">
+          <label class="form-label" for="field1">Your postcode</label>
+          <input class="form-control" id="field1" name="field1" type="text">
+        </div>
+
+      </fieldset>
+    </div>
+    <a class="button" href="medical-record-success">Submit</a>
+  </form>
+</div>
+
+{% endblock %}
+
+{% block footer %}{% endblock %}

@@ -1,0 +1,135 @@
+@import "nhsuk";
+
+// new styles under here
+
+h1, h1>legend { 
+	font-size: 36px;
+	line-height: 48px;
+	font-weight: bold;
+}
+
+.global-header__link {
+	background: url("/images/logotype-nhs-colour__reverse.png") no-repeat;
+}
+
+.page-section {
+	padding: 65px 0;
+}
+
+p.small, li.small {
+  font-size: 16px;
+  line-height: 1em;
+}
+
+input[type='text'],
+input[type='number'],
+input[type='password'],
+input[type='email'],
+input[type='tel'] {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border-radius: 0;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  display: block;
+  width: 100%;
+  margin: 16px 0 32px 0;
+  padding: 8px;
+  border: 2px solid #005EB8;
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: 400;
+  line-height: 32px;
+}
+
+@media (min-width: 500px) {
+  input[type='text'],
+  input[type='number'],
+  input[type='password'],
+  input[type='email'],
+  input[type='tel'] {
+    width: 75%;
+  }
+}
+
+input[type='text']:focus,
+input[type='number']:focus,
+input[type='password']:focus,
+input[type='email']:focus,
+input[type='tel']:focus {
+  outline: 0;
+  -webkit-box-shadow: 0 0 0 5px #F7E214;
+  -moz-box-shadow: 0 0 0 5px #F7E214;
+  box-shadow: 0 0 0 5px #F7E214;
+}
+
+input[type='text'].-small,
+input[type='number'].-small,
+input[type='password'].-small,
+input[type='email'].-small,
+input[type='tel'].-small {
+  width: 8em;
+}
+
+input[type='text'].code,
+input[type='number'].code,
+input[type='password'].code,
+input[type='email'].code,
+input[type='tel'].code {
+  width: 50%;
+}
+
+span.section-header {
+	font-size: 24px;
+	line-height: 32px;
+	font-weight: bold;
+}
+
+
+.-date div {
+  float: left;
+  padding-right: 1em;
+}
+
+.-date .day,
+.-date .month {
+  width: 3em;
+}
+
+.-date .year {
+  width: 4em;
+}
+
+.error-summary {
+  margin: 32px 0;
+}
+
+.error-summary > div {
+  float: left;
+  border-top: 2px solid #D81E05;
+  background-color: #fbe9e6;
+  padding: 0 32px;
+  color: #a61704;
+}
+
+.error-summary a {
+  color: #a61704;
+}
+
+.error-hint {
+  display: block;
+  color: #D81E05;
+}
+
+.form-group.-errors {
+  border-left: 4px solid #D81E05;
+  padding-left: 20px;
+}
+
+.form-group.-errors input,
+.form-group.-errors textarea {
+  border-color: #D81E05;
+  border-width: 4px;
+}

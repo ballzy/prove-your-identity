@@ -1,0 +1,38 @@
+{% extends '_layouts/layout_mvp-v1_2.html' %}
+
+{% block page_title %}
+  MVP 1.1
+{% endblock page_title %}
+
+{% block pageTitle %}
+  <div style="margin:0px;">Kenyon Medical Centres: Brandon Road</div>
+{% endblock pageTitle %}
+
+{% block pageIntro %}
+  {% include '_includes/mvp-v1_2/address.html' %}
+{% endblock pageIntro %}
+
+{% block rightHalf %}
+  {% include '_includes/mvp-v1_2/contact.html' %}
+{% endblock %}
+
+<!-- Main content here -->
+{% block content %}
+  {% include '_includes/mvp-v1_2/anchor-links.html' %}
+  <hr/>
+  <div id="when-the-reception-is-open">{% include '_includes/mvp-v1_2/when-the-reception-is-open.html' %}</div>
+  <hr/>
+  <div id="when-to-see-a-gp">{% include '_includes/mvp-v1_2/when-gp-see-patients.html' %}</div>
+  <hr/>
+  <div id="tasks">{% include '_includes/mvp-v1_2/tasks.html' %}</div>
+  <hr/>
+  <div id="patients-stats">{% include '_includes/mvp-v1_2/what-patients-say-about-this-surgery.html' %}</div>
+  <hr/>
+  <div id="healthcare-staff">{% include '_includes/mvp-v1_2/healthcare-staff-at-this-surgery.html' %}</div>
+  <hr/>
+  <div id="specialied-services">{% include '_includes/mvp-v1_2/specialised-services.html' %}</div>
+  <hr/>
+  <div id="facilities">{% include '_includes/mvp-v1_2/facilities.html' %}</div>
+  <hr/>
+  <div id="register">{% include '_includes/mvp-v1_2/register-as-patient.html' %}
+{% endblock content %}

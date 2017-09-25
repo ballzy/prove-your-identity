@@ -1,0 +1,42 @@
+{% extends '_layouts/layout_2-3.html' %}
+
+{% block page_title %}My NHS Account{{serviceName}}{% endblock %}
+
+{% block content %}
+
+<style>
+
+.task-button {
+	background-color: #3E8117;
+	color: #fff;
+	padding: 10px;
+}
+a.task-button , a.task-button:visited, a.task-button:hover, a.task-button:active {
+	text-decoration: none;
+	color: #fff;
+}
+
+</style>
+
+<div class="first-item">
+
+    <div>
+
+        <h1 class="heading-large">Access your Leeds Care Record</h1>
+
+        <h2 class="heading-xlarge"><legend>Prove your identity</legend></h2>
+
+        <p>In order to access your record you’ll need to prove your identity using GOV.UK Verify. This will only take a few minutes and is all done online.</p>
+        <p>We need to do this to protect and avoid any misuse of your data.</p>
+
+		<p><a href="http://govuk-verify-loa1.herokuapp.com/intro?requestId=leeds-person-held-record&userLOA=0" class="task-button">Verify with GOV.UK</a></p>
+
+
+    </div>
+
+</div>
+
+{% endblock %}
+
+{% block footer %}{% endblock %}
+

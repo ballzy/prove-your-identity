@@ -1,0 +1,42 @@
+{% extends '_layouts/layout_2-3_1-3.html' %}
+
+{% block page_title %}
+  Page per GP - NHS.UK
+{% endblock page_title %}
+
+{% block pageTitle %}
+  Meanwood Group Practice
+{% endblock pageTitle %}
+
+<!-- Main content here -->
+{% block content %}
+  {% include '_includes/archive/v1/accepting-patients.html' %}
+  {% include '_includes/archive/v1/location.html' %}
+  {% include '_includes/archive/v1/contact-details.html' %}
+  {% include '_includes/archive/v1/location-map.html' %}
+  {% include '_includes/archive/v1/online-services-mobile.html' %}
+  {% include '_includes/archive/v1/what-patients-say.html' %}
+  <hr style="margin:32px 0;" />
+  {% include '_includes/archive/v1/reception-opening-times.html' %}
+  {% include '_includes/archive/v1/gp-appointment-times.html' %}
+  <hr style="margin:16px 0;" />
+  {% include '_includes/archive/v1/registered-patients.html' %}
+  <hr style="margin:16px 0;" />
+  {% include '_includes/archive/v1/gps-at-this-surgery.html' %}
+  <hr style="margin:32px 0 24px 0;" />
+  {% include '_includes/archive/v1/services-clinics.html' %}
+  <hr style="margin:32px 0 24px 0;" />
+  {% include '_includes/archive/v1/facilities.html' %}
+  <hr style="margin:32px 0 24px 0;" />
+  {% include '_includes/archive/v1/additional-languages.html' %}
+
+  <!-- <section class="muted">
+    <h3>Make an appointment</h3>
+    You can book an appointment for this GP practice online.
+    <p><a href="book-an-appointment-online" class="button">Continue</a>
+  </section> -->
+{% endblock content %}
+
+{% block rightColumn %}
+    {% include '_includes/archive/v1/online-services-desktop.html' %}
+{% endblock rightColumn %}}

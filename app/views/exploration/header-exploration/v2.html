@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>{% block page_title %}{% endblock %}</title>
+    <link rel="stylesheet" type="text/css" href="/stylesheets/app.css">
+    {% block html_head %}{% endblock %}
+  </head>
+
+  <body class="{% block body_css_classes %}{% endblock %}">
+    <script>document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script>
+    {% include '_includes/v1_4/masthead.html' %}
+
+    {% include '_includes/header-exploration/header-v2.html' %}
+    <hr/>
+    {% include '_includes/header-exploration/header-v7.html' %}
+    <hr/>
+    {% include '_includes/header-exploration/header-v8.html' %}
+    <hr/>
+    {% include '_includes/header-exploration/header-v9.html' %}
+
+    {% include '_includes/footer.html' %}
+    <script src="/scripts/jquery-1.12.4.min.js"></script>
+    <script src="/scripts/selection-buttons.js"></script>
+    <!-- additional scripts etc -->
+    {% block body_after %}{% endblock %}
+
+  </body>
+
+</html>

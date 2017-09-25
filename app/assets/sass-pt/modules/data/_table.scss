@@ -1,0 +1,99 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border-top: 1px solid $pale-grey;
+  margin-bottom: $leading*2;
+
+  th, td {
+    text-align: left;
+    vertical-align: top;
+    padding: $leading $leading/2;
+
+    font-weight: $bodyweight;
+    font-size: $smallprint;
+    line-height: 18px;
+
+    border-bottom: 1px solid #eee;
+
+    @include media(640px) {
+      font-size: $body--mobile;
+      line-height: 22px;
+    }
+  }
+
+  th {
+    color: $dark-grey;
+  }
+
+  .control {
+    text-align: right;
+
+    .button {
+      padding: $leading;
+      margin-right: 0;
+      line-height: $leading;
+    }
+  }
+
+  &.natural {
+    width: auto;
+  }
+
+  &.compact {
+    th, td {
+      padding: leading/2;
+    }
+  }
+
+}
+
+.br__table {
+  display: block;
+
+  @include media(mid) {
+    display: none;
+  }
+
+}
+
+dl {
+ dt {
+   font-weight:bold;
+   border-top:1px solid $pale-grey;
+   padding-top: 16px;
+   margin-bottom: 4px;
+   &:first-child {
+     border:none;
+     padding-top:0;
+   }
+ }
+}
+
+dd {
+  margin-left: 0;
+  margin-bottom: 4px;
+}
+
+.dt__day {
+  border-bottom:1px solid $pale-grey;
+  padding-bottom: 16px;
+  margin-bottom: 16px;
+  font-size: 16px;
+  line-height: 22px;
+}
+
+.appointments__mobile {
+  display: block;
+
+  @include media(mid) {
+    display: none;
+  }
+}
+
+.appointments__desktop {
+  display: none;
+
+  @include media(mid) {
+    display: block;
+  }
+}

@@ -1,0 +1,52 @@
+html {
+  
+}
+
+#global-footer {
+  margin-top: $leading*4;
+  padding-top: $leading;
+  padding-bottom: $leading;
+  min-height: 80px;
+  border-top: 1px solid darken($pale-grey, 5);
+  background-color: #005eb8;
+  border-top: 4px solid #003087;
+  color: #fff;
+}
+
+.footer-container {
+  @extend %block;
+  @extend %contain-floats;
+  padding-bottom: $leading/2;
+  padding-top: $leading/2;
+
+  img {
+    display: block;
+    width: 79px;
+    height: 32px;
+  }
+}
+
+
+.global-footer__inner {
+  margin: 0 auto;
+  max-width: 960px;
+  padding-bottom: 96px;
+  padding-top: 32px; }
+  .global-footer__inner a { color: #fff; font-size: 0.9em;}
+  
+  .global-footer__inner:before {
+    background: url("../images/nhs-blue.png") no-repeat;
+    background-size: contain;
+    content: "";
+    display: block;
+    height: 32px;
+    margin-bottom: 32px;
+    text-indent: -999em;
+    width: 79px; }
+    @media (min-width: 925px) {
+      .global-footer__inner:before {
+        margin-bottom: 48px; } }
+    @media (min-resolution: 192dpi) {
+      .global-footer__inner:before {
+        background-image: url("../images/nhs-blue.png");
+        background-size: 79px 32px; } }

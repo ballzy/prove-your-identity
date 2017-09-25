@@ -1,0 +1,74 @@
+{% extends '_layouts/layout_2-3.html' %}
+
+{% block page_title %}Prove My Identity{{serviceName}}{% endblock %}
+
+{% block pageTitle %}Prove My Identity protoypes{% endblock %}
+
+{% block content %}
+
+  <div class="first-item">
+  	<h2 class="heading-xxlarge">Local Service Prototypes</h2>
+    <ul>
+      <li>
+        <a href="/alpha06/start">Leeds Alpha with the NHS account [Alpha 06]</a>
+      </li>
+      <li>
+        <a href="/alpha05/beta-invite">Improved on-boarding copy [Alpha 05]</a>
+      </li>
+      <li>
+        <a href="/alpha04/beta-invite">Improved clinical authorisation route - through Verify [Alpha 04]</a>
+      </li>
+      <li>
+        <a href="/alpha03/beta-invite">Simple choice page with POL and Verify [Alpha 03]</a>
+      </li>
+      <li>
+        <a href="/alpha02/beta-invite">Simple Verify LOA1 journey [Alpha 02]</a> 
+      </li>
+      <li>
+      	<a href="/alpha01/beta-invite">Q&amp;A to decide which method best to login with [Alpha 01]</a>
+      </li>
+    </ul>
+
+    <h2 class="heading-large">National Prototypes</h2>
+    <ul>
+      <li>
+        <a href="/national04/index">Connect to wifi plus 2FA &amp; forgotten password</a>
+      </li>
+      <li>
+        <a href="/national03/index">Connect to wifi plus more info on account creation</a>
+      </li>
+      <li>
+        <a href="/national02/index">Connect to wifi and create an NHS account</a>
+      </li>
+      <li>
+        <a href="/national01/index">Login to your NHS account</a>
+      </li>
+      
+    </ul>
+
+    <h2 class="heading-large">Early Prototypes</h2>
+    <ul>
+      <li>
+      	<a href="https://hib-prototype-staging.herokuapp.com/">Steve Powell's early prototype</a>
+      </li>
+      <li>
+      	<a href="http://wfclients.com/nhs/identity/index.html">Wilson Fletcher's prototype</a><br>
+      	<span class="p__sub">Login: (user: nhs / pass: UuTh6ahc)<br>Verify prototype (user: pirate / pass: bunting)</span>
+      </li>
+    </ul>
+   </div>
+
+{% endblock %}
+
+{% block rightcol %}
+	<h2 class="heading-large" style="margin-top: 35px;">Verify Prototypes</h2>
+    <ul>
+      <li>
+      	<a href="http://govuk-verify-loa1.herokuapp.com/">Verify LOA1 prototype</a><br>
+      	<span class="p__sub">Ask Chris or Liz for username / password</span>
+      </li>
+     </ul>
+
+{% endblock %}
+
+{% block footer %}{% endblock %}

@@ -1,0 +1,26 @@
+{% extends '_layouts/layout_2-3.html' %}
+
+{% block page_title %}Access your Personal Health Record{{serviceName}}{% endblock %}
+
+{% block pageTitle %}Access your Personal Health Record{% endblock %}
+
+{% block content %}
+
+  <div class="component-callout">
+    Your email address has been verified.
+  </div>
+
+  <h1>Manage and view your health information</h1>
+
+  <p>This service gives you the ability to manage and view all your personal health information in one place and, if you wish, share and view this information with trusted carers, health professionals, your loved ones and family members.</p>
+
+  <p>You will be asked to verify your identity with GOV.UK Verify. If you have login details already, have them to hand.</p>
+
+  <div class="cta shunt">
+    <a href="http://govuk-verify-loa1.herokuapp.com/intro?requestId=leeds-person-held-record&userLOA=0" class="button">Start</a>
+  </div>
+
+
+{% endblock %}
+
+{% block footer %}{% endblock %}

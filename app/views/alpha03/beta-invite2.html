@@ -1,0 +1,36 @@
+{% extends '_layouts/layout_2-3.html' %}
+
+{% block page_title %}Access your Personal Health Record{{serviceName}}{% endblock %}
+
+{% block pageTitle %}Access your Personal Health Record{% endblock %}
+
+{% block content %}
+
+<div class="first-item">
+  <form>
+    <div class="form-group">
+      <fieldset class="inline">
+
+        <h2><legend>Are you able to book appointments online with your GP?</legend></h2>
+        <div>
+          <label class="block-label selection-button-radio" for="/alpha01/login">
+            <input id="radio-inline-1" type="radio" name="radio-inline-group" value="Yes">
+            Yes
+          </label>
+        </div>
+        <div>
+          <label class="block-label selection-button-radio" for="/alpha01/choose">
+            <input id="radio-inline-2" type="radio" name="radio-inline-group" value="No">
+            No
+          </label>
+        </div>
+
+      </fieldset>
+    </div>
+    <a class="button" id="continue">Continue</a>
+  </form>
+</div>
+
+{% endblock %}
+
+{% block footer %}{% endblock %}

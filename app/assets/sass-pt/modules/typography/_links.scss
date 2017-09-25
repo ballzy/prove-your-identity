@@ -1,0 +1,65 @@
+a {
+    color: $link-colour;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: $hover-link-colour;
+}
+
+a:visited {
+    color: $visited-link-colour;
+}
+
+a:focus {
+  outline: 0;
+  -webkit-box-shadow: 0 0 0 5px $focus-colour;
+  -moz-box-shadow: 0 0 0 5px $focus-colour;
+  box-shadow: 0 0 0 5px $focus-colour;
+}
+
+.links--large {
+  font-size: 18px;
+  line-height: 24px;
+  margin: $leading 0;
+  font-weight: bold;
+  margin-bottom: 8px;
+
+   @include media(640px) {
+     font-size: 24px;
+     line-height: 32px;
+   }
+}
+
+.anchor-link {
+  margin: 12px 0;
+  font-size: 14px;
+  line-height: 18px;
+
+  @include media(mid) {
+    font-size: 16px;
+    line-height: 22px;
+  }
+}
+
+.link--reverse-polarity {
+  color: white !important;
+
+  a {
+    color: white !important;
+  }
+}
+
+.p__link--list {
+  margin: 8px 0;
+}
+
+.p__link--list-1st {
+  margin-bottom: 8px;
+  margin-top: 16px !important;
+
+  @include media(mid) {
+    margin-top: 0px !important;
+  }
+
+}

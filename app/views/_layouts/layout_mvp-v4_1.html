@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>{% block page_title %}{% endblock %}</title>
+    <link rel="stylesheet" type="text/css" href="/stylesheets/app.css">
+    <link rel="stylesheet" type="text/css" href="https://assets.nhs.uk/fonts/nhsuk-fonts-1.1.0.css">
+    {% block html_head %}{% endblock %}
+  </head>
+
+  <body class="{% block body_css_classes %}{% endblock %}">
+    <script>document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script>
+    {% include '_includes/masthead.html' %}
+
+    <main id="content" role="main" class="content">
+
+      <div class="header-panel">
+        <div class="grid-row">
+          <div class="grid-3-3">
+            <h1>
+              Kenyon Medical Centres
+            </h1>
+            <p class="p--header p__header--address">108 Brandon Road, Coventry, <span style="white-space:nowrap;">CV3 2JF</span></p>
+            <div class="content-seperator"></div>
+            <p class="p__header--telephone">Reception: 02476 307024</p>
+            <a class="p--header" href="#contact_and_address">Contact the surgery</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Page content goes here -->
+      <div class="grid-row">
+        <div class="grid-2-3">
+        {% block content %}{% endblock %}
+        </div>
+      </div>
+    </main>
+
+    {% include '_includes/footer.html' %}
+
+    <script src="/scripts/jquery-1.12.4.min.js"></script>
+    <script src="/scripts/selection-buttons.js"></script>
+    <script src="/scripts/smooth-scroll.js"></script>
+    <!-- additional scripts etc -->
+    {% block body_after %}{% endblock %}
+
+  </body>
+
+</html>

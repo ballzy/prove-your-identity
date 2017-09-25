@@ -1,0 +1,6956 @@
+[
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS2 8PJ",
+    "phone": "0113 2428194        ",
+    "partial_postcode": "LS2",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "25010",
+    "organisation_code": "FA008",
+    "name": "Boots",
+    "longitude": "-1.5450389385223389",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5450389385223389,
+        53.802276611328125
+      ]
+    },
+    "latitude": "53.802276611328125",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "",
+    "address1": "49-51 Merrion Centre"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS16 7RY",
+    "phone": "0113 2699719",
+    "partial_postcode": "LS16",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "25047",
+    "organisation_code": "FA131",
+    "name": "Asda Stores Ltd",
+    "longitude": "-1.606438159942627",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.606438159942627,
+        53.8560905456543
+      ]
+    },
+    "latitude": "53.856090545654297",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Holt Park",
+    "address1": "Holt Road"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS12 3EY",
+    "phone": "0113 2639606        ",
+    "partial_postcode": "LS12",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "25069",
+    "organisation_code": "FA231",
+    "name": "Well Armley - Armley Moor HC",
+    "longitude": "-1.5953589677810669",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.595358967781067,
+        53.795753479003906
+      ]
+    },
+    "latitude": "53.795753479003906",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2639606",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Armley",
+    "address1": "Station Road"
+  },
+  {
+    "website": "http://www.co-operativepharmacy.co.uk",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS28 6PA",
+    "phone": "0113 2565624        ",
+    "partial_postcode": "LS28",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "25145",
+    "organisation_code": "FA545",
+    "name": "Well Bramley - Broad Lane",
+    "longitude": "-1.6492351293563843",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6492351293563843,
+        53.810489654541016
+      ]
+    },
+    "latitude": "53.810489654541016",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "Pudsey",
+    "address3": "",
+    "address2": "Stanningley",
+    "address1": "540 Broad Lane"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS6 1EG",
+    "phone": "01132785831         ",
+    "partial_postcode": "LS6",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "25212",
+    "organisation_code": "FA793",
+    "name": "Brudenell Road Pharmacy",
+    "longitude": "-1.569685697555542",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.569685697555542,
+        53.81228256225586
+      ]
+    },
+    "latitude": "53.812282562255859",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "01132785831",
+    "email": "brudenellpharmacy@gmail.com",
+    "county": "",
+    "city": "Leeds",
+    "address3": "(Opposite Hyde Park Cinema)",
+    "address2": "Hyde Park",
+    "address1": "58 Brudenell Road"
+  },
+  {
+    "website": "http://www.lloydspharmacy.com",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS27 9EN",
+    "phone": "0113 253 5574",
+    "partial_postcode": "LS27",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "25245",
+    "organisation_code": "FAA31",
+    "name": "LloydsPharmacy",
+    "longitude": "-1.6049026250839233",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6049026250839233,
+        53.742950439453125
+      ]
+    },
+    "latitude": "53.742950439453125",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "lp6538@lloydspharmacy.co.uk",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "Morley",
+    "address2": "Little Fountain Street",
+    "address1": "Little Fountain Street"
+  },
+  {
+    "website": "http://www.livingcarepharmacy.co.uk",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS9 8RZ",
+    "phone": "0113 2490158",
+    "partial_postcode": "LS9",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "25252",
+    "organisation_code": "FAC00",
+    "name": "Living Care Pharmacy",
+    "longitude": "-1.523113489151001",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.523113489151001,
+        53.79295349121094
+      ]
+    },
+    "latitude": "53.792953491210938",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2490158",
+    "email": "",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "Richmond Hill",
+    "address2": "3 Upper Accomodation Road",
+    "address1": "Livingcare Pharmacy"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS12 1JZ",
+    "phone": "0113 2636780",
+    "partial_postcode": "LS12",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "25302",
+    "organisation_code": "FAE93",
+    "name": "Cohens Chemist",
+    "longitude": "-1.5751872062683105",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5751872062683105,
+        53.79236602783203
+      ]
+    },
+    "latitude": "53.792366027832031",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2639963",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Green Lane, Wortley",
+    "address1": "Bloom Building"
+  },
+  {
+    "website": "http://www.lloydspharmacy.com",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS19 7SP",
+    "phone": "0113 250 2432",
+    "partial_postcode": "LS19",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "25312",
+    "organisation_code": "FAF44",
+    "name": "LloydsPharmacy",
+    "longitude": "-1.6833947896957397",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6833947896957397,
+        53.8662223815918
+      ]
+    },
+    "latitude": "53.866222381591797",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "lp6389@lloydspharmacy.co.uk",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Yeadon",
+    "address1": "39 High Street"
+  },
+  {
+    "website": "http://www.hawkin-pharmacy.co.uk",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS16 6LQ",
+    "phone": "0113 2671453",
+    "partial_postcode": "LS16",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "25346",
+    "organisation_code": "FAH13",
+    "name": "Hawkin Wa and Sons Ltd",
+    "longitude": "-1.6036819219589233",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6036819219589233,
+        53.8485221862793
+      ]
+    },
+    "latitude": "53.848522186279297",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2671453",
+    "email": "",
+    "county": "Yorkshire(West Riding)",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "",
+    "address1": "76-78 Otley Old Road"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS26 0AP",
+    "phone": "0113 2822269        ",
+    "partial_postcode": "LS26",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "25668",
+    "organisation_code": "FC221",
+    "name": "Boots",
+    "longitude": "-1.477337121963501",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.477337121963501,
+        53.74840545654297
+      ]
+    },
+    "latitude": "53.748405456542969",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2880169",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Rothwell",
+    "address1": "69-71 Commercial Street"
+  },
+  {
+    "website": "http://www.alliancepharmacy.co.uk",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS8 3AS",
+    "phone": "01132402904",
+    "partial_postcode": "LS8",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "25758",
+    "organisation_code": "FC541",
+    "name": "Boots",
+    "longitude": "-1.495272159576416",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.495272159576416,
+        53.82086181640625
+      ]
+    },
+    "latitude": "53.82086181640625",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2402904",
+    "email": "",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "",
+    "address1": "5 Hollin Park Parade"
+  },
+  {
+    "website": "http://www.boots.com",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS29 8AG",
+    "phone": "01943 608476",
+    "partial_postcode": "LS29",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "25892",
+    "organisation_code": "FCE76",
+    "name": "Boots",
+    "longitude": "-1.8237286806106567",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.8237286806106567,
+        53.925838470458984
+      ]
+    },
+    "latitude": "53.925838470458984",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "Ilkley",
+    "address3": "",
+    "address2": "",
+    "address1": "37-39 Brook Street"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS8 5HR",
+    "phone": "0113 2484107        ",
+    "partial_postcode": "LS8",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "26002",
+    "organisation_code": "FCK46",
+    "name": "Sky Pharmacy",
+    "longitude": "-1.5169451236724854",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5169451236724854,
+        53.81588363647461
+      ]
+    },
+    "latitude": "53.815883636474609",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "",
+    "address1": "35 Harehills Road"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS21 3AQ",
+    "phone": "01943 968101",
+    "partial_postcode": "LS21",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "26127",
+    "organisation_code": "FCQ72",
+    "name": "Otley Pharmacy",
+    "longitude": "-1.6940106153488159",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.694010615348816,
+        53.90560531616211
+      ]
+    },
+    "latitude": "53.905605316162109",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "",
+    "address3": "Leeds",
+    "address2": "Otley",
+    "address1": "14a Market Place"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS5 3RP",
+    "phone": "01132 757175",
+    "partial_postcode": "LS5",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "26140",
+    "organisation_code": "FCR27",
+    "name": "Boots",
+    "longitude": "-1.6024833917617798",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6024833917617798,
+        53.81455993652344
+      ]
+    },
+    "latitude": "53.814559936523438",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2757141",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Savins Mill Way",
+    "address1": "Unit 2 Kirkstall Retail Park"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS8 3AY",
+    "phone": "0113 2657073        ",
+    "partial_postcode": "LS8",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "26179",
+    "organisation_code": "FCV08",
+    "name": "Well Leeds - Dib Lane",
+    "longitude": "-1.4867838621139526",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.4867838621139526,
+        53.82310104370117
+      ]
+    },
+    "latitude": "53.823101043701172",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "LEEDS",
+    "address3": "",
+    "address2": "Leeds",
+    "address1": "120 Dib Lane"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS15 8DX",
+    "phone": "0113 2645309        ",
+    "partial_postcode": "LS15",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "26182",
+    "organisation_code": "FCV29",
+    "name": "Well Cross Gates - 42 Austhorpe Road",
+    "longitude": "-1.4503813982009888",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.4503813982009888,
+        53.80720138549805
+      ]
+    },
+    "latitude": "53.807201385498047",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "",
+    "address1": "42 Austhorpe Road"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS14 2EH",
+    "phone": "01132323177",
+    "partial_postcode": "LS14",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "26195",
+    "organisation_code": "FCV80",
+    "name": "Whinmoor Pharmacy",
+    "longitude": "-1.4569867849349976",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.4569867849349976,
+        53.836605072021484
+      ]
+    },
+    "latitude": "53.836605072021484",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Whinmoor",
+    "address1": "46a White Laithe Approach"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS15 9JA",
+    "phone": "0113 2328675",
+    "partial_postcode": "LS15",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "26529",
+    "organisation_code": "FDC80",
+    "name": "Sainsbury Pharmacy",
+    "longitude": "-1.4351663589477539",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.435166358947754,
+        53.79471969604492
+      ]
+    },
+    "latitude": "53.794719696044922",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Colton",
+    "address1": "Selby Road"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS11 8PN",
+    "phone": "0113 2703198        ",
+    "partial_postcode": "LS11",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "26606",
+    "organisation_code": "FDH02",
+    "name": "Well Beeston - Beeston District Centre",
+    "longitude": "-1.5691676139831543",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5691676139831543,
+        53.77242660522461
+      ]
+    },
+    "latitude": "53.772426605224609",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2703198",
+    "email": "",
+    "county": "",
+    "city": "Beeston",
+    "address3": "",
+    "address2": "Town Street",
+    "address1": "Beeston District Centre"
+  },
+  {
+    "website": "http://www.superdrug.com",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS1 6BY",
+    "phone": "0113 2431589        ",
+    "partial_postcode": "LS1",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "26706",
+    "organisation_code": "FDN73",
+    "name": "Superdrug Stores Plc",
+    "longitude": "-1.5409351587295532",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5409351587295532,
+        53.79711151123047
+      ]
+    },
+    "latitude": "53.797111511230469",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2431589",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "13 Kirkgate",
+    "address1": ""
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS14 6DX",
+    "phone": "0113 2645123",
+    "partial_postcode": "LS14",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "26730",
+    "organisation_code": "FDP37",
+    "name": "Seacroft Pharmacy",
+    "longitude": "-1.4552018642425537",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.4552018642425537,
+        53.81371307373047
+      ]
+    },
+    "latitude": "53.813713073730469",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2645123",
+    "email": "info@pharm-assist.org.uk",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "",
+    "address1": "868 York Road"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS25 6EA",
+    "phone": "01977682358",
+    "partial_postcode": "LS25",
+    "parent_o_d_s_code": "Q50",
+    "parent_name": "North Yorkshire And Humber Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "26990",
+    "organisation_code": "FE397",
+    "name": "Boots",
+    "longitude": "-1.2521004676818848",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.2521004676818848,
+        53.79895782470703
+      ]
+    },
+    "latitude": "53.798957824707031",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Sherburn In Elmett",
+    "address1": "18 Finkle Hill "
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS28 7LD",
+    "phone": "0113 2574862        ",
+    "partial_postcode": "LS28",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "27014",
+    "organisation_code": "FE521",
+    "name": "Boots",
+    "longitude": "-1.6638669967651367",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6638669967651367,
+        53.7962760925293
+      ]
+    },
+    "latitude": "53.796276092529297",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2361271",
+    "email": "",
+    "county": "",
+    "city": "Pudsey",
+    "address3": "",
+    "address2": "",
+    "address1": "11 Church Lane"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS10 3NB",
+    "phone": "0113 2713066",
+    "partial_postcode": "LS10",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "27346",
+    "organisation_code": "FEN25",
+    "name": "Allied(Middleton)pharmacy",
+    "longitude": "-1.5349735021591187",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5349735021591187,
+        53.74998092651367
+      ]
+    },
+    "latitude": "53.749980926513672",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2706834",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "20 Shelldrake Drive",
+    "address1": "Lingwell Croft Surgery"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS25 5AA",
+    "phone": "01977 685963",
+    "partial_postcode": "LS25",
+    "parent_o_d_s_code": "Q50",
+    "parent_name": "North Yorkshire And Humber Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "27428",
+    "organisation_code": "FET38",
+    "name": "Milford Pharmacy",
+    "longitude": "-1.249157190322876",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.249157190322876,
+        53.77928161621094
+      ]
+    },
+    "latitude": "53.779281616210938",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "South Milford",
+    "address1": "14 High Street"
+  },
+  {
+    "website": "http://www.lloydspharmacy.com",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS13 3JT",
+    "phone": "0113 256 3332",
+    "partial_postcode": "LS13",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "27478",
+    "organisation_code": "FEW68",
+    "name": "LloydsPharmacy",
+    "longitude": "-1.6313514709472656",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6313514709472656,
+        53.81328582763672
+      ]
+    },
+    "latitude": "53.813285827636719",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "lp7079@lloydspharmacy.co.uk",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Bramley",
+    "address1": "283-285 Town Street"
+  },
+  {
+    "website": "http://www.boots.com",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS20 8QH",
+    "phone": "01943871468",
+    "partial_postcode": "LS20",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "27560",
+    "organisation_code": "FF200",
+    "name": "Boots",
+    "longitude": "-1.7095623016357422",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.7095623016357422,
+        53.87105178833008
+      ]
+    },
+    "latitude": "53.871051788330078",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "Guiseley",
+    "address2": "Park Road",
+    "address1": "6 Guiseley Retail Park"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS19 7SP",
+    "phone": "0500 970 201",
+    "partial_postcode": "LS19",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "27610",
+    "organisation_code": "FF386",
+    "name": "Well Yeadon - High Street",
+    "longitude": "-1.6833947896957397",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6833947896957397,
+        53.8662223815918
+      ]
+    },
+    "latitude": "53.866222381591797",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Yeadon",
+    "address1": "29 High Street"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS8 3BZ",
+    "phone": "0113 2488884",
+    "partial_postcode": "LS8",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "27644",
+    "organisation_code": "FF544",
+    "name": "Oakwood Lane Pharmacy",
+    "longitude": "-1.4939154386520386",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.4939154386520386,
+        53.820003509521484
+      ]
+    },
+    "latitude": "53.820003509521484",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "info@oakwoodlanepharmacy.co.uk",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Amberton Terrace",
+    "address1": "Oakwood Lane Medical Centre"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS15 8BZ",
+    "phone": "0113 264 7009",
+    "partial_postcode": "LS15",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "27741",
+    "organisation_code": "FFA38",
+    "name": "Well Crossgates - Crossgates Medical Centre",
+    "longitude": "-1.4513764381408691",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.4513764381408691,
+        53.804256439208984
+      ]
+    },
+    "latitude": "53.804256439208984",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "Crossgates",
+    "address2": "Station Road",
+    "address1": "Well, Crossgates Medical Centre"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS22 6RS",
+    "phone": "01937583783",
+    "partial_postcode": "LS22",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "27778",
+    "organisation_code": "FFD28",
+    "name": "Boots",
+    "longitude": "-1.3867193460464478",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.3867193460464478,
+        53.93027877807617
+      ]
+    },
+    "latitude": "53.930278778076172",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "West Yorkshire",
+    "city": "Wetherby",
+    "address3": "",
+    "address2": "",
+    "address1": "59 St James Street"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS22 5AW",
+    "phone": "01937 572388",
+    "partial_postcode": "LS22",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "27854",
+    "organisation_code": "FFH10",
+    "name": "Village Pharmacy",
+    "longitude": "-1.4115431308746338",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.4115431308746338,
+        53.90761184692383
+      ]
+    },
+    "latitude": "53.907611846923828",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "01937 572388",
+    "email": "",
+    "county": "",
+    "city": "Wetherby",
+    "address3": "",
+    "address2": "Collingham",
+    "address1": "5 Hastings Court"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS26 9AB",
+    "phone": "01977 551788        ",
+    "partial_postcode": "LS26",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "27885",
+    "organisation_code": "FFJ65",
+    "name": "Methley Pharmacy",
+    "longitude": "-1.3938915729522705",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.3938915729522705,
+        53.735572814941406
+      ]
+    },
+    "latitude": "53.735572814941406",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "01977 552806",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Methley",
+    "address1": "Pinfold Lane"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS1 4DT",
+    "phone": "0113 2421713        ",
+    "partial_postcode": "LS1",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "27956",
+    "organisation_code": "FFP17",
+    "name": "Boots",
+    "longitude": "-1.5475707054138184",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5475707054138184,
+        53.79417037963867
+      ]
+    },
+    "latitude": "53.794170379638672",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2421713",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "City Station",
+    "address1": "The Public Concourse"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS11 9LY",
+    "phone": "0113 2456770",
+    "partial_postcode": "LS11",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "28022",
+    "organisation_code": "FFR88",
+    "name": "Cohens Chemist",
+    "longitude": "-1.5602047443389893",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5602047443389893,
+        53.78509521484375
+      ]
+    },
+    "latitude": "53.78509521484375",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "Holbeck",
+    "address3": "",
+    "address2": "Leeds",
+    "address1": "5a Shafton Lane"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS11 5HZ",
+    "phone": "0113 2762954",
+    "partial_postcode": "LS11",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "28190",
+    "organisation_code": "FG281",
+    "name": "Al-Shafa Pharmacy",
+    "longitude": "-1.5449783802032471",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.544978380203247,
+        53.77560043334961
+      ]
+    },
+    "latitude": "53.775600433349609",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2762954",
+    "email": "ipharm@hotmail.com",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "",
+    "address1": "267 Dewsbury Road"
+  },
+  {
+    "website": "http://www.lloydspharmacy.com",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS5 3BL",
+    "phone": "0113 278 5559",
+    "partial_postcode": "LS5",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "28196",
+    "organisation_code": "FG308",
+    "name": "LloydsPharmacy",
+    "longitude": "-1.6048623323440552",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6048623323440552,
+        53.8167610168457
+      ]
+    },
+    "latitude": "53.816761016845703",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "lp6393@lloydspharmacy.co.uk",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "14a Kirkstall Bridge Shopping Park Bridge Road",
+    "address1": ""
+  },
+  {
+    "website": "http://www.lloydspharmacy.com",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS25 2AR",
+    "phone": "0113 286 4065",
+    "partial_postcode": "LS25",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "28387",
+    "organisation_code": "FGC37",
+    "name": "LloydsPharmacy",
+    "longitude": "-1.37369704246521",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.37369704246521,
+        53.78772735595703
+      ]
+    },
+    "latitude": "53.787727355957031",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "lp6418@lloydspharmacy.co.uk",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Garforth",
+    "address1": "9 Fairburn Drive"
+  },
+  {
+    "website": "http://www.lloydspharmacy.com",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS9 6AP",
+    "phone": "0113 235 0385",
+    "partial_postcode": "LS9",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "28515",
+    "organisation_code": "FGJ70",
+    "name": "LloydsPharmacy",
+    "longitude": "-1.5080550909042358",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5080550909042358,
+        53.808502197265625
+      ]
+    },
+    "latitude": "53.808502197265625",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "lp7122@lloydspharmacy.co.uk",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "",
+    "address1": "399 Harehills Lane"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS16 8EX",
+    "phone": "0113 2300351        ",
+    "partial_postcode": "LS16",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "28616",
+    "organisation_code": "FGQ01",
+    "name": "Adel Pharmacy",
+    "longitude": "-1.5814406871795654",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5814406871795654,
+        53.85037612915039
+      ]
+    },
+    "latitude": "53.850376129150391",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Adel",
+    "address1": "141 Long Causeway"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS26 0AP",
+    "phone": "0113 2823189",
+    "partial_postcode": "LS26",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "28672",
+    "organisation_code": "FGT36",
+    "name": "Garners Pharmacy Ltd",
+    "longitude": "-1.477337121963501",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.477337121963501,
+        53.74840545654297
+      ]
+    },
+    "latitude": "53.748405456542969",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Rothwell",
+    "address1": "49 Commercial Street"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS8 1AA",
+    "phone": "0113 2662121",
+    "partial_postcode": "LS8",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "28690",
+    "organisation_code": "FGV38",
+    "name": "Well Roundhay - Street Lane",
+    "longitude": "-1.5189574956893921",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.518957495689392,
+        53.84440994262695
+      ]
+    },
+    "latitude": "53.844409942626953",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2252009",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "",
+    "address1": "141 Street Lane"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS11 8LL",
+    "phone": "0113 2776196        ",
+    "partial_postcode": "LS11",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "28740",
+    "organisation_code": "FGY10",
+    "name": "Boots",
+    "longitude": "-1.5738074779510498",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5738074779510498,
+        53.756229400634766
+      ]
+    },
+    "latitude": "53.756229400634766",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2777433",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "White Rose Shopping Centre",
+    "address1": "Msu 1 Lower Level"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS16 7RX",
+    "phone": "0113 2673694",
+    "partial_postcode": "LS16",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "28770",
+    "organisation_code": "FH095",
+    "name": "Cohens Chemist",
+    "longitude": "-1.6077032089233398",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6077032089233398,
+        53.855751037597656
+      ]
+    },
+    "latitude": "53.855751037597656",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "",
+    "address3": "Leeds",
+    "address2": "Holtdale Approach",
+    "address1": "Highfield Surgery"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS3 1DT",
+    "phone": "0113 2441551",
+    "partial_postcode": "LS3",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "28786",
+    "organisation_code": "FH186",
+    "name": "Hyde Park Pharmacy",
+    "longitude": "-1.5684633255004883",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5684633255004883,
+        53.805599212646484
+      ]
+    },
+    "latitude": "53.805599212646484",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "46 Woodsley Road",
+    "address1": "46 Woodsley Road"
+  },
+  {
+    "website": "http://www.cohenschemist.co.uk",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS14 1HX",
+    "phone": "0113 2659976",
+    "partial_postcode": "LS14",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "29122",
+    "organisation_code": "FHK38",
+    "name": "Cohens Chemist",
+    "longitude": "-1.4836400747299194",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.4836400747299194,
+        53.82551193237305
+      ]
+    },
+    "latitude": "53.825511932373047",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2735063",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Askett Drive",
+    "address1": "Park Edge Medical Centre"
+  },
+  {
+    "website": "http://www.lloydspharmacy.com",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS9 9EF",
+    "phone": "0113 249 7841",
+    "partial_postcode": "LS9",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "29197",
+    "organisation_code": "FHP13",
+    "name": "LloydsPharmacy",
+    "longitude": "-1.4978733062744141",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.497873306274414,
+        53.80022048950195
+      ]
+    },
+    "latitude": "53.800220489501953",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "lp7126@lloydspharmacy.co.uk",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "78 Osmondthorpe Lane",
+    "address1": "East Leeds Primary Care Centre"
+  },
+  {
+    "website": "http://www.lloydspharmacy.com",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS12 5AT",
+    "phone": "0113 263 7023",
+    "partial_postcode": "LS12",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "29224",
+    "organisation_code": "FHQ66",
+    "name": "LloydsPharmacy",
+    "longitude": "-1.6203063726425171",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.620306372642517,
+        53.79185104370117
+      ]
+    },
+    "latitude": "53.791851043701172",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "lp0263@lloydspharmacy.co.uk",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Leeds",
+    "address1": "531 Tong Road"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS6 3EJ",
+    "phone": "0113 2752103",
+    "partial_postcode": "LS6",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "29311",
+    "organisation_code": "FHX11",
+    "name": "Well Headingley - Kirkstall Lane",
+    "longitude": "-1.5860327482223511",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.586032748222351,
+        53.817867279052734
+      ]
+    },
+    "latitude": "53.817867279052734",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2251514",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "",
+    "address1": "203 Kirkstall Lane"
+  },
+  {
+    "website": "http://www.lloydspharmacy.com",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS5 3QT",
+    "phone": "0113 258 1366",
+    "partial_postcode": "LS5",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "29325",
+    "organisation_code": "FHX66",
+    "name": "LloydsPharmacy",
+    "longitude": "-1.6153368949890137",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6153368949890137,
+        53.827327728271484
+      ]
+    },
+    "latitude": "53.827327728271484",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "lp6471@lloydspharmacy.co.uk",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Leeds",
+    "address1": "69 Vesper Road"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS25 1HB",
+    "phone": "0113 2873233",
+    "partial_postcode": "LS25",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "29347",
+    "organisation_code": "FJ018",
+    "name": "Cohens Chemist",
+    "longitude": "-1.3873211145401001",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.3873211145401,
+        53.79230880737305
+      ]
+    },
+    "latitude": "53.792308807373047",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2874168",
+    "email": "",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "Garforth",
+    "address2": "Church Lane",
+    "address1": "Garforth Medical Centre"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS25 7AB",
+    "phone": "0113 2862585        ",
+    "partial_postcode": "LS25",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "29407",
+    "organisation_code": "FJ264",
+    "name": "Boots",
+    "longitude": "-1.3690057992935181",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.369005799293518,
+        53.766544342041016
+      ]
+    },
+    "latitude": "53.766544342041016",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Kippax",
+    "address1": "56 High Street"
+  },
+  {
+    "website": "http://www.lloydspharmacy.com",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS6 2UE",
+    "phone": "0113 274 0233",
+    "partial_postcode": "LS6",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "29419",
+    "organisation_code": "FJ309",
+    "name": "LloydsPharmacy",
+    "longitude": "-1.578106164932251",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.578106164932251,
+        53.82218933105469
+      ]
+    },
+    "latitude": "53.822189331054688",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "lp6470@lloydspharmacy.co.uk",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Otley Road",
+    "address1": "8 The Arndale Centre"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS8 4HS",
+    "phone": "0113 2490557",
+    "partial_postcode": "LS8",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "29480",
+    "organisation_code": "FJ572",
+    "name": "Roundhay Pharmacy",
+    "longitude": "-1.5173119306564331",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.517311930656433,
+        53.81700897216797
+      ]
+    },
+    "latitude": "53.817008972167969",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2490557",
+    "email": "",
+    "county": "West Yorkshire",
+    "city": "LEEDS",
+    "address3": "",
+    "address2": "211 Roundhay Road",
+    "address1": ""
+  },
+  {
+    "website": "http://www.livingcarepharmacy.co.uk",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS9 9JG",
+    "phone": "0113 2480787",
+    "partial_postcode": "LS9",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "29494",
+    "organisation_code": "FJ635",
+    "name": "Living Care Pharmacy",
+    "longitude": "-1.5176287889480591",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.517628788948059,
+        53.794681549072266
+      ]
+    },
+    "latitude": "53.794681549072266",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2350166",
+    "email": "",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "East End Park",
+    "address2": "5-7 East Park Road",
+    "address1": ""
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS25 7JN",
+    "phone": "01132872594",
+    "partial_postcode": "LS25",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "29603",
+    "organisation_code": "FJC78",
+    "name": "Boots",
+    "longitude": "-1.3678416013717651",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.3678416013717651,
+        53.77133560180664
+      ]
+    },
+    "latitude": "53.771335601806641",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "Kippax",
+    "address2": "Gibson Lane",
+    "address1": "Health Centre"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS24 9AP",
+    "phone": "01937 832287",
+    "partial_postcode": "LS24",
+    "parent_o_d_s_code": "Q50",
+    "parent_name": "North Yorkshire And Humber Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "29640",
+    "organisation_code": "FJE31",
+    "name": "Calcaria Pharmacy",
+    "longitude": "-1.2619884014129639",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.2619884014129639,
+        53.88344192504883
+      ]
+    },
+    "latitude": "53.883441925048828",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "01937 832287",
+    "email": "",
+    "county": "",
+    "city": "North Yorkshire",
+    "address3": "",
+    "address2": "Tadcaster",
+    "address1": "7-9 High Street"
+  },
+  {
+    "website": "http://www.superdrug.com",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS2 8NG",
+    "phone": "0113 245 7671",
+    "partial_postcode": "LS2",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "29717",
+    "organisation_code": "FJH35",
+    "name": "Superdrug Stores Plc",
+    "longitude": "-1.5440435409545898",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5440435409545898,
+        53.80166244506836
+      ]
+    },
+    "latitude": "53.801662445068359",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2457671",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "31-35 The Merrion Centre",
+    "address1": ""
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS10 2AP",
+    "phone": "0113 2705763        ",
+    "partial_postcode": "LS10",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "29757",
+    "organisation_code": "FJK17",
+    "name": "Well Hunslet - Penny Hill Centre",
+    "longitude": "-1.5286300182342529",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.528630018234253,
+        53.77885437011719
+      ]
+    },
+    "latitude": "53.778854370117187",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Hunslet",
+    "address1": "17-18 Pennyhill Centre"
+  },
+  {
+    "website": "http://www.lloydspharmacy.com",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS28 7RF",
+    "phone": "0113 256 7904",
+    "partial_postcode": "LS28",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "29829",
+    "organisation_code": "FJN86",
+    "name": "LloydsPharmacy",
+    "longitude": "-1.6648788452148437",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6648788452148438,
+        53.7950325012207
+      ]
+    },
+    "latitude": "53.795032501220703",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "lp6381@lloydspharmacy.co.uk",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Pudsey",
+    "address1": "32 Church Lane"
+  },
+  {
+    "website": "http://www.lloydspharmacy.com",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS2 9HB",
+    "phone": "0113 246 9988",
+    "partial_postcode": "LS2",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "29858",
+    "organisation_code": "FJQ45",
+    "name": "LloydsPharmacy",
+    "longitude": "-1.5520192384719849",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5520192384719849,
+        53.80836868286133
+      ]
+    },
+    "latitude": "53.808368682861328",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "lp7120@lloydspharmacy.co.uk",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "166 Woodhouse Lane",
+    "address1": "166 Woodhouse Lane"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS27 7PT",
+    "phone": "0113 2380338",
+    "partial_postcode": "LS27",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "29898",
+    "organisation_code": "FJT38",
+    "name": "Well Churwell - Laneside Terrace",
+    "longitude": "-1.5929844379425049",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5929844379425049,
+        53.75873947143555
+      ]
+    },
+    "latitude": "53.758739471435547",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2380338",
+    "email": "",
+    "county": "",
+    "city": "Churwell, Leeds",
+    "address3": "",
+    "address2": "Elland Road",
+    "address1": "4 Laneside Terrace"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS1 5ET",
+    "phone": "0113 2433551        ",
+    "partial_postcode": "LS1",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "30037",
+    "organisation_code": "FK275",
+    "name": "Boots",
+    "longitude": "-1.5457614660263062",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5457614660263062,
+        53.797245025634766
+      ]
+    },
+    "latitude": "53.797245025634766",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2420609",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "",
+    "address1": "19 Albion Arcade"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS1 7JH",
+    "phone": "0113 2455097        ",
+    "partial_postcode": "LS1",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "30038",
+    "organisation_code": "FK276",
+    "name": "Boots",
+    "longitude": "-1.5395088195800781",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5395088195800781,
+        53.79842758178711
+      ]
+    },
+    "latitude": "53.798427581787109",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2347785",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "12-14 Vicar Lane",
+    "address1": "Leeming House"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS6 3AA",
+    "phone": "0113 2751823        ",
+    "partial_postcode": "LS6",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "30057",
+    "organisation_code": "FK382",
+    "name": "Boots",
+    "longitude": "-1.5768355131149292",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5768355131149292,
+        53.820152282714844
+      ]
+    },
+    "latitude": "53.820152282714844",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2751823",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "",
+    "address1": "35 Otley Road"
+  },
+  {
+    "website": "http://www.dayandnightpharmacy.co.uk",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS15 8BA",
+    "phone": "0113 3180277",
+    "partial_postcode": "LS15",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "30088",
+    "organisation_code": "FK545",
+    "name": "Crossgates Day and Night Pharmacy",
+    "longitude": "-1.4494059085845947",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.4494059085845947,
+        53.80747604370117
+      ]
+    },
+    "latitude": "53.807476043701172",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Crossgates",
+    "address1": "17 Austhorpe Road"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS6 1PY",
+    "phone": "0113 2450494        ",
+    "partial_postcode": "LS6",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "30162",
+    "organisation_code": "FK853",
+    "name": "Tylee Andrew Ltd",
+    "longitude": "-1.5691908597946167",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5691908597946167,
+        53.80573654174805
+      ]
+    },
+    "latitude": "53.805736541748047",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2450494",
+    "email": "",
+    "county": "",
+    "city": "",
+    "address3": "",
+    "address2": "Leeds",
+    "address1": "25 Hyde Park Road"
+  },
+  {
+    "website": "http://www.lloydspharmacy.com",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS18 4SE",
+    "phone": "0113 258 3209",
+    "partial_postcode": "LS18",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "30191",
+    "organisation_code": "FK994",
+    "name": "LloydsPharmacy",
+    "longitude": "-1.6367998123168945",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6367998123168945,
+        53.84010696411133
+      ]
+    },
+    "latitude": "53.840106964111328",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "lp6384@lloydspharmacy.co.uk",
+    "county": "West Yorkshire",
+    "city": "Horsforth    Leeds",
+    "address3": "",
+    "address2": "Broadgate Lane",
+    "address1": "Golden Bank House"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS15 0LF",
+    "phone": "01132646300",
+    "partial_postcode": "LS15",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "30346",
+    "organisation_code": "FKH81",
+    "name": "Boots",
+    "longitude": "-1.4689399003982544",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.4689399003982544,
+        53.79621887207031
+      ]
+    },
+    "latitude": "53.796218872070312",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 264 6300",
+    "email": "br460@mossys.moss.com",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "",
+    "address1": "204 Selby Road"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS26 8SZ",
+    "phone": "01132822852",
+    "partial_postcode": "LS26",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "30367",
+    "organisation_code": "FKJ95",
+    "name": "Boots",
+    "longitude": "-1.4494279623031616",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.4494279623031616,
+        53.75244140625
+      ]
+    },
+    "latitude": "53.75244140625",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Oulton",
+    "address1": "Oulton Medical Centre "
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS22 6FL",
+    "phone": "01937 581676        ",
+    "partial_postcode": "LS22",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "30373",
+    "organisation_code": "FKK20",
+    "name": "Boots",
+    "longitude": "-1.3848946094512939",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.384894609451294,
+        53.929046630859375
+      ]
+    },
+    "latitude": "53.929046630859375",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "Wetherby",
+    "address3": "",
+    "address2": "",
+    "address1": "1 The Horsefair Centre"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS9 0EW",
+    "phone": "01132483472",
+    "partial_postcode": "LS9",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "30415",
+    "organisation_code": "FKM53",
+    "name": "Boots",
+    "longitude": "-1.4822202920913696",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.4822202920913696,
+        53.80017852783203
+      ]
+    },
+    "latitude": "53.800178527832031",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "",
+    "address1": "49 Selby Road"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS7 4LA",
+    "phone": "0113 2622684        ",
+    "partial_postcode": "LS7",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "30430",
+    "organisation_code": "FKP07",
+    "name": "Medichem (Leeds) Ltd",
+    "longitude": "-1.5340733528137207",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5340733528137207,
+        53.82585525512695
+      ]
+    },
+    "latitude": "53.825855255126953",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "",
+    "address3": "",
+    "address2": "Leeds",
+    "address1": "42 Harrogate Road"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS13 2ET",
+    "phone": "0113 2570085        ",
+    "partial_postcode": "LS13",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "30441",
+    "organisation_code": "FKP51",
+    "name": "Boots",
+    "longitude": "-1.6263835430145264",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6263835430145264,
+        53.811771392822266
+      ]
+    },
+    "latitude": "53.811771392822266",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2361167",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "",
+    "address1": "31-33 Bramley Centre"
+  },
+  {
+    "website": "http://www.lloydspharmacy.com",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS13 2UP",
+    "phone": "0113 255 8913",
+    "partial_postcode": "LS13",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "30448",
+    "organisation_code": "FKP92",
+    "name": "LloydsPharmacy",
+    "longitude": "-1.6288683414459229",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6288683414459229,
+        53.81414031982422
+      ]
+    },
+    "latitude": "53.814140319824219",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "lp7108@lloydspharmacy.co.uk",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Bramley",
+    "address1": "Bellmount Close"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS7 3DX",
+    "phone": "0113 2623816",
+    "partial_postcode": "LS7",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "30596",
+    "organisation_code": "FL049",
+    "name": "Shifa Pharmacy",
+    "longitude": "-1.5320241451263428",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5320241451263428,
+        53.816158294677734
+      ]
+    },
+    "latitude": "53.816158294677734",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "",
+    "address3": "",
+    "address2": "Leeds",
+    "address1": "225 Chapeltown Road"
+  },
+  {
+    "website": "http://www.lloydspharmacy.com",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS21 3HN",
+    "phone": "01943 462014        ",
+    "partial_postcode": "LS21",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "30611",
+    "organisation_code": "FL129",
+    "name": "LloydsPharmacy",
+    "longitude": "-1.6944398880004883",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6944398880004883,
+        53.90518569946289
+      ]
+    },
+    "latitude": "53.905185699462891",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "lp6643@lloydspharmacy.co.uk",
+    "county": "West Yorkshire",
+    "city": "Otley",
+    "address3": "",
+    "address2": "Otley",
+    "address1": "35 Kirkgate"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS24 9AQ",
+    "phone": "01937 832276",
+    "partial_postcode": "LS24",
+    "parent_o_d_s_code": "Q50",
+    "parent_name": "North Yorkshire And Humber Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "30658",
+    "organisation_code": "FL315",
+    "name": "Kirkgate Pharmacy",
+    "longitude": "-1.2622159719467163",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.2622159719467163,
+        53.884342193603516
+      ]
+    },
+    "latitude": "53.884342193603516",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "01937 832276",
+    "email": "",
+    "county": "",
+    "city": "North Yorkshire",
+    "address3": "",
+    "address2": "Tadcaster",
+    "address1": "7 Kirkgate"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS4 2EL",
+    "phone": "0113 2785840",
+    "partial_postcode": "LS4",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "30840",
+    "organisation_code": "FLC63",
+    "name": "Well Burley - Burley Road",
+    "longitude": "-1.5796958208084106",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5796958208084106,
+        53.807533264160156
+      ]
+    },
+    "latitude": "53.807533264160156",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2746352",
+    "email": "",
+    "county": "",
+    "city": "LEEDS",
+    "address3": "",
+    "address2": "Leeds",
+    "address1": "275 Burley Road"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS14 6GG",
+    "phone": "01132645497",
+    "partial_postcode": "LS14",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "30904",
+    "organisation_code": "FLE94",
+    "name": "Boots",
+    "longitude": "-1.4714462757110596",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.4714462757110596,
+        53.81059265136719
+      ]
+    },
+    "latitude": "53.810592651367188",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "",
+    "address1": "91 Moresdale Lane"
+  },
+  {
+    "website": "http://www.lloydspharmacy.com",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS16 5BQ",
+    "phone": "0113 230 5277",
+    "partial_postcode": "LS16",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "30980",
+    "organisation_code": "FLH84",
+    "name": "LloydsPharmacy",
+    "longitude": "-1.6042970418930054",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6042970418930054,
+        53.83324432373047
+      ]
+    },
+    "latitude": "53.833244323730469",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "lp6473@lloydspharmacy.co.uk",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Leeds",
+    "address1": "195/197 Butcher Hill"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS12 5SG",
+    "phone": "0113 2638822",
+    "partial_postcode": "LS12",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "31049",
+    "organisation_code": "FLM70",
+    "name": "Freemans Pharmacy",
+    "longitude": "-1.6011930704116821",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6011930704116821,
+        53.782470703125
+      ]
+    },
+    "latitude": "53.782470703125",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2638822",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Ring Road, Lower Wortley",
+    "address1": "Wortley Beck Health Ctr"
+  },
+  {
+    "website": "http://www.lloydspharmacy.com",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS10 2AR",
+    "phone": "0113 277 1439",
+    "partial_postcode": "LS10",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "31069",
+    "organisation_code": "FLN62",
+    "name": "LloydsPharmacy",
+    "longitude": "-1.5275635719299316",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5275635719299316,
+        53.77923583984375
+      ]
+    },
+    "latitude": "53.77923583984375",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "lp6850@lloydspharmacy.co.uk",
+    "county": "South Yorkshire",
+    "city": "Hunslet",
+    "address3": "",
+    "address2": "52 Church Street",
+    "address1": "Unit 1 Fraternity House"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS14 6UF",
+    "phone": "0113 2019510",
+    "partial_postcode": "LS14",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "31135",
+    "organisation_code": "FLR39",
+    "name": "Asda Pharmacy",
+    "longitude": "-1.4810973405838013",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.4810973405838013,
+        53.8050537109375
+      ]
+    },
+    "latitude": "53.8050537109375",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2019511",
+    "email": "",
+    "county": "",
+    "city": "",
+    "address3": "",
+    "address2": "Leeds",
+    "address1": "Killingbeck Drive"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS16 6FR",
+    "phone": "0113 2857005",
+    "partial_postcode": "LS16",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "31269",
+    "organisation_code": "FM223",
+    "name": "Ireland Wood Pharmacy",
+    "longitude": "-1.6038322448730469",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6038322448730469,
+        53.846981048583984
+      ]
+    },
+    "latitude": "53.846981048583984",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Tinshill",
+    "address1": "Iveson Approach"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS15 9JB",
+    "phone": "0113 2608035",
+    "partial_postcode": "LS15",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "31474",
+    "organisation_code": "FMD07",
+    "name": "Boots",
+    "longitude": "-1.433941125869751",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.433941125869751,
+        53.79326629638672
+      ]
+    },
+    "latitude": "53.793266296386719",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2608043",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "Colton",
+    "address2": "Stile Hill Way ",
+    "address1": "Unit 3 Colton Retail Park"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS29 0LZ",
+    "phone": "01943 831462",
+    "partial_postcode": "LS29",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "31539",
+    "organisation_code": "FMF94",
+    "name": "Clayfields Pharmacy",
+    "longitude": "-1.8814080953598022",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.8814080953598022,
+        53.943687438964844
+      ]
+    },
+    "latitude": "53.943687438964844",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "01943 831462",
+    "email": "",
+    "county": "",
+    "city": "Ilkley",
+    "address3": "",
+    "address2": "Addingham",
+    "address1": "151b Main Street"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS16 9AF",
+    "phone": "0113 2842884        ",
+    "partial_postcode": "LS16",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "31583",
+    "organisation_code": "FMH69",
+    "name": "Stancliffe Pharmacy",
+    "longitude": "-1.6188004016876221",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.618800401687622,
+        53.88429641723633
+      ]
+    },
+    "latitude": "53.884296417236328",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "01132037724",
+    "email": "david@broomed.fsnet.co.uk",
+    "county": "",
+    "city": "Bramhope",
+    "address3": "",
+    "address2": "Breary Lane",
+    "address1": "4 The Parade"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS10 4LU",
+    "phone": "01132716959",
+    "partial_postcode": "LS10",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "31753",
+    "organisation_code": "FMR56",
+    "name": "Boots",
+    "longitude": "-1.5469918251037598",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5469918251037598,
+        53.747833251953125
+      ]
+    },
+    "latitude": "53.747833251953125",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2716959",
+    "email": "",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Middleton",
+    "address1": "6-8 Middleton Park Circus"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS13 2ET",
+    "phone": "0113 2574769        ",
+    "partial_postcode": "LS13",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "31801",
+    "organisation_code": "FMW06",
+    "name": "Well Bramley - Bramley Centre",
+    "longitude": "-1.6263835430145264",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6263835430145264,
+        53.811771392822266
+      ]
+    },
+    "latitude": "53.811771392822266",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Bramley",
+    "address1": "35 Bramley Centre"
+  },
+  {
+    "website": "http://www.livingcarepharmacy.co.uk",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS11 8AG",
+    "phone": "0113 2705254",
+    "partial_postcode": "LS11",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "31828",
+    "organisation_code": "FMX84",
+    "name": "Living Care Pharmacy",
+    "longitude": "-1.5636987686157227",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5636987686157227,
+        53.7657470703125
+      ]
+    },
+    "latitude": "53.7657470703125",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2707078",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "188 Old Lane",
+    "address1": ""
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS9 7SU",
+    "phone": "0113 2482400        ",
+    "partial_postcode": "LS9",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "32047",
+    "organisation_code": "FNA71",
+    "name": "Well Leeds - Lincoln Green Road",
+    "longitude": "-1.5260611772537231",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5260611772537231,
+        53.80213928222656
+      ]
+    },
+    "latitude": "53.802139282226563",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "LEEDS",
+    "address3": "",
+    "address2": "Leeds",
+    "address1": "84-86 Lincoln Green Road"
+  },
+  {
+    "website": "http://www.lloydspharmacy.com",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS28 7BR",
+    "phone": "0113 257 0298",
+    "partial_postcode": "LS28",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "32077",
+    "organisation_code": "FND44",
+    "name": "LloydsPharmacy",
+    "longitude": "-1.6609586477279663",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6609586477279663,
+        53.79547119140625
+      ]
+    },
+    "latitude": "53.79547119140625",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "lp6382@lloydspharmacy.co.uk",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Robin Lane",
+    "address1": "Robin Lane"
+  },
+  {
+    "website": "http://www.lloydspharmacy.com",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS6 4AY",
+    "phone": "0113 278 6352",
+    "partial_postcode": "LS6",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "32107",
+    "organisation_code": "FNE61",
+    "name": "LloydsPharmacy",
+    "longitude": "-1.5667076110839844",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5667076110839844,
+        53.82715606689453
+      ]
+    },
+    "latitude": "53.827156066894531",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "lp6474@lloydspharmacy.co.uk",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Leeds",
+    "address1": "569-571 Meanwood Road"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS8 4BU",
+    "phone": "0113 2093547",
+    "partial_postcode": "LS8",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "32144",
+    "organisation_code": "FNG46",
+    "name": "Tesco Stores Limited",
+    "longitude": "-1.5113769769668579",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.511376976966858,
+        53.82189178466797
+      ]
+    },
+    "latitude": "53.821891784667969",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2093549",
+    "email": "",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "361 Roundhay Road",
+    "address1": "Tesco Pharmacy"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS29 6HY",
+    "phone": "01943 873862",
+    "partial_postcode": "LS29",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "32203",
+    "organisation_code": "FNK59",
+    "name": "Menston Pharmacy",
+    "longitude": "-1.7367217540740967",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.7367217540740967,
+        53.888404846191406
+      ]
+    },
+    "latitude": "53.888404846191406",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "01943 873862",
+    "email": "",
+    "county": "",
+    "city": "Ilkley",
+    "address3": "",
+    "address2": "Menston",
+    "address1": "88 Main Street"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS27 7DX",
+    "phone": "0113 2534549",
+    "partial_postcode": "LS27",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "32206",
+    "organisation_code": "FNK72",
+    "name": "Well Gildersome - Finkle Lane",
+    "longitude": "-1.6298593282699585",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6298593282699585,
+        53.75677490234375
+      ]
+    },
+    "latitude": "53.75677490234375",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "LEEDS",
+    "address3": "",
+    "address2": "Gildersome",
+    "address1": "25 Finkle Lane"
+  },
+  {
+    "website": "http://www.lloydspharmacy.com",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS14 6NX",
+    "phone": "0113 232 3767",
+    "partial_postcode": "LS14",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "32214",
+    "organisation_code": "FNL04",
+    "name": "LloydsPharmacy",
+    "longitude": "-1.459032416343689",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.459032416343689,
+        53.82054138183594
+      ]
+    },
+    "latitude": "53.820541381835938",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "lp6443@lloydspharmacy.co.uk",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "999 York Road",
+    "address1": "Seacroft Avenue/999 York Road"
+  },
+  {
+    "website": "http://www.lloydspharmacy.com",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS29 8TQ",
+    "phone": "01943 607227",
+    "partial_postcode": "LS29",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "32226",
+    "organisation_code": "FNL52",
+    "name": "LloydsPharmacy",
+    "longitude": "-1.8147703409194946",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.8147703409194946,
+        53.923343658447266
+      ]
+    },
+    "latitude": "53.923343658447266",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "lp7386@lloydspharmacy.co.uk",
+    "county": "West Yorkshire",
+    "city": "Ilkley",
+    "address3": "",
+    "address2": "Springs Lane",
+    "address1": "Springs Lane Med Cnt"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS6 2RY",
+    "phone": "01132457835",
+    "partial_postcode": "LS6",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "32383",
+    "organisation_code": "FNW16",
+    "name": "Boots",
+    "longitude": "-1.5468243360519409",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.546824336051941,
+        53.81412887573242
+      ]
+    },
+    "latitude": "53.814128875732422",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2438100",
+    "email": "",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "",
+    "address1": "1 Moseley Place"
+  },
+  {
+    "website": "http://www.lloydspharmacy.com",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS7 3EX",
+    "phone": "0113 262 1680",
+    "partial_postcode": "LS7",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "32442",
+    "organisation_code": "FP102",
+    "name": "LloydsPharmacy",
+    "longitude": "-1.5317786931991577",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5317786931991577,
+        53.8177375793457
+      ]
+    },
+    "latitude": "53.817737579345703",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "lp7117@lloydspharmacy.co.uk",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "263 Chapeltown Road",
+    "address1": "263 Chapeltown Road"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS7 4BB",
+    "phone": "0113 2490348",
+    "partial_postcode": "LS7",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "32528",
+    "organisation_code": "FP585",
+    "name": "Cohen's Chemist",
+    "longitude": "-1.5261991024017334",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5261991024017334,
+        53.81146240234375
+      ]
+    },
+    "latitude": "53.81146240234375",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 248 7683",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Spencer Place",
+    "address1": "Chapeltown Health Centre"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS10 1ET",
+    "phone": "0113 2448039        ",
+    "partial_postcode": "LS10",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "32560",
+    "organisation_code": "FP763",
+    "name": "Boots",
+    "longitude": "-1.5405100584030151",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5405100584030151,
+        53.78876876831055
+      ]
+    },
+    "latitude": "53.788768768310547",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "West Yorkshire",
+    "address3": "Leeds",
+    "address2": "Junction Street",
+    "address1": "3a  Crown Point Shopping Park"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS23 6BT",
+    "phone": "01937 842985",
+    "partial_postcode": "LS23",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "32905",
+    "organisation_code": "FPQ06",
+    "name": "Cohens Chemist",
+    "longitude": "-1.345625638961792",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.345625638961792,
+        53.904178619384766
+      ]
+    },
+    "latitude": "53.904178619384766",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "01937 845579",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Boston Spa",
+    "address1": "190 High Street"
+  },
+  {
+    "website": "http://www.livingcarepharmacy.co.uk",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS11 5HZ",
+    "phone": "0113 2719644",
+    "partial_postcode": "LS11",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "32928",
+    "organisation_code": "FPQ71",
+    "name": "Living Care Pharmacy",
+    "longitude": "-1.5449783802032471",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.544978380203247,
+        53.77560043334961
+      ]
+    },
+    "latitude": "53.775600433349609",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2719644",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "227 Dewsbury Road",
+    "address1": ""
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS28 7LD",
+    "phone": "0113 2574629",
+    "partial_postcode": "LS28",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "32987",
+    "organisation_code": "FPW17",
+    "name": "Church Lane Pharmacy",
+    "longitude": "-1.6638669967651367",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6638669967651367,
+        53.7962760925293
+      ]
+    },
+    "latitude": "53.796276092529297",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Pudsey",
+    "address1": "23 Church Lane"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS19 6DD",
+    "phone": "01132502052",
+    "partial_postcode": "LS19",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "32996",
+    "organisation_code": "FPW64",
+    "name": "Boots",
+    "longitude": "-1.6874133348464966",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6874133348464966,
+        53.855472564697266
+      ]
+    },
+    "latitude": "53.855472564697266",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2502052",
+    "email": "",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Rawdon",
+    "address1": "11 New Road Side"
+  },
+  {
+    "website": "http://www.alliancepharmacy.co.uk",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS11 8BB",
+    "phone": "01132705912",
+    "partial_postcode": "LS11",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "33014",
+    "organisation_code": "FPX61",
+    "name": "Boots",
+    "longitude": "-1.5548932552337646",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5548932552337646,
+        53.77786636352539
+      ]
+    },
+    "latitude": "53.777866363525391",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2762303",
+    "email": "",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "",
+    "address1": "132 Beeston Road"
+  },
+  {
+    "website": "http://www.lloydspharmacy.com",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS17 6PY",
+    "phone": "0113 268 6580",
+    "partial_postcode": "LS17",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "33132",
+    "organisation_code": "FQ464",
+    "name": "LloydsPharmacy",
+    "longitude": "-1.5332692861557007",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5332692861557007,
+        53.84353256225586
+      ]
+    },
+    "latitude": "53.843532562255859",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "lp7214@lloydspharmacy.co.uk",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Moortown Corner",
+    "address1": "396 Harrogate Road"
+  },
+  {
+    "website": "http://www.lloydspharmacy.com",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS17 7BE",
+    "phone": "0113 267 3470",
+    "partial_postcode": "LS17",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "33139",
+    "organisation_code": "FQ490",
+    "name": "LloydsPharmacy",
+    "longitude": "-1.5609414577484131",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.560941457748413,
+        53.85700225830078
+      ]
+    },
+    "latitude": "53.857002258300781",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "lp6472@lloydspharmacy.co.uk",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Alwoodley",
+    "address1": "2 The Avenue"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS12 1UG",
+    "phone": "0113 2637378        ",
+    "partial_postcode": "LS12",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "33143",
+    "organisation_code": "FQ500",
+    "name": "Boots",
+    "longitude": "-1.5891211032867432",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5891211032867432,
+        53.797149658203125
+      ]
+    },
+    "latitude": "53.797149658203125",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Armley",
+    "address1": "5 - 7 Town Street"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS14 6JD",
+    "phone": "0113 866 2847",
+    "partial_postcode": "LS14",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "33202",
+    "organisation_code": "FQ812",
+    "name": "Tesco Stores Limited",
+    "longitude": "-1.460709810256958",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.460709810256958,
+        53.82240295410156
+      ]
+    },
+    "latitude": "53.822402954101563",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 866 2849",
+    "email": "",
+    "county": "Yorkshire(West Riding)",
+    "city": "Leeds",
+    "address3": "Seacroft Green",
+    "address2": "Unit 5 York Road",
+    "address1": "Tesco Pharmacy"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS28 8LE",
+    "phone": "01274665037",
+    "partial_postcode": "LS28",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "33389",
+    "organisation_code": "FQJ56",
+    "name": "Boots",
+    "longitude": "-1.6899901628494263",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6899901628494263,
+        53.80089569091797
+      ]
+    },
+    "latitude": "53.800895690917969",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "01274 665037",
+    "email": "",
+    "county": "West Yorkshire",
+    "city": "Pudsey",
+    "address3": "",
+    "address2": "",
+    "address1": "72 Galloway Lane"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS26 8DY",
+    "phone": "0113 2862795        ",
+    "partial_postcode": "LS26",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "33421",
+    "organisation_code": "FQK81",
+    "name": "Swillington Pharmacy",
+    "longitude": "-1.4216727018356323",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.4216727018356323,
+        53.76917266845703
+      ]
+    },
+    "latitude": "53.769172668457031",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2862795",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Swillington",
+    "address1": "Church Lane"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS6 4AY",
+    "phone": "0113 2307519",
+    "partial_postcode": "LS6",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "33529",
+    "organisation_code": "FQR41",
+    "name": "Meanwood Pharmacy",
+    "longitude": "-1.5667076110839844",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5667076110839844,
+        53.82715606689453
+      ]
+    },
+    "latitude": "53.827156066894531",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "isaacspharamcy@hotmail.co.uk",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "597 Meanwood Road",
+    "address1": ""
+  },
+  {
+    "website": "http://www.livingcarepharmacy.co.uk",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS17 5JD",
+    "phone": "0113 2685602",
+    "partial_postcode": "LS17",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "33601",
+    "organisation_code": "FQW63",
+    "name": "Living Care Pharmacy",
+    "longitude": "-1.5579104423522949",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.557910442352295,
+        53.84742736816406
+      ]
+    },
+    "latitude": "53.847427368164062",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2888404",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Moortown",
+    "address1": "49 Cranmer Bank"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS25 2DX",
+    "phone": "0113 2093747",
+    "partial_postcode": "LS25",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "33737",
+    "organisation_code": "FR526",
+    "name": "Tesco Instore Pharmacy",
+    "longitude": "-1.3831174373626709",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.383117437362671,
+        53.797401428222656
+      ]
+    },
+    "latitude": "53.797401428222656",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2093749",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "Garforth",
+    "address2": "Aberford Road",
+    "address1": "Tesco Pharmacy"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS10 4HT",
+    "phone": "0113 2705548        ",
+    "partial_postcode": "LS10",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "33750",
+    "organisation_code": "FR605",
+    "name": "Well Middleton - Middleton Park HC",
+    "longitude": "-1.5474109649658203",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5474109649658203,
+        53.74409484863281
+      ]
+    },
+    "latitude": "53.744094848632813",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "Middleton, Leeds",
+    "address3": "",
+    "address2": "Middleton Park Avenue",
+    "address1": "Middleton Park Health Ctr"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS11 0JY",
+    "phone": "0113 2777577",
+    "partial_postcode": "LS11",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "33752",
+    "organisation_code": "FR637",
+    "name": "Cottingley Pharmacy",
+    "longitude": "-1.5837054252624512",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5837054252624512,
+        53.76911544799805
+      ]
+    },
+    "latitude": "53.769115447998047",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "LEEDS",
+    "address3": "Leeds",
+    "address2": "Cottingley",
+    "address1": "3 Cottingley Vale"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS9 9EF",
+    "phone": "",
+    "partial_postcode": "LS9",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "33792",
+    "organisation_code": "FR825",
+    "name": "East Leeds Pharmacy",
+    "longitude": "-1.4978733062744141",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.497873306274414,
+        53.80022048950195
+      ]
+    },
+    "latitude": "53.800220489501953",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "",
+    "address3": "",
+    "address2": "Leeds",
+    "address1": "80 Osmondthorpe Lane"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS8 4BA",
+    "phone": "0113 2403315        ",
+    "partial_postcode": "LS8",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "33849",
+    "organisation_code": "FRC34",
+    "name": "Oakwood Pharmacy",
+    "longitude": "-1.5067808628082275",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5067808628082275,
+        53.82651138305664
+      ]
+    },
+    "latitude": "53.826511383056641",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "",
+    "address1": "643 Roundhay Road"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS17 5NY",
+    "phone": "0113 2696462        ",
+    "partial_postcode": "LS17",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "33879",
+    "organisation_code": "FRD71",
+    "name": "Sainsburys Pharmacy",
+    "longitude": "-1.5505325794219971",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.550532579421997,
+        53.84514236450195
+      ]
+    },
+    "latitude": "53.845142364501953",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "",
+    "address1": "Moor Allerton Centre"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS17 8AE",
+    "phone": "0113 2683624        ",
+    "partial_postcode": "LS17",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "34073",
+    "organisation_code": "FRN28",
+    "name": "Well Shadwell - Shadwell Lane",
+    "longitude": "-1.5257313251495361",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5257313251495361,
+        53.850215911865234
+      ]
+    },
+    "latitude": "53.850215911865234",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "LEEDS",
+    "address3": "",
+    "address2": "Leeds",
+    "address1": "139 Shadwell Lane"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS28 6DR",
+    "phone": "0113 2563335        ",
+    "partial_postcode": "LS28",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "34166",
+    "organisation_code": "FRT56",
+    "name": "Well Stanningley - Sunfield Place",
+    "longitude": "-1.6682655811309814",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6682655811309814,
+        53.80641174316406
+      ]
+    },
+    "latitude": "53.806411743164062",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "Stanningley",
+    "address3": "",
+    "address2": "Sunfield Place",
+    "address1": "The Sunfield Medical Ctr"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS26 0QD",
+    "phone": "0113 2822686        ",
+    "partial_postcode": "LS26",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "34210",
+    "organisation_code": "FRW47",
+    "name": "Naseem's Chemists",
+    "longitude": "-1.4797028303146362",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.4797028303146362,
+        53.74839782714844
+      ]
+    },
+    "latitude": "53.748397827148438",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2822686",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Rothwell",
+    "address1": "53a Commercial Street"
+  },
+  {
+    "website": "http://www.lloydspharmacy.com",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS12 1HX",
+    "phone": "0113 279 9056",
+    "partial_postcode": "LS12",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "34241",
+    "organisation_code": "FT013",
+    "name": "LloydsPharmacy",
+    "longitude": "-1.57450270652771",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.57450270652771,
+        53.7910041809082
+      ]
+    },
+    "latitude": "53.791004180908203",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "lp6987@lloydspharmacy.co.uk",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "14-16 Tong Road",
+    "address1": "14-16 Tong Road"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS10 2JJ",
+    "phone": "01132716460",
+    "partial_postcode": "LS10",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "34353",
+    "organisation_code": "FT545",
+    "name": "Boots",
+    "longitude": "-1.5329840183258057",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5329840183258057,
+        53.77212905883789
+      ]
+    },
+    "latitude": "53.772129058837891",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2409144",
+    "email": "",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Hunslett Carr",
+    "address1": "1 Moor Road"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS21 3HJ",
+    "phone": "01943 462077        ",
+    "partial_postcode": "LS21",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "34447",
+    "organisation_code": "FTC55",
+    "name": "Boots",
+    "longitude": "-1.6938338279724121",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.693833827972412,
+        53.904808044433594
+      ]
+    },
+    "latitude": "53.904808044433594",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "Otley",
+    "address3": "",
+    "address2": "",
+    "address1": "28-32 Kirkgate"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS28 8BS",
+    "phone": "0113 2570430",
+    "partial_postcode": "LS28",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "34685",
+    "organisation_code": "FTN61",
+    "name": "The Pudsey Pharmacy",
+    "longitude": "-1.6721726655960083",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6721726655960083,
+        53.79217529296875
+      ]
+    },
+    "latitude": "53.79217529296875",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Pudsey",
+    "address1": "46 Chapeltown"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS27 9BQ",
+    "phone": "0113 2533335",
+    "partial_postcode": "LS27",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "34879",
+    "organisation_code": "FV095",
+    "name": "Well Morley - Queensway",
+    "longitude": "-1.6029144525527954",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6029144525527954,
+        53.74637985229492
+      ]
+    },
+    "latitude": "53.746379852294922",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2533335",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Morley",
+    "address1": "2 Queensway"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS29 7JN",
+    "phone": "01943 863158",
+    "partial_postcode": "LS29",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "34929",
+    "organisation_code": "FV319",
+    "name": "Cohens Chemist",
+    "longitude": "-1.7511763572692871",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.751176357269287,
+        53.913917541503906
+      ]
+    },
+    "latitude": "53.913917541503906",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "01943 863158",
+    "email": "",
+    "county": "",
+    "city": "Ilkley",
+    "address3": "",
+    "address2": "Burley In Wharfedale",
+    "address1": "123 Main Street"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS21 1BQ",
+    "phone": "01943 463070",
+    "partial_postcode": "LS21",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "34961",
+    "organisation_code": "FV525",
+    "name": "Cohens Chemist",
+    "longitude": "-1.6936824321746826",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6936824321746826,
+        53.90677261352539
+      ]
+    },
+    "latitude": "53.906772613525391",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0194 3463070",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Otley",
+    "address1": "1 Bridge Street"
+  },
+  {
+    "website": "http://www.manichem.co.uk",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS9 6AX",
+    "phone": "0113 235 0385",
+    "partial_postcode": "LS9",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "35089",
+    "organisation_code": "FVC48",
+    "name": "Harehills Pharmacy",
+    "longitude": "-1.509290337562561",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.509290337562561,
+        53.80936050415039
+      ]
+    },
+    "latitude": "53.809360504150391",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "harehills@manichem.co.uk",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "",
+    "address1": "365 Harehills Lane"
+  },
+  {
+    "website": "http://daylewisplc.com",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS22 6RT",
+    "phone": "01937 582182",
+    "partial_postcode": "LS22",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "35156",
+    "organisation_code": "FVF52",
+    "name": "Day Lewis Pharmacy",
+    "longitude": "-1.3888974189758301",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.38889741897583,
+        53.93026351928711
+      ]
+    },
+    "latitude": "53.930263519287109",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "01937 582182",
+    "email": "wetherby@daylewisplc.com",
+    "county": "",
+    "city": "Wetherby",
+    "address3": "",
+    "address2": "Crossley Street",
+    "address1": "Crossley Street Surgery"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS9 9BP",
+    "phone": "0113 2482282",
+    "partial_postcode": "LS9",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "35170",
+    "organisation_code": "FVG26",
+    "name": "Cohens Chemist",
+    "longitude": "-1.5107910633087158",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5107910633087158,
+        53.79784393310547
+      ]
+    },
+    "latitude": "53.797843933105469",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "",
+    "address3": "",
+    "address2": "Leeds",
+    "address1": "230 York Road"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS7 4JA",
+    "phone": "0113 2623944        ",
+    "partial_postcode": "LS7",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "35187",
+    "organisation_code": "FVH26",
+    "name": "Medichem (Leeds) Ltd",
+    "longitude": "-1.5320447683334351",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.532044768333435,
+        53.82112121582031
+      ]
+    },
+    "latitude": "53.821121215820312",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Chapeltown Road",
+    "address1": "4-5 Newton Parade"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS8 1QR",
+    "phone": "0113 2661786",
+    "partial_postcode": "LS8",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "35287",
+    "organisation_code": "FVN05",
+    "name": "Ma Manning (Pharmacy) Ltd",
+    "longitude": "-1.5213789939880371",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.521378993988037,
+        53.83597946166992
+      ]
+    },
+    "latitude": "53.835979461669922",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2688674",
+    "email": "",
+    "county": "",
+    "city": "",
+    "address3": "",
+    "address2": "Leeds",
+    "address1": "97 Lidgett Lane"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS20 8AH",
+    "phone": "01943 874103",
+    "partial_postcode": "LS20",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "35365",
+    "organisation_code": "FVR46",
+    "name": "Cohen's Chemist",
+    "longitude": "-1.7110215425491333",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.7110215425491333,
+        53.87336349487305
+      ]
+    },
+    "latitude": "53.873363494873047",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "01943 874103",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Guiseley",
+    "address1": "26 Otley Road"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS27 9BP",
+    "phone": "0113 2533143",
+    "partial_postcode": "LS27",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "35386",
+    "organisation_code": "FVT30",
+    "name": "Well Morley - Queen Street",
+    "longitude": "-1.601183295249939",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.601183295249939,
+        53.74504089355469
+      ]
+    },
+    "latitude": "53.745040893554688",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2527732",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Morley",
+    "address1": "68 Queen Street"
+  },
+  {
+    "website": "http://www.lloydspharmacy.com",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS19 7JN",
+    "phone": "0113 250 3377",
+    "partial_postcode": "LS19",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "35463",
+    "organisation_code": "FVX92",
+    "name": "LloydsPharmacy",
+    "longitude": "-1.6846842765808105",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6846842765808105,
+        53.86663818359375
+      ]
+    },
+    "latitude": "53.86663818359375",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "lp6388@lloydspharmacy.co.uk",
+    "county": "West Yorkshire",
+    "city": "Yeadon  Leeds",
+    "address3": "",
+    "address2": "1 Suffolk Court",
+    "address1": "Silver Lane Med Practice"
+  },
+  {
+    "website": "http://www.livingcarepharmacy.co.uk",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS17 5AX",
+    "phone": "0113 2687331",
+    "partial_postcode": "LS17",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "35476",
+    "organisation_code": "FW003",
+    "name": "King Lane Pharmacy",
+    "longitude": "-1.5444687604904175",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5444687604904175,
+        53.84089660644531
+      ]
+    },
+    "latitude": "53.840896606445313",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 3052641",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "79, King Lane",
+    "address1": "Livingcare Pharmacy"
+  },
+  {
+    "website": "http://www.lloydspharmacy.com",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS8 5BW",
+    "phone": "0113 249 5538",
+    "partial_postcode": "LS8",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "35492",
+    "organisation_code": "FW043",
+    "name": "LloydsPharmacy",
+    "longitude": "-1.5168519020080566",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5168519020080566,
+        53.80945587158203
+      ]
+    },
+    "latitude": "53.809455871582031",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "lp7118@lloydspharmacy.co.uk",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "",
+    "address1": "125 Harehills Road"
+  },
+  {
+    "website": "http://www.henconnerpharmacy.co.uk",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS13 4JA",
+    "phone": "0113 2634444",
+    "partial_postcode": "LS13",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "35585",
+    "organisation_code": "FW476",
+    "name": "Henconner Pharmacy",
+    "longitude": "-1.6214168071746826",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6214168071746826,
+        53.795982360839844
+      ]
+    },
+    "latitude": "53.795982360839844",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2634444",
+    "email": "info@henconnerpharmacy.co.uk",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "203 Pudsey Road",
+    "address1": "Henconner Pharmacy"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS21 1LH",
+    "phone": "0113 2841039",
+    "partial_postcode": "LS21",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "35613",
+    "organisation_code": "FW612",
+    "name": "Pool Pharmacy",
+    "longitude": "-1.6286671161651611",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6286671161651611,
+        53.90221405029297
+      ]
+    },
+    "latitude": "53.902214050292969",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2841039",
+    "email": "colineccles@gmail.com",
+    "county": "West Yorkshire",
+    "city": "Otley",
+    "address3": "",
+    "address2": "Pool In Wharfedale",
+    "address1": "Main Street"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS28 5PD",
+    "phone": "0113 2564573",
+    "partial_postcode": "LS28",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "35618",
+    "organisation_code": "FW629",
+    "name": "Liptrots Calverley Ltd",
+    "longitude": "-1.6870932579040527",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6870932579040527,
+        53.82906723022461
+      ]
+    },
+    "latitude": "53.829067230224609",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 256 0821",
+    "email": "",
+    "county": "West Yorkshire",
+    "city": "Pudsey",
+    "address3": "",
+    "address2": "Calverley",
+    "address1": "100 Thornhill Street"
+  },
+  {
+    "website": "http://www.lloydspharmacy.com",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS8 1AY",
+    "phone": "0113 266 1202",
+    "partial_postcode": "LS8",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "35642",
+    "organisation_code": "FW757",
+    "name": "LloydsPharmacy",
+    "longitude": "-1.5134385824203491",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5134385824203491,
+        53.84325408935547
+      ]
+    },
+    "latitude": "53.843254089355469",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "lp7213@lloydspharmacy.co.uk",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "",
+    "address1": "12 Devonshire Avenue"
+  },
+  {
+    "website": "http://www.alliedpharmacies.com/",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS9 7BD",
+    "phone": "0113 2492311",
+    "partial_postcode": "LS9",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "35651",
+    "organisation_code": "FW811",
+    "name": "Imaan Pharmacy",
+    "longitude": "-1.5109206438064575",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5109206438064575,
+        53.810203552246094
+      ]
+    },
+    "latitude": "53.810203552246094",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "harehillspharmacy@alliedpharmacies.com",
+    "county": "",
+    "city": "West Yorkshire",
+    "address3": "Leeds",
+    "address2": "",
+    "address1": "262-266 Harehills Lane"
+  },
+  {
+    "website": "http://midway-pharmacy.co.uk",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS10 4LX",
+    "phone": "0113 2714699",
+    "partial_postcode": "LS10",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "35724",
+    "organisation_code": "FWD92",
+    "name": "Midway Pharmacy",
+    "longitude": "-1.5485999584197998",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5485999584197998,
+        53.74776077270508
+      ]
+    },
+    "latitude": "53.747760772705078",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2714699",
+    "email": "enquiries@midway-pharmacy.co.uk",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Middleton",
+    "address1": "23 Middleton Park Circus"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS27 0BP",
+    "phone": "0113 2012610",
+    "partial_postcode": "LS27",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "35768",
+    "organisation_code": "FWF91",
+    "name": "Asda Pharmacy Morley",
+    "longitude": "-1.6103111505508423",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6103111505508423,
+        53.7352294921875
+      ]
+    },
+    "latitude": "53.7352294921875",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Morley",
+    "address1": "Howley Park Road"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS6 2DP",
+    "phone": "0113 2305588",
+    "partial_postcode": "LS6",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "35779",
+    "organisation_code": "FWG49",
+    "name": "Headingley Pharmacy",
+    "longitude": "-1.5767190456390381",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.576719045639038,
+        53.82115936279297
+      ]
+    },
+    "latitude": "53.821159362792969",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "enquires@headingleypharmacy.co.uk",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "Headingley",
+    "address2": "1 Shire Oak Street",
+    "address1": "St Michaels Court"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS8 5PL",
+    "phone": "0113 2359377",
+    "partial_postcode": "LS8",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "35827",
+    "organisation_code": "FWJ72",
+    "name": "Khan Pharmacy",
+    "longitude": "-1.5193538665771484",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5193538665771484,
+        53.81376266479492
+      ]
+    },
+    "latitude": "53.813762664794922",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Leeds",
+    "address1": "168 Roundhay Road"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS8 5JP",
+    "phone": "0113 2490533",
+    "partial_postcode": "LS8",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "35844",
+    "organisation_code": "FWK28",
+    "name": "Shaan Pharmacy",
+    "longitude": "-1.5141656398773193",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5141656398773193,
+        53.81456756591797
+      ]
+    },
+    "latitude": "53.814567565917969",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2483196",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "176 Harehills Lane",
+    "address1": "176 Harehills Lane"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS26 0UE",
+    "phone": "01132821155",
+    "partial_postcode": "LS26",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "35847",
+    "organisation_code": "FWK37",
+    "name": "Boots",
+    "longitude": "-1.4849960803985596",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.4849960803985596,
+        53.7470703125
+      ]
+    },
+    "latitude": "53.7470703125",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "Rothwell",
+    "address2": "Stone Brig Lane",
+    "address1": "Rothwell Health Centre"
+  },
+  {
+    "website": "http://www.sainsburys.co.uk",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS11 8LS",
+    "phone": "0113 2708304",
+    "partial_postcode": "LS11",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "35882",
+    "organisation_code": "FWM28",
+    "name": "Sainsbury's Pharmacy",
+    "longitude": "-1.5738074779510498",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5738074779510498,
+        53.756229400634766
+      ]
+    },
+    "latitude": "53.756229400634766",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2708304",
+    "email": "pharmacyleedswhiter@sainsburys.co.uk",
+    "county": "",
+    "city": "West Yorkshire",
+    "address3": "",
+    "address2": "Leeds",
+    "address1": "White Rose Shopping Ctr"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS28 6AN",
+    "phone": "0113 2905210",
+    "partial_postcode": "LS28",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "36006",
+    "organisation_code": "FWW03",
+    "name": "Asda Stores Ltd",
+    "longitude": "-1.668498158454895",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.668498158454895,
+        53.80386734008789
+      ]
+    },
+    "latitude": "53.803867340087891",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "Pudsey",
+    "address3": "",
+    "address2": "Owlcotes Shopping Centre",
+    "address1": "Asda Supercentre"
+  },
+  {
+    "website": "http://www.lloydspharmacy.com",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS9 6DE",
+    "phone": "0113 248 6766",
+    "partial_postcode": "LS9",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "36008",
+    "organisation_code": "FWW07",
+    "name": "LloydsPharmacy",
+    "longitude": "-1.5000064373016357",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5000064373016357,
+        53.80213165283203
+      ]
+    },
+    "latitude": "53.802131652832031",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "lp7216@lloydspharmacy.co.uk",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "480 Harehills Lane",
+    "address1": "480 Harehills Lane"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS28 5LD",
+    "phone": "0113 2570559",
+    "partial_postcode": "LS28",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "36009",
+    "organisation_code": "FWW11",
+    "name": "Liptrots Farsley Ltd",
+    "longitude": "-1.6713176965713501",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.67131769657135,
+        53.8122444152832
+      ]
+    },
+    "latitude": "53.812244415283203",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2559572",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Farsley",
+    "address1": "38-42 Town Street"
+  },
+  {
+    "website": "http://www.livingcarepharmacy.co.uk",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS11 5LQ",
+    "phone": "0113 2705696",
+    "partial_postcode": "LS11",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "36279",
+    "organisation_code": "FXC14",
+    "name": "Living Care Pharmacy",
+    "longitude": "-1.5477222204208374",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5477222204208374,
+        53.771602630615234
+      ]
+    },
+    "latitude": "53.771602630615234",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2704430",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "311 Dewsbury Road",
+    "address1": "Parkside Medical Centre"
+  },
+  {
+    "website": "http://www.lloydspharmacy.com",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS7 1SH",
+    "phone": "0113 245 5296",
+    "partial_postcode": "LS7",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "36363",
+    "organisation_code": "FXG81",
+    "name": "LloydsPharmacy",
+    "longitude": "-1.5393424034118652",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5393424034118652,
+        53.80807113647461
+      ]
+    },
+    "latitude": "53.808071136474609",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "lp7119@lloydspharmacy.co.uk",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Oatland Drive",
+    "address1": "Unit 2 Oatland Retail Centre"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS15 8NN",
+    "phone": "0113 2648038",
+    "partial_postcode": "LS15",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "36396",
+    "organisation_code": "FXH99",
+    "name": "Ben Wilson Ltd",
+    "longitude": "-1.4409183263778687",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.4409183263778687,
+        53.79825973510742
+      ]
+    },
+    "latitude": "53.798259735107422",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2648038",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Whitkirk",
+    "address1": "7 Austhorpe View"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS16 7AP",
+    "phone": "0113 2673094",
+    "partial_postcode": "LS16",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "36459",
+    "organisation_code": "FXM58",
+    "name": "Cohen's Chemist",
+    "longitude": "-1.614370584487915",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.614370584487915,
+        53.85316848754883
+      ]
+    },
+    "latitude": "53.853168487548828",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2613480",
+    "email": "",
+    "county": "",
+    "city": "",
+    "address3": "",
+    "address2": "Leeds",
+    "address1": "6 Tinshill Lane"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS27 9EW",
+    "phone": "0113 2538222        ",
+    "partial_postcode": "LS27",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "36486",
+    "organisation_code": "FXN63",
+    "name": "Well Morley - South Queen Street",
+    "longitude": "-1.5990737676620483",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5990737676620483,
+        53.742061614990234
+      ]
+    },
+    "latitude": "53.742061614990234",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Morley",
+    "address1": "South Queen Street"
+  },
+  {
+    "website": "http://www.ilkleymoorpharmacy.co.uk",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS29 8SR",
+    "phone": "01943 604206",
+    "partial_postcode": "LS29",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "36594",
+    "organisation_code": "FXV21",
+    "name": "Ilkley Moor Pharmacy",
+    "longitude": "-1.8200819492340088",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.8200819492340088,
+        53.9239616394043
+      ]
+    },
+    "latitude": "53.923961639404297",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "Ilkley",
+    "address3": "",
+    "address2": "Ilkley",
+    "address1": "10 Cow Pasture Road"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS15 7JR",
+    "phone": "0113 2326002        ",
+    "partial_postcode": "LS15",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "36626",
+    "organisation_code": "FXW64",
+    "name": "Halton Pharmacy",
+    "longitude": "-1.4700921773910522",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.4700921773910522,
+        53.79634094238281
+      ]
+    },
+    "latitude": "53.796340942382813",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Halton",
+    "address1": "253 Selby Road"
+  },
+  {
+    "website": "http://www.co-operative.coop/pharmacy",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS18 4AP",
+    "phone": "0113 2582436",
+    "partial_postcode": "LS18",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "36736",
+    "organisation_code": "FY647",
+    "name": "Well Horsforth - Town Street",
+    "longitude": "-1.6390756368637085",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6390756368637085,
+        53.83877182006836
+      ]
+    },
+    "latitude": "53.838771820068359",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Horsforth",
+    "address1": "74 Town Street"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS28 9AR",
+    "phone": "0113 2576881        ",
+    "partial_postcode": "LS28",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "36861",
+    "organisation_code": "FYL11",
+    "name": "Well Leeds - Swinnow Road",
+    "longitude": "-1.6535247564315796",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6535247564315796,
+        53.79857635498047
+      ]
+    },
+    "latitude": "53.798576354980469",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "LEEDS",
+    "address3": "",
+    "address2": "Leeds",
+    "address1": "190 Swinnow Road"
+  },
+  {
+    "website": "http://www.lloydspharmacy.com",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS25 1AA",
+    "phone": "0113 286 2107",
+    "partial_postcode": "LS25",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "36917",
+    "organisation_code": "FYQ89",
+    "name": "LloydsPharmacy",
+    "longitude": "-1.3879823684692383",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.3879823684692383,
+        53.79485321044922
+      ]
+    },
+    "latitude": "53.794853210449219",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "lp6394@lloydspharmacy.co.uk",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Garforth",
+    "address1": "24/26 Main Street"
+  },
+  {
+    "website": "http://www.lloydspharmacy.com",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS14 5JS",
+    "phone": "0113 273 5330",
+    "partial_postcode": "LS14",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "36944",
+    "organisation_code": "FYV01",
+    "name": "LloydsPharmacy",
+    "longitude": "-1.4538643360137939",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.453864336013794,
+        53.823143005371094
+      ]
+    },
+    "latitude": "53.823143005371094",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "lp6444@lloydspharmacy.co.uk",
+    "county": "West Yorkshire",
+    "city": "Seacroft",
+    "address3": "",
+    "address2": "Mill Green View",
+    "address1": "Mill Green View"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS27 9BG",
+    "phone": "0113 2532387        ",
+    "partial_postcode": "LS27",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "36961",
+    "organisation_code": "FYX23",
+    "name": "Boots",
+    "longitude": "-1.6021965742111206",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6021965742111206,
+        53.745323181152344
+      ]
+    },
+    "latitude": "53.745323181152344",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Morley",
+    "address1": "3 Windsor Court"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS18 4QB",
+    "phone": "0113 258 2639",
+    "partial_postcode": "LS18",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "352692",
+    "organisation_code": "FXR93",
+    "name": "Mitchell's Chemist",
+    "longitude": "-1.640857458114624",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.640857458114624,
+        53.832130432128906
+      ]
+    },
+    "latitude": "53.832130432128906",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 258 2639",
+    "email": "mitchellschemist@gmail.com",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "Leeds",
+    "address2": "Horsforth",
+    "address1": "88 New Road Side"
+  },
+  {
+    "website": "http://www.knightspharmacy.co.uk",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS7 3DR",
+    "phone": "0113 2392014",
+    "partial_postcode": "LS7",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "570943",
+    "organisation_code": "FCL08",
+    "name": "Knights Scott Hall Pharmacy",
+    "longitude": "-1.5435011386871338",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5435011386871338,
+        53.82505416870117
+      ]
+    },
+    "latitude": "53.825054168701172",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2392164",
+    "email": "",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Scott Hall Road",
+    "address1": "Rutland Lodge"
+  },
+  {
+    "website": "http://www.knightspharmacy.co.uk",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS7 3QY",
+    "phone": "0113 2681163",
+    "partial_postcode": "LS7",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "570948",
+    "organisation_code": "FNP86",
+    "name": "Knights Chapel Allerton Pharmacy",
+    "longitude": "-1.5393248796463013",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5393248796463013,
+        53.82907485961914
+      ]
+    },
+    "latitude": "53.829074859619141",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2698498",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "",
+    "address1": "6 Stainbeck Lane"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS13 2UP",
+    "phone": "0113 2571619",
+    "partial_postcode": "LS13",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "750592",
+    "organisation_code": "FG417",
+    "name": "Manor Park Pharmacy",
+    "longitude": "-1.6288683414459229",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6288683414459229,
+        53.81414031982422
+      ]
+    },
+    "latitude": "53.814140319824219",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2571651",
+    "email": "manorparkpharmacy@gmail.com",
+    "county": "",
+    "city": "Leeds",
+    "address3": "Bramley",
+    "address2": "Bellmount Close",
+    "address1": "Manor Park Surgery"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS12 3HD",
+    "phone": "",
+    "partial_postcode": "LS12",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "750884",
+    "organisation_code": "FHC18",
+    "name": "Armley Moor Pharmacy",
+    "longitude": "-1.5931819677352905",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5931819677352905,
+        53.796390533447266
+      ]
+    },
+    "latitude": "53.796390533447266",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "",
+    "address3": "Leeds",
+    "address2": "Armley",
+    "address1": "90-91A Town Street"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS11 8BB",
+    "phone": "0113 2771746",
+    "partial_postcode": "LS11",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "864466",
+    "organisation_code": "FAQ06",
+    "name": "Beeston Hill Pharmacy",
+    "longitude": "-1.5548932552337646",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5548932552337646,
+        53.77786636352539
+      ]
+    },
+    "latitude": "53.777866363525391",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 277746",
+    "email": "beestonhillpharmacy@live.com",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Beeston",
+    "address1": "134 Beeston Road"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS12 3NP",
+    "phone": "0113 2637210",
+    "partial_postcode": "LS12",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "1094722",
+    "organisation_code": "FRA37",
+    "name": "Armley Pharmacy",
+    "longitude": "-1.5997920036315918",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5997920036315918,
+        53.80052185058594
+      ]
+    },
+    "latitude": "53.800521850585937",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2637210",
+    "email": "info@armleypharmacy.co.uk",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "",
+    "address1": "62 Armley Ridge Road"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS27 9NF",
+    "phone": "0113 259 7372",
+    "partial_postcode": "LS27",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "1349274",
+    "organisation_code": "FM381",
+    "name": "Morley Pharmacy",
+    "longitude": "-1.6043328046798706",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6043328046798706,
+        53.743892669677734
+      ]
+    },
+    "latitude": "53.743892669677734",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "morleypharmacy1@gmail.com",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Morley",
+    "address1": "39 Westfield Road"
+  },
+  {
+    "website": "http://belleislepharmacy-leeds.cambrianalliance.co.uk",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS10 3HU",
+    "phone": "0113 2709596",
+    "partial_postcode": "LS10",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "3248579",
+    "organisation_code": "FR582",
+    "name": "Belle Isle Pharmacy",
+    "longitude": "-1.5231236219406128",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5231236219406128,
+        53.76258850097656
+      ]
+    },
+    "latitude": "53.762588500976563",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2762193",
+    "email": "pharmacybelleisle@yahoo.co.uk",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "",
+    "address1": "219 Middleton Road"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS11 6AY",
+    "phone": "01132707722",
+    "partial_postcode": "LS11",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "3359017",
+    "organisation_code": "FMA95",
+    "name": "Al-Shafa Pharmacy",
+    "longitude": "-1.5543041229248047",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5543041229248047,
+        53.777610778808594
+      ]
+    },
+    "latitude": "53.777610778808594",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "01132707722",
+    "email": "",
+    "county": "",
+    "city": "West Yorkshire",
+    "address3": "Leeds",
+    "address2": "Beeston Road, Beeston",
+    "address1": "Unit 2&3 Hillside Bldg"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS6 1LU",
+    "phone": "0113 2783976",
+    "partial_postcode": "LS6",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "5372882",
+    "organisation_code": "FW060",
+    "name": "Star Pharmacy",
+    "longitude": "-1.5761611461639404",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5761611461639404,
+        53.811702728271484
+      ]
+    },
+    "latitude": "53.811702728271484",
+    "is_pims_managed": "False",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "",
+    "address3": "West Yorkshire",
+    "address2": "Leeds",
+    "address1": "136 Cardigan Road"
+  },
+  {
+    "website": "",
+    "sub_type": "Community Pharmacy",
+    "postcode": "LS12 6LS",
+    "phone": "0113 2015757",
+    "partial_postcode": "LS12",
+    "parent_o_d_s_code": "Q52",
+    "parent_name": "West Yorkshire Area Team",
+    "organisation_type": "Pharmacy",
+    "organisation_status": "Visible",
+    "organisation_id": "5373181",
+    "organisation_code": "FXG83",
+    "name": "Healthnet Homecare Ltd",
+    "longitude": "-1.5871473550796509",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5871473550796509,
+        53.77705383300781
+      ]
+    },
+    "latitude": "53.777053833007812",
+    "is_pims_managed": "False",
+    "is_e_p_s_enabled": "False",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "West Yorkshire",
+    "address3": "Leeds",
+    "address2": "Phillipa Way",
+    "address1": "Unit 3, Gerald Point"
+  }
+]

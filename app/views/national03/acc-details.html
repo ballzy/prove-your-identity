@@ -1,0 +1,50 @@
+{% extends '_layouts/layout_2-3.html' %}
+
+{% block page_title %}Set up a password{{serviceName}}{% endblock %}
+
+{% block pageTitle %}Set up a password{% endblock %}
+
+{% block content %}
+<div class="first-item">
+  <form>
+    <div class="form-group">
+
+      <h2 style="font-size: 18px; margin-bottom: 0; padding-bottom: 0;">BOOK A GP APPOINTMENT</h2>
+
+      <h1>Personal details</h1>
+
+      <div class="form-group">
+        <label class="form-label-bold" for="field1">First name</label>
+        <input class="form-control" id="field1" name="field1" type="text">
+      </div>
+      <div class="form-group">
+        <label class="form-label-bold" for="field2">Surname</label>
+        <input class="form-control" id="field2" name="field2" type="text">
+      </div>
+      <fieldset>
+        <legend class="form-label-bold">
+          What is your date of birth?
+        </legend>
+        <div class="form-group -date">
+          <div>
+            <label for="dob-day">Day</label>
+            <input type="text" id="dob-day" name="dob-day" value="{{ session.dob.day }}" class="day" maxlength="2">
+          </div>
+          <div>
+            <label for="dob-month">Month</label>
+            <input type="text" id="dob-month" name="dob-month" value="{{ session.dob.month }}" class="month" maxlength="2">
+          </div>
+          <div>
+            <label for="dob-year">Year</label>
+            <input type="text" id="dob-year" name="dob-year" value="{{ session.dob.year }}" class="year" maxlength="4">
+          </div>
+        </div>
+      </fieldset>
+    </div>
+    <a class="button" href="https://beta.nhs.uk/book-a-gp-appointment/">Continue</a>
+  </form>
+</div>
+
+{% endblock %}
+
+{% block footer %}{% endblock %}

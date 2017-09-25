@@ -1,0 +1,39 @@
+{
+  "name": "ballzy/prove-your-identity",
+  "version": "1.0.0",
+  "description": "prove-your-identity",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ballzy/prove-your-identity.git"
+  },
+  "author": "ballzy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ballzy/prove-your-identity/issues"
+  },
+  "homepage": "https://github.com/ballzy/prove-your-identity#readme",
+  "dependencies": {
+    "basic-auth": "^1.0.4",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "express-session": "^1.14.1",
+    "express-validator": "^2.20.10",
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-concurrent": "^2.3.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-nodemon": "^0.4.2",
+    "grunt-sass": "^1.2.1",
+    "javascript-natural-sort": "^0.7.1",
+    "nunjucks": "^2.5.2",
+    "nunjucks-date-filter": "^0.1.1",
+    "portscanner": "^1.0.0",
+    "prompt": "^1.0.0",
+    "request": "^2.75.0",
+    "serve-favicon": "^2.3.0"
+  }
+}

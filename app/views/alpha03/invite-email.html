@@ -1,0 +1,23 @@
+{% extends '_layouts/layout_email.html' %}
+
+{% block page_title %}GP Invite System{{serviceName}}{% endblock %}
+
+
+
+{% block content %}
+
+<div class="first-item" style="padding-bottom: 250px;">
+  <h2 class="heading-large">Invite to Leeds Personal Health Record (PHR)</h2>
+  <p>Dear Mr/Ms [Patient’s name],</p>
+  <p>I am contacting you as your GP to participate in the trial of a new medical record project called Personal Health Record (PHR). </p>
+  <p>This service, designed especially for you by NHS, gives you faster and easier access to your medical information. It also helps provide you with safe treatment when you need care in an emergency or when your GP practice is closed.</p>
+  <a href="start" style="border: 1px solid #FFB81C; padding: 15px;">https://beta.nhs.uk/access-your-personal-health-record?12345678</a>
+  <p>If the link doesn't work for you copy and paste it into your internet browser</p>
+  <p>I would like to take this opportunity to thank you for your assistance with this project.</p>
+  <p>Kindest regards</p>
+  <p>Dr. Phil Smith</p>
+</div>
+
+{% endblock %}
+
+{% block footer %}{% endblock %}

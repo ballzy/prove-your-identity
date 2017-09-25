@@ -1,0 +1,47 @@
+{% extends '_layouts/layout_1-2-signed-in.html' %}
+
+{% block page_title %}Your NHS Account{{serviceName}}{% endblock %}
+
+{% block content %}
+
+<div>
+	<h1>Welcome to your NHS</h1>
+
+	<h2 id="conditions" class="heading-large">Common conditions</h2>
+	<ul>
+		<li><a href="https://beta.nhs.uk/conditions/common-cold/">Common cold</a></li>
+		<li><a href="https://beta.nhs.uk/conditions/diabetes/">Diabetes</a></li>
+		<li><a href="https://beta.nhs.uk/conditions/chickenpox/">Chickenpox</a></li>
+		<li><a href="https://beta.nhs.uk/conditions/blisters/">Blisters</a></li>
+	</ul>
+	<h2 id="symptoms" class="heading-large">Your conditions</h2>
+	<ul>
+		<li><a href="https://beta.nhs.uk/conditions/glandular-fever">Glandular fever</a></li>
+		<li><a href="https://beta.nhs.uk/conditions/hay-fever">Hay fever</a></li>
+	</ul>
+	<h2 id="symptoms" class="heading-large">Your medicines</h2>
+	<ul>
+		<li><a href="https://beta.nhs.uk/medicines/citalopram">Citalopram</a></li>
+		<li><a href="https://beta.nhs.uk/medicines/ibuprofen-for-children">Ibuprofen for children</a></li>
+	</ul>
+</div>
+
+
+{% endblock %}
+
+{% block rightcol %}
+<div class="reading-width">
+	<h2 class="heading-large">NHS Services</h2>
+	<ul>
+		<li><a href="#">Book a GP appointment online</a></li>
+		<li><a href="#">National opt out</a></li>
+		<li><a href="#">Child health</a></li>
+		<li><a href="#">Manage and view my health information</a></li>
+	</ul>
+</div>
+
+
+{% endblock %}
+
+{% block footer %}{% endblock %}
+

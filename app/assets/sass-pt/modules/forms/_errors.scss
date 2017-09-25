@@ -1,0 +1,40 @@
+.error-summary {
+  @extend %contain-floats;
+
+  margin: $leading*2 0;
+
+  & > div {
+    float: left;
+    border-top: 2px solid $error-colour;
+    background-color: tint($error-colour, 90);
+    padding: 0 $leading*2;
+    color: darken($error-colour, 10);
+  }
+
+  a {
+    color: darken($error-colour, 10);
+  }
+}
+
+.error-hint {
+  display: block;
+  color: $error-colour;
+}
+
+.form-group.-errors {
+  input,
+  textarea {
+    border-color: $error-colour;
+    border-width: 4px;
+  }
+  .js-enabled & .selection-button-radio::before,
+  .js-enabled & .selection-button-checkbox::before {
+    border-color: $error-colour;
+  }
+  border-left: 4px solid $error-colour;
+  padding-left: 20px;
+}
+
+.form-error {
+  
+}

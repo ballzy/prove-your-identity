@@ -1,0 +1,23 @@
+{% extends '_layouts/layout_header-exploration.html' %}
+
+{% block localHeader %}
+  {% include '_includes/header-exploration/header-v6.html' %}
+{% endblock localHeader %}
+
+<!-- Main content here -->
+{% block content %}
+  {% include '_includes/v1_4/online-tasks.html' %}
+  <hr/>
+  {% include '_includes/v1_4/reception-opening-times.html' %}
+  {% include '_includes/v1_4/gp-appointment.html' %}
+  <hr/>
+  {% include '_includes/v1_4/what-patients-say-about-this-surgery.html' %}
+  <hr/>
+  {% include '_includes/v1_4/healthcare-staff-at-this-surgery.html' %}
+  <hr/>
+  {% include '_includes/v1_4/specialised-services.html' %}
+  <hr/>
+  {% include '_includes/v1_4/facilities.html' %}
+  <hr/>
+  {% include '_includes/v1_4/register-as-patient.html' %}
+{% endblock content %}

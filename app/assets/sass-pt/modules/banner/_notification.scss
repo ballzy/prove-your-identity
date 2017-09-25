@@ -1,0 +1,24 @@
+.notification-banner {
+  background-color: #000000;
+  color: #d9e1e2;
+  font-size: $smallprint;
+  line-height: $leading;
+
+  a {
+    color: #d9e1e2;
+  }
+}
+
+.notification-banner-inner {
+  @extend %block;
+  @extend %contain-floats;
+  padding-bottom: $leading;
+  padding-top: $leading;
+  font-size: $smallprint;
+}
+
+.notification-banner-inner p {
+  padding: 0;
+  margin: 0;
+  display: table;
+}

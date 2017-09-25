@@ -1,0 +1,38 @@
+{% extends '_layouts/layout_2-3.html' %}
+
+{% block page_title %}GP Invite System{{serviceName}}{% endblock %}
+
+
+
+{% block content %}
+
+<div class="first-item">
+  <form>
+    <div class="form-group">
+      <fieldset class="inline">
+
+        <h2><legend>GP Invite System</legend></h2>
+        <p>Only invite patients who are:</p>
+        <ul>
+          <li>willing to manage their own health online</li>
+          <li>of sound mind to be able to do that</li>
+        </ul>
+        <div class="form-group">
+          <label class="form-label-bold" for="field1">Patient's Email</label>
+          <input class="form-control" id="field1" name="field1" type="text">
+        </div>
+        <div class="form-group">
+          <label class="form-label-bold" for="field2">Patient's NHS Number</label>
+          <input class="form-control" id="field2" name="field2" type="text">
+        </div>
+
+      </fieldset>
+      <p>I agree that this person has clinical authorisation to view their medical record</p>
+    </div>
+    <a class="button" href="invite-email">Send invite</a>
+  </form>
+</div>
+
+{% endblock %}
+
+{% block footer %}{% endblock %}

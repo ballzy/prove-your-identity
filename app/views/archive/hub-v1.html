@@ -1,0 +1,24 @@
+{% extends '_layouts/layout_2-3_1-3_v5.html' %}
+
+{% block page_title %}
+  Hub V1
+{% endblock page_title %}
+
+{% block pageTitle %}
+  Kenyon Medical Centres: Brandon Road
+{% endblock pageTitle %}
+
+{% block surgeryInfo %}
+  {% include '_includes/hub-v1/phone-number.html' %}
+{% endblock %}
+
+<!-- Main content here -->
+{% block content %}
+  {% include '_includes/hub-v1/reception-opening-times.html' %}
+  <hr class="hr--full-width" />
+  {% include '_includes/hub-v1/tasks.html' %}
+  <hr class="hr--full-width" />
+  {% include '_includes/hub-v1/register-link.html' %}
+  <hr class="hr--full-width" />
+  {% include '_includes/hub-v1/need-help-quickly.html' %}
+{% endblock content %}

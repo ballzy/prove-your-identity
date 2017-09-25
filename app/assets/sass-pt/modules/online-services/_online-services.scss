@@ -1,0 +1,17 @@
+.online-services-desktop {
+
+  display: none;
+
+  @include media(640px) {
+    display: block;
+  }
+}
+
+.online-services-mobile {
+
+  display: block;
+
+  @include media(640px) {
+    display: none;
+  }
+}

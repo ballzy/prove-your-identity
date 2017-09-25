@@ -1,0 +1,76 @@
+{% extends '_layouts/layout_2-3-signed-in.html' %}
+
+{% block page_title %}My NHS Account{{serviceName}}{% endblock %}
+
+{% block content %}
+
+<div>
+	<h1>Manage account</h1>
+	<h2 id="conditions" class="heading-large">Personal details</h2>
+	<p><b>Name:</b><br>John Maurice King</p>
+	<p><b>Address:</b><br>
+		72 Tong Road,<br>
+		Pudsey,<br>
+		Leeds<br>
+		LS12 3QK</p>
+	<p><b>Phone number:</b><br>
+		07779 000333</p>
+	<p><a href="edit-account">Edit details</a></p>
+	<h2 id="conditions" class="heading-large">Linked accounts</h2>
+	<div class="account">
+		<div class="account-row">
+			<div class="acc-name">
+				<p>Your NHS account is linked</p>
+			</div>
+			<div class="acc-connect">
+				<a href="#"><img src="/images/tick.png"></a>
+			</div>
+		</div>
+		<div class="account-row zebra">
+			<div class="acc-name">
+				<p>Your GOV.UK Verify account is not linked</p>
+			</div>
+			<div class="acc-connect">
+				<a href="#"><img src="/images/cross.png"></a>
+			</div>
+		</div>
+		<div class="account-row">
+			<div class="acc-name">
+				<p>Your Facebook is linked</p>
+			</div>
+			<div class="acc-connect">
+				<a href="#"><img src="/images/tick.png"></a>
+			</div>
+		</div>
+		<div class="account-row zebra">
+			<div class="acc-name">
+				<p>Your Google account is not linked</p>
+			</div>
+			<div class="acc-connect">
+				<a href="#"><img src="/images/cross.png"></a>
+			</div>
+		</div>
+		<div class="account-row">
+			<div class="acc-name">
+				<p>Your Twitter account is not linked</p>
+			</div>
+			<div class="acc-connect">
+				<a href="#"><img src="/images/cross.png"></a>
+			</div>
+		</div>
+
+	</div>
+
+
+</div>
+
+{% endblock %}
+
+{% block rightcol %}
+
+
+
+{% endblock %}
+
+{% block footer %}{% endblock %}
+

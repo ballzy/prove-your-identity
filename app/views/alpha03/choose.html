@@ -1,0 +1,31 @@
+{% extends '_layouts/layout_3-3.html' %}
+
+{% block page_title %}Access your Personal Health Record{{serviceName}}{% endblock %}
+
+{% block pageTitle %}Access your Personal Health Record{% endblock %}
+
+{% block intro %}
+
+  <p>Your Personal Health Record is contains sensitive information about your medical history so we have to make sure of your identity.</p>
+
+  <h3 class="h3 header">You need to confirm your identity</h3>
+
+{% endblock intro %}
+
+{% block leftHalf %}
+<div style="border-right: 3px solid #bfc1c3; padding-right: 15px;">
+  <p>You can sign in using your login details that you use to book appointments online with. In the letter that you received with your login details there should be 3 pieces of info. Your <i>linkgage key</i>, your <i>username</i> and the <i>ORG ID</i></p>
+  <p><a href="login" class="button">Continue</a></p>
+</div>
+{% endblock leftHalf %}
+
+{% block rightHalf %}
+<div>
+  <p>You can also <a href="http://govuk-verify-loa1.herokuapp.com/intro?requestId=leeds-person-held-record&userLOA=0">sign in using GOV.UK Verify</a>. If you have not used GOV.UK Verify before, it will take you about 15 minutes to get set up. You can access other government services securely wherever you see the GOV.UK Verify logo.</p>
+  <p><img src="/images/verify.png" alt="GOV UK Verify"></p>
+</div>
+
+{% endblock rightHalf %}
+
+
+{% block footer %}{% endblock %}

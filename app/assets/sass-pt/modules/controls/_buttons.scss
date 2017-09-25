@@ -1,0 +1,167 @@
+// Fix unwanted button padding in Firefox
+.button::-moz-focus-inner {
+  border: 0;
+  padding: 0;
+}
+
+.button {
+  box-sizing: border-box;
+  display: inline-block;
+  font-family: inherit;
+  font-weight: $boldweight;
+  font-size: inherit;
+  line-height: $leading*3;
+  width: 100%;
+  padding: 0 $leading*2;
+  margin: 0 0 $leading 0;
+  text-align: center;
+  color: $pure-white;
+  background-color: $button-green;
+  cursor: pointer;
+  border: 1px solid $button-green;
+  -webkit-appearance: none;
+
+
+  &:link,
+  &:hover,
+  &:focus,
+  &:visited {
+    text-decoration: none;
+    color: $pure-white;
+    background-color: $button-green;
+  }
+
+  &:focus {
+    outline: 0;
+    -webkit-box-shadow: 0 0 0 5px $focus-colour;
+    -moz-box-shadow: 0 0 0 5px $focus-colour;
+    box-shadow: 0 0 0 5px $focus-colour;
+  }
+
+  @include media(mid) {
+    width: auto;
+    margin: 0 $leading $leading 0;
+  }
+
+  &.-back {
+    background-color: transparent;
+    border: transparent;
+    border-left: 0;
+    padding-left: 0;
+    color: $dark-grey;
+    font-weight: $bodyweight;
+    font-size: $smallprint;
+    text-decoration: underline;
+
+    &::before {
+      content: "";
+      display: inline-block;
+      margin-right: $leading/2;
+      width: 0;
+      height: 0;
+      border-top: 5px solid transparent;
+      border-bottom: 5px solid transparent;
+      border-right: 5px solid $dark-grey;
+    }
+  }
+
+  &.-secondary {
+    background-color: tint($nhs-blue, 90);
+    border-color: tint($nhs-blue, 80);
+    color: $black;
+    font-weight: $bodyweight;
+  }
+}
+
+.button {
+
+  &.-bordered {
+    border: 2px solid rgba($pale-grey, 0.5);
+    background-color: rgba($pale-grey, 0.1);
+    padding: 2px $leading/2;
+    color: $nhs-blue;
+    margin-right: $leading/4;
+    font-weight: $bodyweight;
+
+  }
+  &.-bordered:hover {
+    background-color: $pale-grey;
+  }
+
+  &.-small {
+    @extends .-bordered;
+    margin-top: $leading/2;
+    font-size: 16px;
+    line-height: 24px;
+  }
+
+}
+
+.accepting-patients__button {
+  border: 2px solid rgba($pale-grey, 0.5);
+  background-color: rgba($pale-grey, 0.1);
+  padding: 2px $leading/2;
+  color: $nhs-blue;
+  margin-right: $leading/4;
+  margin-bottom: 16px;
+  font-size: 16px;
+  line-height: 22px;
+}
+
+.button__online-tasks {
+  padding: 8px;
+  width: 100%;
+  float: left;
+  line-height: 22px;
+  text-align: left;
+  background-color: #F0F4F5;
+  color: #002C89;
+  border: none;
+  border-bottom: 2px solid #C0CCDF;
+  margin-bottom: 8px;
+
+  @include media(mid) {
+    padding: 12px;
+  }
+
+  @include media(640px) {
+    margin-bottom: 16px;
+    width: 47.4%;
+    display: inline-block;
+  }
+
+  @include media(large) {
+    margin-bottom: 0 !important;
+    width: 32.2%;
+  }
+
+  &:link,
+  &:hover,
+  &:focus,
+  &:visited {
+    text-decoration: none;
+    color: shade(#002C89, 20%);
+    background-color: shade(#F0F4F5, 20%);
+    border-bottom: 2px solid shade(#C0CCDF, 20%);
+  }
+  &:last-of-type {
+    margin-right: 0;
+    margin-bottom: 0;
+  }
+}
+
+.button--icon {
+  float: right;
+}
+
+.online-tasks {
+  margin-bottom: 24px;
+
+  @include media(mid) {
+    margin-bottom: 32px;
+  }
+
+  @include media(large) {
+    margin-bottom: 40px;
+  }
+}

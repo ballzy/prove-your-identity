@@ -1,0 +1,83 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: $page-background;
+}
+
+// Block for a layout "row" - i.e. header, content, footer
+%block,
+.content {
+  max-width: 960px;
+  margin: 0 auto;
+  padding-left: 16px;
+  padding-right: 16px;
+
+  @include media(large) {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+.content {
+  padding-top: $leading;
+
+  @include media(large) {
+    padding-top: $leading*2;
+  }
+}
+
+// float a column right instead of left
+.f-right {
+  @include media(640px) {
+    float: right;
+  }
+}
+
+
+hr {
+  background-color: #eee;
+  border: 0;
+  height: 3px;
+  text-align: left;
+  width: 100%;
+  box-sizing: content-box;
+  overflow: visible;
+  margin: 32px 0;
+  padding: 0;
+
+  @include media(mid) {
+    margin: 56px 0;
+  }
+}
+
+.hr--blue {
+  background-color: #0072c6;
+  border: 0;
+  height: 4px;
+  text-align: left;
+  width: 130px;
+  box-sizing: content-box;
+  overflow: visible;
+  margin: 24px 0;
+  padding: 0;
+
+  @include media(mid) {
+    margin: 40px 0;
+  }
+}
+
+.hr--full-width {
+  background-color: #d9e1e2;
+  border: 0;
+  height: 1px;
+  text-align: left;
+  width: 100%;
+  box-sizing: content-box;
+  overflow: visible;
+  margin: $leading*2 0;
+  padding: 0
+}
+
+.section {
+  padding-top: $leading*2;
+}

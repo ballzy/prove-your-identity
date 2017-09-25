@@ -1,0 +1,40 @@
+{% extends '_layouts/layout_3-3.html' %}
+
+{% block page_title %}
+  Non-registered
+{% endblock page_title %}
+
+{% block pageTitle %}
+  Kenyon Medical Centres: Brandon Road
+{% endblock pageTitle %}
+
+{% block acceptingPatients %}
+  {% include '_includes/non-registered-v1/accepting-patients.html' %}
+{% endblock %}
+
+{% block leftHalf %}
+  {% include '_includes/non-registered-v1/location.html' %}
+{% endblock %}
+
+{% block rightHalf %}
+  {% include '_includes/non-registered-v1/contact-details.html' %}
+{% endblock %}
+
+<!-- Main content here -->
+{% block content %}
+  {% include '_includes/non-registered-v1/location-map.html' %}
+  <hr class="hr--full-width" style="margin:40px 0;" />
+  {% include '_includes/non-registered-v1/when-you-can-see-a-gp.html' %}
+  <hr class="hr--full-width" style="margin:40px 0;" />
+  {% include '_includes/non-registered-v1/what-patients-say.html' %}
+  <hr class="hr--full-width" style="margin:40px 0;" />
+  {% include '_includes/non-registered-v1/what-patients-think.html' %}
+  <hr class="hr--full-width" style="margin:40px 0;" />
+  {% include '_includes/non-registered-v1/staff-at-this-surgery.html' %}
+  <hr class="hr--full-width" style="margin:40px 0;" />
+  {% include '_includes/non-registered-v1/specialised-services.html' %}
+  <hr class="hr--full-width" style="margin:40px 0;" />
+  {% include '_includes/non-registered-v1/facilities.html' %}
+  <hr class="hr--full-width" style="margin:40px 0;" />
+  {% include '_includes/non-registered-v1/register.html' %}
+{% endblock content %}

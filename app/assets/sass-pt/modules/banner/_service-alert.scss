@@ -1,0 +1,43 @@
+.service-alert {
+  background-color: #fada8b;
+  color: #000;
+  font-size: $smallprint;
+  line-height: $leading;
+
+
+}
+
+.service-alert-inner {
+  @extend %block;
+  @extend %contain-floats;
+  padding-bottom: $leading;
+  padding-top: $leading;
+  font-size: 16px;
+}
+
+.service-alert-inner p {
+  padding: 0;
+  margin: 0;
+  display: table;
+  font-size: 16px;
+}
+.service-alert-inner a {
+  font-size: 16px;
+}
+
+.service-alert-inner span {
+  display: table-cell;
+  vertical-align: baseline;
+}
+
+.service-status {
+  border: 2px solid $service-alert-secondary;
+  background-color: $service-alert-secondary;
+  color: $service-alert-primary;
+  padding: 5px 10px;
+  margin: 0 10px 0 0;
+  font-weight: $lightweight;
+  /* text-transform: uppercase; */
+  letter-spacing: 1px;
+  display: inline-block;
+}

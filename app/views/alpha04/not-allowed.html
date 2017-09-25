@@ -1,0 +1,36 @@
+{% extends '_layouts/layout_2-3.html' %}
+
+{% block page_title %}Access your Personal Health Record{{serviceName}}{% endblock %}
+
+{% block pageTitle %}Access your Personal Health Record{% endblock %}
+
+{% block content %}
+
+<div class="first-item">
+  <form>
+    <div class="form-group">
+      <fieldset class="inline">
+
+        <h1 class="heading-large">Invite system</h1>
+
+        <h2 class="heading-xlarge">Patient has been denied access</h2>
+
+        <p>Patient's must:</p>
+        <ul>
+          <li>have sole access to their email</li>
+          <li>be of sound mind to view their medical record</li>
+          <li>be clinically authorised to view their record</li>
+          <li>willing to manage their own health online</li>
+        </ul>
+      </fieldset>
+    </div>
+    <div class="form-group">
+      <a href="beta-invite">Go back to the start</a>
+    </div>
+    
+  </form>
+</div>
+
+{% endblock %}
+
+{% block footer %}{% endblock %}

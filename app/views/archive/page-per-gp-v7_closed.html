@@ -1,0 +1,26 @@
+{% extends '_layouts/layout_2-3_1-3_v7.html' %}
+
+{% block page_title %}
+  V3CLOSED
+{% endblock page_title %}
+
+{% block pageTitle %}
+  Meanwood Group Practice
+{% endblock pageTitle %}
+
+{% block surgeryInfo %}
+  {% include '_includes/archive/v7/contact-details.html' %}
+{% endblock %}
+
+<!-- Main content here -->
+{% block content %}
+  {% include '_includes/archive/v7/opening-times_closed.html' %}
+  <hr style="margin-top:40px;" class="hr--full-width" />
+  {% include '_includes/archive/v7/search-box.html' %}
+  <hr style="margin-top:40px;" class="hr--full-width" />
+{% endblock content %}
+
+<!-- Right hand column goes here -->
+{% block rightColumn %}
+  {% include '_includes/archive/v7/need-help-quickly.html' %}
+{% endblock rightColumn %}

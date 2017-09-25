@@ -1,0 +1,44 @@
+{% extends '_layouts/layout_mvp-v1.html' %}
+
+{% block page_title %}
+  MVP V1
+{% endblock page_title %}
+
+{% block pageTitle %}
+  Kenyon Medical Centres: Brandon Road
+{% endblock pageTitle %}
+
+{% block pageIntro %}
+  <p class="on-dark"><a href="#when-the-surgery-is-open">When reception is open</a></p>
+  <p class="on-dark"><a href="#when-to-see-a-gp">When GPs see patients</a></p>
+  <p class="on-dark" ><a href="#tasks">Book a GP appointment</a></p>
+  <p class="on-dark" ><a href="#patients-stats">What patients say about this surgery</a></p>
+  <p class="on-dark" ><a href="#healthcare-staff">GPs at this surgery</a></p>
+  <p class="on-dark" ><a href="#specialied-services">Services at this surgery</a></p>
+  <p class="on-dark" ><a href="#facilities">Parking and accessibility</a><br/></p>
+  <p class="on-dark" ><a href="#register">Register as a patient with this surgery</a></p>
+{% endblock %}
+
+{% block acceptingPatients %}
+
+{% endblock %}
+
+<!-- Main content here -->
+{% block content %}
+  <div id="address-contact">{% include '_includes/mvp-v1/address-and-contact.html' %}</div>
+  <hr class="hr--full-width" style="margin:40px 0;" />
+  <div id="when-the-surgery-is-open">{% include '_includes/mvp-v1/when-the-surgery-is-open.html' %}</div>
+  <div id="when-to-see-a-gp">{% include '_includes/mvp-v1/when-gp-see-patients.html' %}</div>
+  <hr class="hr--full-width" style="margin:40px 0;" />
+  <div id="tasks">{% include '_includes/mvp-v1/tasks.html' %}</div>
+  <hr class="hr--full-width" style="margin:40px 0;" />
+  <div id="patients-stats">{% include '_includes/mvp-v1/what-patients-say-about-this-surgery.html' %}</div>
+  <hr class="hr--full-width" style="margin:40px 0;" />
+  <div id="healthcare-staff">{% include '_includes/mvp-v1/healthcare-staff-at-this-surgery.html' %}</div>
+  <hr class="hr--full-width" style="margin:40px 0;" />
+  <div id="specialied-services">{% include '_includes/mvp-v1/specialised-services.html' %}</div>
+  <hr class="hr--full-width" style="margin:40px 0;" />
+  <div id="facilities">{% include '_includes/mvp-v1/facilities.html' %}</div>
+  <hr class="hr--full-width" style="margin:40px 0;" />
+  <div id="register">{% include '_includes/mvp-v1/register-as-patient.html' %}
+{% endblock content %}

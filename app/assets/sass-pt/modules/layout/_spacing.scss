@@ -1,0 +1,32 @@
+.shunt {
+  margin-top: $leading*2;
+}
+
+.shunt-2 {
+  margin-top: $leading*4;
+}
+
+.container {
+  margin: 24px 0 !important;
+
+  @include media(640px) {
+    margin: 32px 0 !important;
+  }
+}
+
+
+.practice-location {
+  margin-bottom: 16px;
+
+  @include media(640px) {
+    margin: 0;
+  }
+}
+
+.first-item {
+  margin-top:24px !important;
+
+  @include media(mid) {
+    margin-top:32px !important;
+  }
+}

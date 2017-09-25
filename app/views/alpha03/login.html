@@ -1,0 +1,36 @@
+{% extends '_layouts/layout_2-3.html' %}
+
+{% block page_title %}Access your Personal Health Record{{serviceName}}{% endblock %}
+
+{% block pageTitle %}Access your Personal Health Record{% endblock %}
+
+{% block content %}
+
+<div class="first-item">
+  <form>
+    <div class="form-group">
+      <fieldset class="inline">
+
+        <h2><legend>Login to your online GP account</legend></h2>
+        <div class="form-group">
+          <label class="form-label" for="field1">Username</label>
+          <input class="form-control" id="field1" name="field1" type="text">
+        </div>
+        <div class="form-group">
+          <label class="form-label" for="field2">Linkage key</label>
+          <input class="form-control" id="field2" name="field2" type="text">
+        </div>
+        <div class="form-group">
+          <label class="form-label" for="field3">ORG ID</label>
+          <input class="form-control" id="field3" name="field3" type="text">
+        </div>
+
+      </fieldset>
+    </div>
+    <a class="button" href="gp-record">Login</a>
+  </form>
+</div>
+
+{% endblock %}
+
+{% block footer %}{% endblock %}

@@ -1,0 +1,88 @@
+@import url('//fast.fonts.net/cssapi/4c65968f-c33e-4eb6-9a5d-ab4f81a0543f.css');
+$family: "FS Me", sans-serif;
+
+// For offline / train dev:
+//$family: "Frutiger Neue", "Frutiger", sans-serif;
+
+/*
+56px
+56px,
+40px,
+28px,
+20px,
+
+16px
+*/
+
+$body--mobile: 16px;
+$body: 20px;
+$leading: 16px;
+$lightweight: 200;
+$bodyweight: 400;
+$boldweight: 700;
+$smallprint: 14px;
+
+body {
+  font-family: $family;
+  font-weight: $bodyweight;
+  font-size: $body--mobile;
+  line-height: 22px;
+
+  @include media(mid) {
+      font-size: $body;
+      line-height: 32px;
+      font-weight: $bodyweight;
+  }
+}
+
+// Reading width
+.measure {
+  max-width: 34em;
+}
+
+h1,
+.h1 {
+  margin: $leading 0;
+  font-size: 28px;
+  font-weight: bold;
+  line-height: 40px;
+
+  @include media(mid) {
+    font-size: 36px;
+    line-height: 48px;
+  }
+}
+
+h2,
+.h2 {
+  margin-bottom: 16px;
+  font-size: 28px;
+  line-height: 36px;
+  font-weight: $boldweight;
+
+  @include media(mid) {
+    margin-bottom: 24px;
+    font-size: 36px;
+    line-height: 48px;
+  }
+}
+
+h3,
+.h3 {
+  margin-top: 24px;
+  margin-bottom: 0px;
+  font-size: 20px;
+  font-weight: $boldweight;
+  line-height: 28px;
+
+  @include media(mid) {
+    margin-top: 48px;
+    font-size: 24px;
+    line-height: $leading*2;
+  }
+}
+
+.smallprint {
+  font-size: $smallprint;
+  color: $smallprint-grey;
+}

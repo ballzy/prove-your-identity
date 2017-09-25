@@ -1,0 +1,5740 @@
+[
+  {
+    "website": "http://www.sherburnsurgery.org.uk",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS24 9DJ",
+    "phone": "01977 682208",
+    "partial_postcode": "LS24",
+    "parent_o_d_s_code": "03Q",
+    "parent_name": "NHS Vale Of York CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "3896",
+    "organisation_code": "B82031",
+    "name": "Sherburn Group Practice",
+    "longitude": "-1.2137000560760498",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.2137000560760498,
+        53.85515594482422
+      ]
+    },
+    "latitude": "53.855155944824219",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "False",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "",
+    "address3": "",
+    "address2": "Ulleskelf",
+    "address1": "The Methodist Chapel"
+  },
+  {
+    "website": "http://www.sherburnsurgery.org.uk",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS25 6ED",
+    "phone": "01977 682208",
+    "partial_postcode": "LS25",
+    "parent_o_d_s_code": "03Q",
+    "parent_name": "NHS Vale Of York CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "3897",
+    "organisation_code": "B82031",
+    "name": "Sherburn Group Practice",
+    "longitude": "-1.2535035610198975",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.2535035610198975,
+        53.7985954284668
+      ]
+    },
+    "latitude": "53.798595428466797",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "False",
+    "fax": "01977 681665",
+    "email": "",
+    "county": "",
+    "city": "Sherburn-In-Elmet",
+    "address3": "Beech Grove",
+    "address2": "The Medical Centre",
+    "address1": "Sherburn Group Practice"
+  },
+  {
+    "website": "http://www.sherburnsurgery.org.uk",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS24 9PR",
+    "phone": "01977 682208",
+    "partial_postcode": "LS24",
+    "parent_o_d_s_code": "03Q",
+    "parent_name": "NHS Vale Of York CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "3898",
+    "organisation_code": "B82031",
+    "name": "Sherburn Group Practice",
+    "longitude": "-1.2566301822662354",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.2566301822662354,
+        53.818397521972656
+      ]
+    },
+    "latitude": "53.818397521972656",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "False",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "",
+    "address3": "Church Fenton",
+    "address2": "Main Street",
+    "address1": "The Chapel Schoolroom"
+  },
+  {
+    "website": "http://southmilfordsurgery.co.uk",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS25 4AR",
+    "phone": "01977 682202",
+    "partial_postcode": "LS25",
+    "parent_o_d_s_code": "03Q",
+    "parent_name": "NHS Vale Of York CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "3959",
+    "organisation_code": "B82073",
+    "name": "South Milford Surgery - Micklefield ",
+    "longitude": "-1.3325040340423584",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.3325040340423584,
+        53.79530334472656
+      ]
+    },
+    "latitude": "53.795303344726563",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "01977 681628",
+    "email": "",
+    "county": "",
+    "city": "",
+    "address3": "Leeds",
+    "address2": "Micklefield",
+    "address1": "Churchville Terrace"
+  },
+  {
+    "website": "http://www.southmilfordsurgery.co.uk",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS25 5AA",
+    "phone": "01977 682202",
+    "partial_postcode": "LS25",
+    "parent_o_d_s_code": "03Q",
+    "parent_name": "NHS Vale Of York CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "3960",
+    "organisation_code": "B82073",
+    "name": "South Milford Surgery - South Milford ",
+    "longitude": "-1.249157190322876",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.249157190322876,
+        53.77928161621094
+      ]
+    },
+    "latitude": "53.779281616210938",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "01977 681628",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "South Milford",
+    "address2": "High Street",
+    "address1": "The Surgery"
+  },
+  {
+    "website": "http://www.tadcastermedicalcentre.co.uk/",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS24 8HD",
+    "phone": "01937 530082",
+    "partial_postcode": "LS24",
+    "parent_o_d_s_code": "03Q",
+    "parent_name": "NHS Vale Of York CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "3997",
+    "organisation_code": "B82105",
+    "name": "Tadcaster Medical Centre",
+    "longitude": "-1.2581185102462769",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.2581185102462769,
+        53.8854866027832
+      ]
+    },
+    "latitude": "53.885486602783203",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "01937 530192",
+    "email": "",
+    "county": "North Yorkshire",
+    "city": "Tadcaster",
+    "address3": "",
+    "address2": "",
+    "address1": "Crab Garth"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS29 8TH",
+    "phone": "01943 604455",
+    "partial_postcode": "LS29",
+    "parent_o_d_s_code": "02N",
+    "parent_name": "NHS Airedale, Wharfedale And Craven CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4010",
+    "organisation_code": "B83002",
+    "name": "Ilkley & Wharfedale Medical Practice",
+    "longitude": "-1.8160332441329956",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.8160332441329956,
+        53.923561096191406
+      ]
+    },
+    "latitude": "53.923561096191406",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "01943 604466",
+    "email": "",
+    "county": "",
+    "city": "West Yorkshire",
+    "address3": "Ilkley",
+    "address2": "Springs Lane",
+    "address1": "Springs Medical Centre"
+  },
+  {
+    "website": "www.grangeparksurgery.co.uk",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS29 7HG",
+    "phone": "01943 862108",
+    "partial_postcode": "LS29",
+    "parent_o_d_s_code": "02N",
+    "parent_name": "NHS Airedale, Wharfedale And Craven CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4028",
+    "organisation_code": "B83019",
+    "name": "Dr Goodwin-Jones R B & Partner",
+    "longitude": "-1.7480932474136353",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.7480932474136353,
+        53.912696838378906
+      ]
+    },
+    "latitude": "53.912696838378906",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "01943 864997",
+    "email": "",
+    "county": "",
+    "city": "Ilkley",
+    "address3": "Burley-In-Wharfedale",
+    "address2": "Grange Road",
+    "address1": "Grange Park Surgery"
+  },
+  {
+    "website": "www.addinghamsurgery.co.uk",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS29 0LZ",
+    "phone": "01943 830367",
+    "partial_postcode": "LS29",
+    "parent_o_d_s_code": "02N",
+    "parent_name": "NHS Airedale, Wharfedale And Craven CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4091",
+    "organisation_code": "B83620",
+    "name": "Dr Suleman Addingham Medical Centre",
+    "longitude": "-1.8814080953598022",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.8814080953598022,
+        53.943687438964844
+      ]
+    },
+    "latitude": "53.943687438964844",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "01943 831287",
+    "email": "",
+    "county": "",
+    "city": "Ilkley",
+    "address3": "Addingham",
+    "address2": "151a Main Street",
+    "address1": "Addingham Medical Centre"
+  },
+  {
+    "website": "www.ilkleymoordoctors.co.uk",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS29 8TH",
+    "phone": "01943 604999",
+    "partial_postcode": "LS29",
+    "parent_o_d_s_code": "02N",
+    "parent_name": "NHS Airedale, Wharfedale And Craven CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4094",
+    "organisation_code": "B83624",
+    "name": "Ilkley Moor Medical Practice",
+    "longitude": "-1.8160332441329956",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.8160332441329956,
+        53.923561096191406
+      ]
+    },
+    "latitude": "53.923561096191406",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "01943 886307",
+    "email": "wendy.ribbands@bradford.nhs.uk",
+    "county": "",
+    "city": "Ilkley",
+    "address3": "Springs Lane",
+    "address2": "The Health Centre",
+    "address1": "Ilkley Moor Medical Practice"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS27 9NB",
+    "phone": "0113 2954060",
+    "partial_postcode": "LS27",
+    "parent_o_d_s_code": "03C",
+    "parent_name": "NHS Leeds West CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4233",
+    "organisation_code": "B86001",
+    "name": " Dr N Saddiq",
+    "longitude": "-1.6055821180343628",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6055821180343628,
+        53.744876861572266
+      ]
+    },
+    "latitude": "53.744876861572266",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2954062",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "Morley",
+    "address2": "Corporation Street",
+    "address1": "Morley Health Centre"
+  },
+  {
+    "website": "http://www.cityviewmedicalpractice.co.uk",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS11 8LH",
+    "phone": "0113 2760717",
+    "partial_postcode": "LS11",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4234",
+    "organisation_code": "B86002",
+    "name": "City View Medical Practice",
+    "longitude": "-1.5557541847229004",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5557541847229004,
+        53.77824783325195
+      ]
+    },
+    "latitude": "53.778247833251953",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2703727",
+    "email": "victoria.keys@nhs.net",
+    "county": "",
+    "city": "West Yorkshire",
+    "address3": "Leeds",
+    "address2": "123 Cemetery Road",
+    "address1": "Beeston Hill Community Health Centre"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS12 3HD",
+    "phone": "0113 4677499",
+    "partial_postcode": "LS12",
+    "parent_o_d_s_code": "03C",
+    "parent_name": "NHS Leeds West CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4235",
+    "organisation_code": "B86003",
+    "name": "Dr G A Lees & Partners",
+    "longitude": "-1.5931819677352905",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5931819677352905,
+        53.796390533447266
+      ]
+    },
+    "latitude": "53.796390533447266",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2631915",
+    "email": "armleymedical@nhs.net",
+    "county": "",
+    "city": "Leeds",
+    "address3": "95 Town Street",
+    "address2": "Armley Moor Health Centre",
+    "address1": "Armley Medical Practice"
+  },
+  {
+    "website": "http://www.highfieldsurgery.com",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS16 7RX",
+    "phone": "0113 2953600",
+    "partial_postcode": "LS16",
+    "parent_o_d_s_code": "03C",
+    "parent_name": "NHS Leeds West CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4236",
+    "organisation_code": "B86004",
+    "name": "High Field Surgery",
+    "longitude": "-1.6077032089233398",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6077032089233398,
+        53.855751037597656
+      ]
+    },
+    "latitude": "53.855751037597656",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2678866",
+    "email": "",
+    "county": "",
+    "city": "",
+    "address3": "Leeds",
+    "address2": "Holtdale Approach",
+    "address1": "High Field Surgery"
+  },
+  {
+    "website": "http://www.oakleymedicalpractice.nhs.uk",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS11 5HT",
+    "phone": "0113 2720900",
+    "partial_postcode": "LS11",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4237",
+    "organisation_code": "B86005",
+    "name": "Oakley Medical Practice",
+    "longitude": "-1.5455101728439331",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.545510172843933,
+        53.77412796020508
+      ]
+    },
+    "latitude": "53.774127960205078",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2707300",
+    "email": "oakley.medicalpractice@nhs.net",
+    "county": "",
+    "city": "",
+    "address3": "",
+    "address2": "Leeds",
+    "address1": "12 Oakley Terrace"
+  },
+  {
+    "website": "http://www.oultonmedicalcentre.co.uk/",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS26 8SZ",
+    "phone": "0113 2822138",
+    "partial_postcode": "LS26",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4238",
+    "organisation_code": "B86006",
+    "name": "Oulton Medical Centre - Dr  Hudson & Partners",
+    "longitude": "-1.4494279623031616",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.4494279623031616,
+        53.75244140625
+      ]
+    },
+    "latitude": "53.75244140625",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2887708",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "Oulton",
+    "address2": "Quarry Hill",
+    "address1": "Oulton Medical Centre"
+  },
+  {
+    "website": "http://www.marshstreetsurgery.co.uk",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS26 0AG",
+    "phone": "0113 2821571",
+    "partial_postcode": "LS26",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4239",
+    "organisation_code": "B86006",
+    "name": "Marsh Street Surgery - Dr Hudson & Partners",
+    "longitude": "-1.4778382778167725",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.4778382778167725,
+        53.74711990356445
+      ]
+    },
+    "latitude": "53.747119903564453",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2824720",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "Rothwell",
+    "address2": "25a Marsh Street",
+    "address1": "Marsh Street Surgery"
+  },
+  {
+    "website": "www.windmillhealthcentre.nhs.uk",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS14 5JS",
+    "phone": "0113 2733733",
+    "partial_postcode": "LS14",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4240",
+    "organisation_code": "B86007",
+    "name": "Dr Roberts & Partners",
+    "longitude": "-1.4538643360137939",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.453864336013794,
+        53.823143005371094
+      ]
+    },
+    "latitude": "53.823143005371094",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2323202",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "Leeds",
+    "address2": "Mill Green View",
+    "address1": "Windmill Health Centre"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS16 8EX",
+    "phone": "0113 2369056",
+    "partial_postcode": "LS16",
+    "parent_o_d_s_code": "02V",
+    "parent_name": "NHS Leeds North CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4241",
+    "organisation_code": "B86008",
+    "name": "Dr Rickards A F & Partners",
+    "longitude": "-1.5814406871795654",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5814406871795654,
+        53.85037612915039
+      ]
+    },
+    "latitude": "53.850376129150391",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2953456",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "",
+    "address1": "141 Long Causeway"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS17 7AQ",
+    "phone": "0113 2369056",
+    "partial_postcode": "LS17",
+    "parent_o_d_s_code": "02V",
+    "parent_name": "NHS Leeds North CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4242",
+    "organisation_code": "B86008",
+    "name": "Dr Rickards A F & Partners",
+    "longitude": "-1.5540658235549927",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5540658235549927,
+        53.85163497924805
+      ]
+    },
+    "latitude": "53.851634979248047",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2953440",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "150 Nursery Lane",
+    "address2": "and Adel",
+    "address1": "Surgery At Nursery Lane"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS15 8BZ",
+    "phone": "01132645455",
+    "partial_postcode": "LS15",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4243",
+    "organisation_code": "B86009",
+    "name": "Dr P D Lewis & Partners",
+    "longitude": "-1.4513764381408691",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.4513764381408691,
+        53.804256439208984
+      ]
+    },
+    "latitude": "53.804256439208984",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "Station Road",
+    "address2": "Manston Surgery",
+    "address1": "Crossgates Medical Centre"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS15 4DR",
+    "phone": "0113 2645414",
+    "partial_postcode": "LS15",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4244",
+    "organisation_code": "B86009",
+    "name": "Dr P D Lewis& Partners",
+    "longitude": "-1.4276742935180664",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.4276742935180664,
+        53.82429885864258
+      ]
+    },
+    "latitude": "53.824298858642578",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "Leeds",
+    "address2": "Scholes",
+    "address1": "96 Main Street"
+  },
+  {
+    "website": "http://www.collinghamsurgery.co.uk",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS22 5BQ",
+    "phone": "01937 222841",
+    "partial_postcode": "LS22",
+    "parent_o_d_s_code": "02V",
+    "parent_name": "NHS Leeds North CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4245",
+    "organisation_code": "B86010",
+    "name": "Church View Surgery",
+    "longitude": "-1.4089328050613403",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.4089328050613403,
+        53.908138275146484
+      ]
+    },
+    "latitude": "53.908138275146484",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "False",
+    "fax": "01937 574754",
+    "email": "",
+    "county": "",
+    "city": "Wetherby",
+    "address3": "Collingham",
+    "address2": "School Lane",
+    "address1": "Church View Surgery"
+  },
+  {
+    "website": "www.collinghamsurgery.co.uk",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS14 3DX",
+    "phone": "0844 477 8610",
+    "partial_postcode": "LS14",
+    "parent_o_d_s_code": "02V",
+    "parent_name": "NHS Leeds North CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4246",
+    "organisation_code": "B86010",
+    "name": "The Surgery",
+    "longitude": "-1.4270434379577637",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.4270434379577637,
+        53.85829544067383
+      ]
+    },
+    "latitude": "53.858295440673828",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "False",
+    "fax": "01937 201 7015",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "Thorner",
+    "address2": "Main Street",
+    "address1": "The Surgery"
+  },
+  {
+    "website": "www.hillfootsurgery.co.uk",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS28 7QR",
+    "phone": "0113 2574169",
+    "partial_postcode": "LS28",
+    "parent_o_d_s_code": "03C",
+    "parent_name": "NHS Leeds West CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4247",
+    "organisation_code": "B86011",
+    "name": "Dr Maddy P J & Partners",
+    "longitude": "-1.6874016523361206",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6874016523361206,
+        53.79985427856445
+      ]
+    },
+    "latitude": "53.799854278564453",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2363380",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "Pudsey",
+    "address2": "126 Owlcotes Road",
+    "address1": "Hillfoot Surgery"
+  },
+  {
+    "website": "http://www.leeds-city-medical.gpsurgery.net",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS11 8LH",
+    "phone": "0113 467 7500",
+    "partial_postcode": "LS11",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4248",
+    "organisation_code": "B86012",
+    "name": "Leeds City Medical Practice",
+    "longitude": "-1.5557924509048462",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5557924509048462,
+        53.778011322021484
+      ]
+    },
+    "latitude": "53.778011322021484",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 276 0529",
+    "email": "bhmp@nhs.net",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "Beeston",
+    "address2": "123 Cemetery Road",
+    "address1": "Beeston Hill Community Health Centre, 2nd Floor"
+  },
+  {
+    "website": "http://www.leeds-city-medical.gpsurgery.net",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS11 6ER",
+    "phone": "0113 2775433",
+    "partial_postcode": "LS11",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4249",
+    "organisation_code": "B86012",
+    "name": "Crossland Surgery",
+    "longitude": "-1.545051097869873",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.545051097869873,
+        53.777713775634766
+      ]
+    },
+    "latitude": "53.777713775634766",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2720722",
+    "email": "bhmp@nhs.net",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Beeston",
+    "address1": "218a Dewsbury Road"
+  },
+  {
+    "website": "http://www.leeds-city-medical.gpsurgery.net/",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS11 5LQ",
+    "phone": "0113 4677505",
+    "partial_postcode": "LS11",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4250",
+    "organisation_code": "B86012",
+    "name": "Parkside Surgery",
+    "longitude": "-1.5477222204208374",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5477222204208374,
+        53.771602630615234
+      ]
+    },
+    "latitude": "53.771602630615234",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2773594",
+    "email": "bhmp@nhs.net",
+    "county": "",
+    "city": "West Yorkshire",
+    "address3": "Leeds",
+    "address2": "311 Dewsbury Road",
+    "address1": "Parkside Health Centre, 1st Floor"
+  },
+  {
+    "website": "www.northleedsmedicalpractice.nhs.uk",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS17 6PZ",
+    "phone": "0113 2680066",
+    "partial_postcode": "LS17",
+    "parent_o_d_s_code": "02V",
+    "parent_name": "NHS Leeds North CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4251",
+    "organisation_code": "B86013",
+    "name": "The North Leeds Medical Practice - Harrogate Road",
+    "longitude": "-1.5340179204940796",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5340179204940796,
+        53.84318542480469
+      ]
+    },
+    "latitude": "53.843185424804688",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2953242",
+    "email": "northleeds.medicalpractice@nhs.net",
+    "county": "",
+    "city": "West Yorkshire",
+    "address3": "Leeds",
+    "address2": "",
+    "address1": "355 Harrogate Road"
+  },
+  {
+    "website": "www.northleedsmedicalpractice.nhs.uk",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS8 5JW",
+    "phone": "0113 2490598",
+    "partial_postcode": "LS8",
+    "parent_o_d_s_code": "02V",
+    "parent_name": "NHS Leeds North CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4252",
+    "organisation_code": "B86013",
+    "name": "The North Leeds Medical Practice - Milan Street",
+    "longitude": "-1.514549732208252",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.514549732208252,
+        53.81418228149414
+      ]
+    },
+    "latitude": "53.814182281494141",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2954029",
+    "email": "northleeds.medicalpratice@nhs.net",
+    "county": "",
+    "city": "West Yorkshire",
+    "address3": "Leeds",
+    "address2": "",
+    "address1": "2 Milan Street"
+  },
+  {
+    "website": "http://www.robinlanemedicalcentre.com",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS28 7DE",
+    "phone": "0113 257 6787",
+    "partial_postcode": "LS28",
+    "parent_o_d_s_code": "03C",
+    "parent_name": "NHS Leeds West CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4253",
+    "organisation_code": "B86014",
+    "name": "Robin Lane Health and Wellbeing Centre",
+    "longitude": "-1.6612963676452637",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6612963676452637,
+        53.795013427734375
+      ]
+    },
+    "latitude": "53.795013427734375",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 295 1440",
+    "email": "",
+    "county": "West Yorkshire",
+    "city": "Pudsey",
+    "address3": "Robin Lane",
+    "address2": "Robin Lane Medical Centre",
+    "address1": "Robin Lane Health & Wellbeing Centre"
+  },
+  {
+    "website": "http://www.manorparksurgery.co.uk/",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS13 2UP",
+    "phone": "0113 239 4416",
+    "partial_postcode": "LS13",
+    "parent_o_d_s_code": "03C",
+    "parent_name": "NHS Leeds West CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4254",
+    "organisation_code": "B86015",
+    "name": "Dr  RD Gilmore & Partners",
+    "longitude": "-1.6288683414459229",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6288683414459229,
+        53.81414031982422
+      ]
+    },
+    "latitude": "53.814140319824219",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 290 5538",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "Bramley",
+    "address2": "Bellmount Close",
+    "address1": "Manor Park Surgery"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS9 9EF",
+    "phone": "0113 2409500",
+    "partial_postcode": "LS9",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4255",
+    "organisation_code": "B86016",
+    "name": "Shaftesbury Medical Centre",
+    "longitude": "-1.4978733062744141",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.497873306274414,
+        53.80022048950195
+      ]
+    },
+    "latitude": "53.800220489501953",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2009379",
+    "email": "",
+    "county": "",
+    "city": "",
+    "address3": "Leeds",
+    "address2": "78 Osmondthorpe Lane",
+    "address1": "East Leeds Health Centre"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS15 8BZ",
+    "phone": "0113 260 0021",
+    "partial_postcode": "LS15",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4256",
+    "organisation_code": "B86016",
+    "name": "Church View Surgery",
+    "longitude": "-1.4511474370956421",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.451147437095642,
+        53.80377197265625
+      ]
+    },
+    "latitude": "53.80377197265625",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 204 4519",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "Station Road",
+    "address2": "Church View Surgery",
+    "address1": "Crossgates Medical Centre"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS6 2AF",
+    "phone": "0113 2953540",
+    "partial_postcode": "LS6",
+    "parent_o_d_s_code": "03C",
+    "parent_name": "NHS Leeds West CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4257",
+    "organisation_code": "B86017",
+    "name": "Holly Bank Surgery",
+    "longitude": "-1.57696533203125",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.57696533203125,
+        53.82083511352539
+      ]
+    },
+    "latitude": "53.820835113525391",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2953542",
+    "email": "",
+    "county": "",
+    "city": "",
+    "address3": "Leeds",
+    "address2": "1 Shire Oak Street",
+    "address1": "Headingley Medical Centre"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS6 2RX",
+    "phone": "0113 2953530",
+    "partial_postcode": "LS6",
+    "parent_o_d_s_code": "03C",
+    "parent_name": "NHS Leeds West CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4258",
+    "organisation_code": "B86017",
+    "name": "Craven Road Medical Centre",
+    "longitude": "-1.5472486019134521",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5472486019134521,
+        53.814231872558594
+      ]
+    },
+    "latitude": "53.814231872558594",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2953532",
+    "email": "",
+    "county": "",
+    "city": "",
+    "address3": "Leeds",
+    "address2": "",
+    "address1": "60 Craven Road"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS28 7XP",
+    "phone": "0113 2570711",
+    "partial_postcode": "LS28",
+    "parent_o_d_s_code": "03C",
+    "parent_name": "NHS Leeds West CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4259",
+    "organisation_code": "B86018",
+    "name": "Dr Ross R J & Partners",
+    "longitude": "-1.6638325452804565",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6638325452804565,
+        53.794883728027344
+      ]
+    },
+    "latitude": "53.794883728027344",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "False",
+    "fax": "0113 2954168",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "Pudsey",
+    "address2": "18 Mulberry Street",
+    "address1": "Pudsey Health Centre"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS7 3DR",
+    "phone": "0113 2007474",
+    "partial_postcode": "LS7",
+    "parent_o_d_s_code": "02V",
+    "parent_name": "NHS Leeds North CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4260",
+    "organisation_code": "B86019",
+    "name": "Dr Ottman & Partners RL",
+    "longitude": "-1.5435011386871338",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5435011386871338,
+        53.82505416870117
+      ]
+    },
+    "latitude": "53.825054168701172",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2952748",
+    "email": "",
+    "county": "",
+    "city": "",
+    "address3": "Leeds",
+    "address2": "Scott Hall Road",
+    "address1": "Rutland Lodge Medical Centre"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS7 1JL",
+    "phone": "0113 2007474",
+    "partial_postcode": "LS7",
+    "parent_o_d_s_code": "02V",
+    "parent_name": "NHS Leeds North CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4261",
+    "organisation_code": "B86019",
+    "name": "Dr Ottman & Partners",
+    "longitude": "-1.5408366918563843",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5408366918563843,
+        53.807518005371094
+      ]
+    },
+    "latitude": "53.807518005371094",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2007474",
+    "email": "",
+    "county": "",
+    "city": "",
+    "address3": "Leeds",
+    "address2": "27 Carlton Gardens",
+    "address1": "Rutland Lodge Medical Practice"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS26 0AE",
+    "phone": "0113 2823390",
+    "partial_postcode": "LS26",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4262",
+    "organisation_code": "B86020",
+    "name": "Dr L T Blakemore & Partners",
+    "longitude": "-1.4788672924041748",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.4788672924041748,
+        53.74728775024414
+      ]
+    },
+    "latitude": "53.747287750244141",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "False",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "Rothwell",
+    "address2": "4 Marsh Street",
+    "address1": "The Manse Surgery"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS8 3BZ",
+    "phone": "0113 2953750",
+    "partial_postcode": "LS8",
+    "parent_o_d_s_code": "02V",
+    "parent_name": "NHS Leeds North CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4264",
+    "organisation_code": "B86022",
+    "name": "Dr Cohen A F & Partners",
+    "longitude": "-1.4923251867294312",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.4923251867294312,
+        53.818599700927734
+      ]
+    },
+    "latitude": "53.818599700927734",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2953760",
+    "email": "chapeloak.prescriptions@nhs.net",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "2 Amberton Terrace",
+    "address1": "Oakwood Lane Medical Practice"
+  },
+  {
+    "website": "http://www.avenuesurgeryleeds.co.uk/",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS17 7BE",
+    "phone": "0113 2953780",
+    "partial_postcode": "LS17",
+    "parent_o_d_s_code": "02V",
+    "parent_name": "NHS Leeds North CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4265",
+    "organisation_code": "B86023",
+    "name": "The Avenue Surgery",
+    "longitude": "-1.5609414577484131",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.560941457748413,
+        53.85700225830078
+      ]
+    },
+    "latitude": "53.857002258300781",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "West Yorkshire",
+    "address3": "Leeds",
+    "address2": "Alwoodley",
+    "address1": "24 The Avenue"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS6 4JP",
+    "phone": "0113 2953790",
+    "partial_postcode": "LS6",
+    "parent_o_d_s_code": "02V",
+    "parent_name": "NHS Leeds North CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4266",
+    "organisation_code": "B86023",
+    "name": "Green Road Surgery",
+    "longitude": "-1.5672328472137451",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5672328472137451,
+        53.82925796508789
+      ]
+    },
+    "latitude": "53.829257965087891",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "West Yorkshire",
+    "address3": "Leeds",
+    "address2": "Meanwood",
+    "address1": "4A Green Road"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS12 1HU",
+    "phone": "0113 2954260",
+    "partial_postcode": "LS12",
+    "parent_o_d_s_code": "03C",
+    "parent_name": "NHS Leeds West CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4267",
+    "organisation_code": "B86024",
+    "name": "Dr Burkill A D & Partners - Priory View Medical Centre",
+    "longitude": "-1.5748447179794312",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5748447179794312,
+        53.791709899902344
+      ]
+    },
+    "latitude": "53.791709899902344",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2954278",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "Leeds",
+    "address2": "2a Green Lane",
+    "address1": "Priory View Medical Centre"
+  },
+  {
+    "website": "www.hydeparksurgery.co.uk",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS6 1SG",
+    "phone": "0113 2001090",
+    "partial_postcode": "LS6",
+    "parent_o_d_s_code": "03C",
+    "parent_name": "NHS Leeds West CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4268",
+    "organisation_code": "B86025",
+    "name": "Dr Watson D L & Partners",
+    "longitude": "-1.5677375793457031",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5677375793457031,
+        53.8067741394043
+      ]
+    },
+    "latitude": "53.806774139404297",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2001099",
+    "email": "hydeparksurgery@nhs.net",
+    "county": "",
+    "city": "Leeds",
+    "address3": "Leeds",
+    "address2": "Woodsley Road",
+    "address1": "Hyde Park Surgery"
+  },
+  {
+    "website": "http://www.southqueenstreetmedical.nhs.uk/",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS27 9EW",
+    "phone": "0113 2534863",
+    "partial_postcode": "LS27",
+    "parent_o_d_s_code": "03C",
+    "parent_name": "NHS Leeds West CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4270",
+    "organisation_code": "B86028",
+    "name": "South Queen Street Medical Centre",
+    "longitude": "-1.5990737676620483",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5990737676620483,
+        53.742061614990234
+      ]
+    },
+    "latitude": "53.742061614990234",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2383564",
+    "email": "",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "Morley",
+    "address2": "South Queen Street",
+    "address1": "South Queen Street Medical Centre"
+  },
+  {
+    "website": "http://www.westgatesurgery.com",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS21 3HD",
+    "phone": "01943 660533",
+    "partial_postcode": "LS21",
+    "parent_o_d_s_code": "02V",
+    "parent_name": "NHS Leeds North CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4271",
+    "organisation_code": "B86029",
+    "name": "Westgate Surgery",
+    "longitude": "-1.6991307735443115",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6991307735443115,
+        53.9047737121582
+      ]
+    },
+    "latitude": "53.904773712158203",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "01943 468363",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "Otley",
+    "address2": "",
+    "address1": "Westgate"
+  },
+  {
+    "website": "www.burtondocs.co.uk",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS6 2AF",
+    "phone": "0113 274 4777",
+    "partial_postcode": "LS6",
+    "parent_o_d_s_code": "03C",
+    "parent_name": "NHS Leeds West CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4272",
+    "organisation_code": "B86030",
+    "name": "Dr Allman I G & Partners",
+    "longitude": "-1.57696533203125",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.57696533203125,
+        53.82083511352539
+      ]
+    },
+    "latitude": "53.820835113525391",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2304219",
+    "email": "docs@burtondocs.co.uk",
+    "county": "",
+    "city": "West Yorkshire",
+    "address3": "Leeds",
+    "address2": "Headingley Medical Centre",
+    "address1": "Burton Croft Surgery"
+  },
+  {
+    "website": "http://www.westfieldmedicalcentre.co.uk",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS7 3EX",
+    "phone": "0113 4679744",
+    "partial_postcode": "LS7",
+    "parent_o_d_s_code": "02V",
+    "parent_name": "NHS Leeds North CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4273",
+    "organisation_code": "B86031",
+    "name": "Westfield Medical Centre",
+    "longitude": "-1.5317786931991577",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5317786931991577,
+        53.8177375793457
+      ]
+    },
+    "latitude": "53.817737579345703",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2622791",
+    "email": "westfield@nhs.net",
+    "county": "",
+    "city": "Leeds",
+    "address3": "263 Chapeltown Road",
+    "address2": "The Reginald Centre",
+    "address1": "First Floor"
+  },
+  {
+    "website": "http://www.ChevinMedicalPractice.com",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS21 1BQ",
+    "phone": "01943 858300",
+    "partial_postcode": "LS21",
+    "parent_o_d_s_code": "02V",
+    "parent_name": "NHS Leeds North CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4274",
+    "organisation_code": "B86032",
+    "name": "Chevin Medical Practice",
+    "longitude": "-1.6936824321746826",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6936824321746826,
+        53.90677261352539
+      ]
+    },
+    "latitude": "53.906772613525391",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "01943 858333",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "Otley",
+    "address2": "3 Bridge Street",
+    "address1": ""
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS16 9BR",
+    "phone": "0113 2303200",
+    "partial_postcode": "LS16",
+    "parent_o_d_s_code": "02V",
+    "parent_name": "NHS Leeds North CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4275",
+    "organisation_code": "B86032",
+    "name": "Chevin Medical Practice    ",
+    "longitude": "-1.6157947778701782",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6157947778701782,
+        53.88191604614258
+      ]
+    },
+    "latitude": "53.881916046142578",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2300144",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "Bramhope",
+    "address2": "Tredgold Crescent",
+    "address1": "The Health Centre"
+  },
+  {
+    "website": "www.crossleystreetsurgery.co.uk",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS22 6RT",
+    "phone": "01937 543200",
+    "partial_postcode": "LS22",
+    "parent_o_d_s_code": "02V",
+    "parent_name": "NHS Leeds North CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4276",
+    "organisation_code": "B86033",
+    "name": "Dr Hall R & Partners",
+    "longitude": "-1.3888974189758301",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.38889741897583,
+        53.93026351928711
+      ]
+    },
+    "latitude": "53.930263519287109",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "01937 588689",
+    "email": "",
+    "county": "",
+    "city": "West Yorkshire",
+    "address3": "Wetherby",
+    "address2": "Crossley Street",
+    "address1": "Crossley Street Surgery"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS23 6PY",
+    "phone": "01937 842842",
+    "partial_postcode": "LS23",
+    "parent_o_d_s_code": "02V",
+    "parent_name": "NHS Leeds North CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4277",
+    "organisation_code": "B86034",
+    "name": "Dr Brady  & Partners",
+    "longitude": "-1.3431229591369629",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.343122959136963,
+        53.90361404418945
+      ]
+    },
+    "latitude": "53.903614044189453",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "01937 841095",
+    "email": "",
+    "county": "",
+    "city": "Wetherby",
+    "address3": "Boston Spa",
+    "address2": "205 High Street",
+    "address1": "Spa Surgery"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS10 2PT",
+    "phone": "0113 2705194",
+    "partial_postcode": "LS10",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4278",
+    "organisation_code": "B86035",
+    "name": "Dr Sally Brown & Partners",
+    "longitude": "-1.5265845060348511",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.526584506034851,
+        53.77992248535156
+      ]
+    },
+    "latitude": "53.779922485351563",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2702795",
+    "email": "whitfieldpractice@nhs.net",
+    "county": "",
+    "city": "Leeds",
+    "address3": "24 Church Street",
+    "address2": "Hunslet Health Centre",
+    "address1": "The Whitfield Practice"
+  },
+  {
+    "website": "http://gibsonlanepractice.co.uk/",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS25 7JN",
+    "phone": "0113 2870870",
+    "partial_postcode": "LS25",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4279",
+    "organisation_code": "B86036",
+    "name": "Gibson Lane Practice Main Site",
+    "longitude": "-1.3678416013717651",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.3678416013717651,
+        53.77133560180664
+      ]
+    },
+    "latitude": "53.771335601806641",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2320746",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "Kippax",
+    "address2": "Gibson Lane",
+    "address1": "Gibson Lane Practice"
+  },
+  {
+    "website": "http://gibsonlanepractice.co.uk/",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS25 2AW",
+    "phone": "01132872563",
+    "partial_postcode": "LS25",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4280",
+    "organisation_code": "B86036",
+    "name": "GLP Hazelwood Avenue Surgery",
+    "longitude": "-1.3757040500640869",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.375704050064087,
+        53.78544235229492
+      ]
+    },
+    "latitude": "53.785442352294922",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2320747",
+    "email": "",
+    "county": "",
+    "city": "Garforth",
+    "address3": "Leeds",
+    "address2": "Garforth",
+    "address1": "3-5 Hazelwood Avenue"
+  },
+  {
+    "website": "http://www.gibsonlanemedicalpractice.co.uk/",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS25 5EG",
+    "phone": "01977683452",
+    "partial_postcode": "LS25",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4281",
+    "organisation_code": "B86036",
+    "name": "GLP Monk Fryston Surgery",
+    "longitude": "-1.2308850288391113",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.2308850288391113,
+        53.76106262207031
+      ]
+    },
+    "latitude": "53.761062622070313",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "01977689112",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "Monk Fryston",
+    "address2": "37 Main Street",
+    "address1": "Monk Fryston Surgery"
+  },
+  {
+    "website": "www.thepracticeplc.com/radshanhouse",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS25 7JU",
+    "phone": "0113 2861891",
+    "partial_postcode": "LS25",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4282",
+    "organisation_code": "B86037",
+    "name": "The Practice Radshan House",
+    "longitude": "-1.3728305101394653",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.3728305101394653,
+        53.765411376953125
+      ]
+    },
+    "latitude": "53.765411376953125",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2862550",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "Kippax",
+    "address2": "33-35 Butt Hill",
+    "address1": "The Practice Radshan House "
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS20 9HE",
+    "phone": "0113 887 9742",
+    "partial_postcode": "LS20",
+    "parent_o_d_s_code": "03C",
+    "parent_name": "NHS Leeds West CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4283",
+    "organisation_code": "B86038",
+    "name": "Guiseley and Yeadon Medical Practice",
+    "longitude": "-1.7135590314865112",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.7135590314865112,
+        53.87594223022461
+      ]
+    },
+    "latitude": "53.875942230224609",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2954044",
+    "email": "",
+    "county": "",
+    "city": "Guiseley",
+    "address3": "Yeadon",
+    "address2": "South View Road",
+    "address1": "10 Netherfield Road"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS19 7PS",
+    "phone": "0113 887 9742",
+    "partial_postcode": "LS19",
+    "parent_o_d_s_code": "03C",
+    "parent_name": "NHS Leeds West CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4284",
+    "organisation_code": "B86038",
+    "name": "Guiseley & Yeadon Medical Practice",
+    "longitude": "-1.6839500665664673",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6839500665664673,
+        53.86518096923828
+      ]
+    },
+    "latitude": "53.865180969238281",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "admin.yhc@nhs.net",
+    "county": "",
+    "city": "Leeds",
+    "address3": "Yeadon",
+    "address2": "17 South View Road",
+    "address1": "Yeadon Community Health Centre"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS7 4LF",
+    "phone": "0113 2953460",
+    "partial_postcode": "LS7",
+    "parent_o_d_s_code": "02V",
+    "parent_name": "NHS Leeds North CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4285",
+    "organisation_code": "B86039",
+    "name": "Dr Haroon Rashid & Partners",
+    "longitude": "-1.5338791608810425",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5338791608810425,
+        53.82692337036133
+      ]
+    },
+    "latitude": "53.826923370361328",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2953469",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "Leeds",
+    "address2": "6 Montreal Avenue",
+    "address1": "Allerton Medical Centre"
+  },
+  {
+    "website": "http://www.vesperroadsurgery.co.uk/index.aspx",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS5 3DB",
+    "phone": "0113 2752098",
+    "partial_postcode": "LS5",
+    "parent_o_d_s_code": "03C",
+    "parent_name": "NHS Leeds West CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4286",
+    "organisation_code": "B86041",
+    "name": "Dr Geraghty P G M & Partners Morris Lane",
+    "longitude": "-1.6003382205963135",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6003382205963135,
+        53.818138122558594
+      ]
+    },
+    "latitude": "53.818138122558594",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2749424",
+    "email": "enquiries.vesperroad@nhs.net",
+    "county": "",
+    "city": "",
+    "address3": "Leeds",
+    "address2": "15 Morris Lane",
+    "address1": "Kirkstall Clinic"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS5 3QT",
+    "phone": "0113 2751248",
+    "partial_postcode": "LS5",
+    "parent_o_d_s_code": "03C",
+    "parent_name": "NHS Leeds West CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4287",
+    "organisation_code": "B86041",
+    "name": "Dr Geraghty P G M & Partners Vesper Road",
+    "longitude": "-1.6153368949890137",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6153368949890137,
+        53.827327728271484
+      ]
+    },
+    "latitude": "53.827327728271484",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2749090",
+    "email": "",
+    "county": "",
+    "city": "",
+    "address3": "",
+    "address2": "Leeds",
+    "address1": "43 Vesper Road"
+  },
+  {
+    "website": "http://www.lingwellcroft.co.uk/",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS10 3NB",
+    "phone": "0113 2704848",
+    "partial_postcode": "LS10",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4288",
+    "organisation_code": "B86042",
+    "name": "Dr Crystal T L & Partners",
+    "longitude": "-1.5349735021591187",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5349735021591187,
+        53.74998092651367
+      ]
+    },
+    "latitude": "53.749980926513672",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2720030",
+    "email": "",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "Middleton",
+    "address2": "16 Shelldrake Drive",
+    "address1": "Lingwell Croft Surgery"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS9 9JD",
+    "phone": "0113 887 8134",
+    "partial_postcode": "LS9",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4289",
+    "organisation_code": "B86043",
+    "name": "East Park Medical Centre",
+    "longitude": "-1.514928936958313",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.514928936958313,
+        53.79317092895508
+      ]
+    },
+    "latitude": "53.793170928955078",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "",
+    "address3": "Leeds",
+    "address2": "5-7 East Park Road",
+    "address1": "East Park Medical Centre"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS15 7HR",
+    "phone": "0113 887 8134",
+    "partial_postcode": "LS15",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4290",
+    "organisation_code": "B86043",
+    "name": "Halton Medical Practice",
+    "longitude": "-1.472201943397522",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.472201943397522,
+        53.79637145996094
+      ]
+    },
+    "latitude": "53.796371459960938",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "",
+    "address3": "Leeds",
+    "address2": "",
+    "address1": "2a Primrose Lane"
+  },
+  {
+    "website": "http://www.newcroftsurgery.nhs.uk/",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS18 4SE",
+    "phone": "0113 2395550",
+    "partial_postcode": "LS18",
+    "parent_o_d_s_code": "03C",
+    "parent_name": "NHS Leeds West CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4291",
+    "organisation_code": "B86044",
+    "name": "Dr Manock & Partners",
+    "longitude": "-1.6367998123168945",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6367998123168945,
+        53.84010696411133
+      ]
+    },
+    "latitude": "53.840106964111328",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2954989",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "Horsforth",
+    "address2": "Broadgate Lane",
+    "address1": "The New Croft Surgery"
+  },
+  {
+    "website": "http://www.irelandwoodsurgery.nhs.uk/",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS16 6FR",
+    "phone": "0113 230 3470",
+    "partial_postcode": "LS16",
+    "parent_o_d_s_code": "03C",
+    "parent_name": "NHS Leeds West CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4292",
+    "organisation_code": "B86044",
+    "name": "Dr Manock & Partners",
+    "longitude": "-1.6039609909057617",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6039609909057617,
+        53.8470344543457
+      ]
+    },
+    "latitude": "53.847034454345703",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2300402",
+    "email": "",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Iveson Approach",
+    "address1": "Ireland Wood Surgery"
+  },
+  {
+    "website": "www.charlesstreet.org.uk",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS21 1BJ",
+    "phone": "01943 466124",
+    "partial_postcode": "LS21",
+    "parent_o_d_s_code": "02V",
+    "parent_name": "NHS Leeds North CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4293",
+    "organisation_code": "B86046",
+    "name": "Charles Street Surgery",
+    "longitude": "-1.6912026405334473",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6912026405334473,
+        53.904537200927734
+      ]
+    },
+    "latitude": "53.904537200927734",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "False",
+    "fax": "01943 468373",
+    "email": "",
+    "county": "",
+    "city": "",
+    "address3": "",
+    "address2": "Otley",
+    "address1": "Charles Street Surgery"
+  },
+  {
+    "website": "www.rawdonsurgery.co.uk",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS19 6DD",
+    "phone": "0113 2954234",
+    "partial_postcode": "LS19",
+    "parent_o_d_s_code": "03C",
+    "parent_name": "NHS Leeds West CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4294",
+    "organisation_code": "B86047",
+    "name": "Rawdon Surgery",
+    "longitude": "-1.6874133348464966",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6874133348464966,
+        53.855472564697266
+      ]
+    },
+    "latitude": "53.855472564697266",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2954228",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "Rawdon",
+    "address2": "11 New Road Side",
+    "address1": "Rawdon Surgery"
+  },
+  {
+    "website": "http://www.garforthmedicalcentre.co.uk",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS15 4JX",
+    "phone": "0113 2814950",
+    "partial_postcode": "LS15",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4295",
+    "organisation_code": "B86048",
+    "name": "Dr Richold & Partners",
+    "longitude": "-1.3956334590911865",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.3956334590911865,
+        53.8297119140625
+      ]
+    },
+    "latitude": "53.8297119140625",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2812679",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "Barwick In Elmet",
+    "address2": "Elmwood Lane",
+    "address1": "Elmwood Surgery"
+  },
+  {
+    "website": "http://www.garforthmedicalcentre.co.uk/",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS25 3AA",
+    "phone": "0113 2814967",
+    "partial_postcode": "LS25",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4296",
+    "organisation_code": "B86048",
+    "name": "Dr Richold & Partners",
+    "longitude": "-1.3424010276794434",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.3424010276794434,
+        53.830322265625
+      ]
+    },
+    "latitude": "53.830322265625",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2814965",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "Aberford",
+    "address2": "Main Street",
+    "address1": "Jessamine Cottage Surgery"
+  },
+  {
+    "website": "http://www.garforthmedicalcentre.co.uk",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS25 1HB",
+    "phone": "0113 2877321",
+    "partial_postcode": "LS25",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4297",
+    "organisation_code": "B86048",
+    "name": "Dr Richold & Partners",
+    "longitude": "-1.3873211145401001",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.3873211145401,
+        53.79230880737305
+      ]
+    },
+    "latitude": "53.792308807373047",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2875864",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "Garforth",
+    "address2": "Church Lane",
+    "address1": "Garforth Medical Centre"
+  },
+  {
+    "website": "http://www.woodhousemedicalpractice.nhs.uk",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS6 2SF",
+    "phone": "0113 2953510",
+    "partial_postcode": "LS6",
+    "parent_o_d_s_code": "02V",
+    "parent_name": "NHS Leeds North CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4298",
+    "organisation_code": "B86049",
+    "name": "Woodhouse Health Centre",
+    "longitude": "-1.5475531816482544",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5475531816482544,
+        53.812740325927734
+      ]
+    },
+    "latitude": "53.812740325927734",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2953503",
+    "email": "woodhouse.medicalpractice@nhs.net",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "Cambridge Road",
+    "address2": "Woodhouse Health Centre",
+    "address1": "Woodhouse Medical Practice"
+  },
+  {
+    "website": "http://www.woodhousemedicalpractice.nhs.uk",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS8 1QR",
+    "phone": "0113 2953510",
+    "partial_postcode": "LS8",
+    "parent_o_d_s_code": "02V",
+    "parent_name": "NHS Leeds North CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4299",
+    "organisation_code": "B86049",
+    "name": "Chandos Medical Centre",
+    "longitude": "-1.5213789939880371",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.521378993988037,
+        53.83597946166992
+      ]
+    },
+    "latitude": "53.835979461669922",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 295 3503",
+    "email": "woodhouse.medicalpractice@nhs.net",
+    "county": "",
+    "city": "Leeds",
+    "address3": "Leeds",
+    "address2": "123 Lidgett Lane",
+    "address1": "Chandos Medical Centre"
+  },
+  {
+    "website": "www.drleeandpartners.co.uk",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS28 6PE",
+    "phone": "0113 2570313",
+    "partial_postcode": "LS28",
+    "parent_o_d_s_code": "03C",
+    "parent_name": "NHS Leeds West CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4300",
+    "organisation_code": "B86050",
+    "name": "Dr Lee AV & Partners",
+    "longitude": "-1.6506818532943726",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6506818532943726,
+        53.810020446777344
+      ]
+    },
+    "latitude": "53.810020446777344",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2362509",
+    "email": "admin.glenleasurgery@nhs.net",
+    "county": "",
+    "city": "Pudsey",
+    "address3": "Stanningley",
+    "address2": "701 Leeds and Bradford Road",
+    "address1": "Glenlea Surgery"
+  },
+  {
+    "website": "www.drleeandpartners.co.uk",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS28 5DL",
+    "phone": "0113 2570295",
+    "partial_postcode": "LS28",
+    "parent_o_d_s_code": "03C",
+    "parent_name": "NHS Leeds West CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4301",
+    "organisation_code": "B86050",
+    "name": "Dr Lee AV & Partners",
+    "longitude": "-1.6698998212814331",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.669899821281433,
+        53.81100845336914
+      ]
+    },
+    "latitude": "53.811008453369141",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2362509",
+    "email": "admin.westlodgesurgery@nhs.net",
+    "county": "",
+    "city": "Pudsey",
+    "address3": "Farsley",
+    "address2": "New Street",
+    "address1": "West Lodge Surgery"
+  },
+  {
+    "website": "www.drleeandpartners.co.uk",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS28 5PL",
+    "phone": "0113 2570061",
+    "partial_postcode": "LS28",
+    "parent_o_d_s_code": "03C",
+    "parent_name": "NHS Leeds West CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4302",
+    "organisation_code": "B86050",
+    "name": "Dr Lee Av & Partners",
+    "longitude": "-1.6905636787414551",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.690563678741455,
+        53.82612609863281
+      ]
+    },
+    "latitude": "53.826126098632813",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2578292",
+    "email": "admin.calverleysurgery@nhs.net",
+    "county": "",
+    "city": "Pudsey",
+    "address3": "Calverley",
+    "address2": "43 Upper Carr Lane",
+    "address1": "Calverley Medical Centre"
+  },
+  {
+    "website": "http://www.yeadontarn.nhs.uk/",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS19 7JN",
+    "phone": "0113 8879585",
+    "partial_postcode": "LS19",
+    "parent_o_d_s_code": "03C",
+    "parent_name": "NHS Leeds West CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4303",
+    "organisation_code": "B86051",
+    "name": "Yeadon Tarn Medical Practice",
+    "longitude": "-1.6846842765808105",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6846842765808105,
+        53.86663818359375
+      ]
+    },
+    "latitude": "53.86663818359375",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "False",
+    "fax": "0113 3879721",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "Yeadon",
+    "address2": "1 Suffolk Court Silver Lane",
+    "address1": "Silver Lane Surgery"
+  },
+  {
+    "website": "http://www.menstonguiseleypractice.co.uk/",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS20 8AR",
+    "phone": "01943 874151",
+    "partial_postcode": "LS20",
+    "parent_o_d_s_code": "03C",
+    "parent_name": "NHS Leeds West CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4304",
+    "organisation_code": "B86052",
+    "name": "Park Road Medical Centre",
+    "longitude": "-1.711367130279541",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.711367130279541,
+        53.87175750732422
+      ]
+    },
+    "latitude": "53.871757507324219",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "Guiseley",
+    "address2": "44 Park Road",
+    "address1": "Park Road Medical Centre"
+  },
+  {
+    "website": "http://www.menstonguiseleypractice.co.uk/",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS29 6HT",
+    "phone": "01943 872113",
+    "partial_postcode": "LS29",
+    "parent_o_d_s_code": "03C",
+    "parent_name": "NHS Leeds West CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4305",
+    "organisation_code": "B86052",
+    "name": "Menston Medical Centre",
+    "longitude": "-1.7380561828613281",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.7380561828613281,
+        53.889129638671875
+      ]
+    },
+    "latitude": "53.889129638671875",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "Ilkley",
+    "address3": "Menston",
+    "address2": "119 Main Street",
+    "address1": "Menston Medical Centre"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS9 9EF",
+    "phone": "0113 2009190",
+    "partial_postcode": "LS9",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4306",
+    "organisation_code": "B86054",
+    "name": "The Garden Surgery",
+    "longitude": "-1.4978733062744141",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.497873306274414,
+        53.80022048950195
+      ]
+    },
+    "latitude": "53.800220489501953",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0871 226 4310",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "78 Osmondthorpe Lane ",
+    "address2": "2nd Floor Est Leeds HC ",
+    "address1": "The Garden Surgery"
+  },
+  {
+    "website": "www.amedicalcentre.co.uk",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS14 6NX",
+    "phone": "0113 2951838",
+    "partial_postcode": "LS14",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4307",
+    "organisation_code": "B86055",
+    "name": "The Grange Medical Centre, Dr Eastwood & Partners",
+    "longitude": "-1.459032416343689",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.459032416343689,
+        53.82054138183594
+      ]
+    },
+    "latitude": "53.820541381835938",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2732959",
+    "email": "",
+    "county": "",
+    "city": "Seacroft",
+    "address3": "Leeds",
+    "address2": "999 York Road",
+    "address1": "The Grange Medical Centre"
+  },
+  {
+    "website": "www.amedicalcentre.co.uk",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS15 8BA",
+    "phone": "0113 2951828",
+    "partial_postcode": "LS15",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4308",
+    "organisation_code": "B86055",
+    "name": "Ashfield Medical Centre, Dr Eastwood & Partners",
+    "longitude": "-1.4494059085845947",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.4494059085845947,
+        53.80747604370117
+      ]
+    },
+    "latitude": "53.807476043701172",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2643220",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "Leeds",
+    "address2": "Crossgates",
+    "address1": "15 Austhorpe Road"
+  },
+  {
+    "website": "http://www.shadwellmedicalcentre.co.uk/",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS17 8AE",
+    "phone": "0113 237 1914",
+    "partial_postcode": "LS17",
+    "parent_o_d_s_code": "02V",
+    "parent_name": "NHS Leeds North CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4309",
+    "organisation_code": "B86056",
+    "name": "Shadwell Medical Centre",
+    "longitude": "-1.5257313251495361",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5257313251495361,
+        53.850215911865234
+      ]
+    },
+    "latitude": "53.850215911865234",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "False",
+    "fax": "0113 2930900",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "Leeds",
+    "address2": "137 Shadwell Lane",
+    "address1": "..."
+  },
+  {
+    "website": "http://www.windsorhousegrouppractice.co.uk",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS27 9NB",
+    "phone": "0113 252 5223",
+    "partial_postcode": "LS27",
+    "parent_o_d_s_code": "03C",
+    "parent_name": "NHS Leeds West CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4311",
+    "organisation_code": "B86057",
+    "name": "Windsor House Surgery",
+    "longitude": "-1.6055821180343628",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6055821180343628,
+        53.744876861572266
+      ]
+    },
+    "latitude": "53.744876861572266",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "False",
+    "fax": "0113 238 1262",
+    "email": "",
+    "county": "West Yorkshire",
+    "city": "LEEDS",
+    "address3": "",
+    "address2": "Morley",
+    "address1": "2 Corporation Street"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS27 7PX",
+    "phone": "0113 252 2606",
+    "partial_postcode": "LS27",
+    "parent_o_d_s_code": "03C",
+    "parent_name": "NHS Leeds West CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4312",
+    "organisation_code": "B86057",
+    "name": "Shenstone House Surgery",
+    "longitude": "-1.5919924974441528",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5919924974441528,
+        53.75936508178711
+      ]
+    },
+    "latitude": "53.759365081787109",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "False",
+    "fax": "0113 238 0843",
+    "email": "",
+    "county": "",
+    "city": "LEEDS",
+    "address3": "Churwell",
+    "address2": "Elland Road",
+    "address1": "Shenstone House Surgery"
+  },
+  {
+    "website": "www.sunfieldmedicalcentre.co.uk",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS28 6DR",
+    "phone": "01132058100 (ext. 0113205810)",
+    "partial_postcode": "LS28",
+    "parent_o_d_s_code": "03C",
+    "parent_name": "NHS Leeds West CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4313",
+    "organisation_code": "B86058",
+    "name": "Dr K McGechaen & Partner",
+    "longitude": "-1.6682655811309814",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6682655811309814,
+        53.80641174316406
+      ]
+    },
+    "latitude": "53.806411743164062",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2363261",
+    "email": "",
+    "county": "",
+    "city": "Pudsey",
+    "address3": "Stanningley",
+    "address2": "Sunfield Place",
+    "address1": "Sunfield Medical Centre"
+  },
+  {
+    "website": "http://www.meanwoodgrouppractice.co.uk",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS6 4JN",
+    "phone": "0113 2305055",
+    "partial_postcode": "LS6",
+    "parent_o_d_s_code": "02V",
+    "parent_name": "NHS Leeds North CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4314",
+    "organisation_code": "B86059",
+    "name": "Dr Newbound A D & Partners",
+    "longitude": "-1.5658559799194336",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5658559799194336,
+        53.827232360839844
+      ]
+    },
+    "latitude": "53.827232360839844",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2951736",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "548 Meanwood Road",
+    "address1": "Meanwood Health Centre"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS12 1JE",
+    "phone": "0113 2310626",
+    "partial_postcode": "LS12",
+    "parent_o_d_s_code": "03C",
+    "parent_name": "NHS Leeds West CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4315",
+    "organisation_code": "B86060",
+    "name": "Dr Addlestone R I & Partners",
+    "longitude": "-1.5760577917098999",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5760577917099,
+        53.791839599609375
+      ]
+    },
+    "latitude": "53.791839599609375",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2015079",
+    "email": "",
+    "county": "",
+    "city": "",
+    "address3": "Leeds",
+    "address2": "15 Green Lane",
+    "address1": "Thornton Medical Centre"
+  },
+  {
+    "website": "www.thepracticeplc.com/harehillscorner",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS8 4HQ",
+    "phone": "01132 217 217",
+    "partial_postcode": "LS8",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4316",
+    "organisation_code": "B86061",
+    "name": "The Practice Harehills Corner ",
+    "longitude": "-1.5188611745834351",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.518861174583435,
+        53.815673828125
+      ]
+    },
+    "latitude": "53.815673828125",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "False",
+    "fax": "01132 401564",
+    "email": "",
+    "county": "",
+    "city": "",
+    "address3": "Leeds",
+    "address2": "209 Roundhay Road",
+    "address1": "The Practice Harehills Corner "
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS9 0NL",
+    "phone": "0113 2493011",
+    "partial_postcode": "LS9",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4317",
+    "organisation_code": "B86062",
+    "name": "Dr S M Laybourn & Partners",
+    "longitude": "-1.4888757467269897",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.4888757467269897,
+        53.80099105834961
+      ]
+    },
+    "latitude": "53.800991058349609",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "False",
+    "fax": "0113 2401958",
+    "email": "",
+    "county": "",
+    "city": "",
+    "address3": "",
+    "address2": "Leeds",
+    "address1": "143 Rookwood Avenue"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS14 6DX",
+    "phone": "0113 2647278",
+    "partial_postcode": "LS14",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4318",
+    "organisation_code": "B86062",
+    "name": "Dr S M Laybourn & Partners",
+    "longitude": "-1.4552018642425537",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.4552018642425537,
+        53.81371307373047
+      ]
+    },
+    "latitude": "53.813713073730469",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "False",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "",
+    "address3": "",
+    "address2": "Leeds",
+    "address1": "846 York Road"
+  },
+  {
+    "website": "http://www.abbeygrangemedicalpractice.co.uk",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS16 5BJ",
+    "phone": "0113 2954880",
+    "partial_postcode": "LS16",
+    "parent_o_d_s_code": "03C",
+    "parent_name": "NHS Leeds West CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4320",
+    "organisation_code": "B86065",
+    "name": "Abbey Grange Medical Practice 2",
+    "longitude": "-1.604181170463562",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.604181170463562,
+        53.834259033203125
+      ]
+    },
+    "latitude": "53.834259033203125",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "False",
+    "fax": "0113 2954881",
+    "email": "moorgrangesurgery@nhs.net",
+    "county": "Yorkshire",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "60 Moor Grange View",
+    "address1": "Moor Grange Surgery"
+  },
+  {
+    "website": "http://streetlanepractice.com",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS8 1AY",
+    "phone": "0113 2371128",
+    "partial_postcode": "LS8",
+    "parent_o_d_s_code": "02V",
+    "parent_name": "NHS Leeds North CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4321",
+    "organisation_code": "B86066",
+    "name": "Street Lane Practice",
+    "longitude": "-1.5134385824203491",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5134385824203491,
+        53.84325408935547
+      ]
+    },
+    "latitude": "53.843254089355469",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2953842",
+    "email": "streetlanepractice@nhs.net",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Leeds",
+    "address1": "12 Devonshire Avenue"
+  },
+  {
+    "website": "http://www.fountainmedical.co.uk",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS27 9EN",
+    "phone": "0113 2951600",
+    "partial_postcode": "LS27",
+    "parent_o_d_s_code": "03C",
+    "parent_name": "NHS Leeds West CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4322",
+    "organisation_code": "B86067",
+    "name": "Dr Ledger & Partners",
+    "longitude": "-1.6043901443481445",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6043901443481445,
+        53.74338150024414
+      ]
+    },
+    "latitude": "53.743381500244141",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2951660",
+    "email": "",
+    "county": "West Yorkshire",
+    "city": "Morley",
+    "address3": "Little Fountain Street",
+    "address2": "The Fountain Medical Centre",
+    "address1": "The Dekeyser Group Practice"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS16 7QD",
+    "phone": "0113 2951855",
+    "partial_postcode": "LS16",
+    "parent_o_d_s_code": "03C",
+    "parent_name": "NHS Leeds West CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4323",
+    "organisation_code": "B86068",
+    "name": "Abbey Grange Medical Practice 3",
+    "longitude": "-1.599815845489502",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.599815845489502,
+        53.85703659057617
+      ]
+    },
+    "latitude": "53.857036590576172",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2951856",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "Leeds",
+    "address2": "Holt Road",
+    "address1": "Holt Park Medical Centre"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS5 3JN",
+    "phone": "0113 2951844",
+    "partial_postcode": "LS5",
+    "parent_o_d_s_code": "03C",
+    "parent_name": "NHS Leeds West CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4324",
+    "organisation_code": "B86068",
+    "name": "Abbey Grange Medical Practice 1",
+    "longitude": "-1.6015669107437134",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6015669107437134,
+        53.81830596923828
+      ]
+    },
+    "latitude": "53.818305969238281",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2951845",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "Leeds",
+    "address2": "Norman Street",
+    "address1": "The Abbey Medical Centre"
+  },
+  {
+    "website": "http://www.burleyparkmedicalcentre.co.uk/",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS4 2EL",
+    "phone": "0113 2953850",
+    "partial_postcode": "LS4",
+    "parent_o_d_s_code": "03C",
+    "parent_name": "NHS Leeds West CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4325",
+    "organisation_code": "B86069",
+    "name": "Dr Birkin A E & Partners",
+    "longitude": "-1.5796958208084106",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5796958208084106,
+        53.807533264160156
+      ]
+    },
+    "latitude": "53.807533264160156",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2953864",
+    "email": "",
+    "county": "",
+    "city": "",
+    "address3": "Leeds",
+    "address2": "273 Burley Road",
+    "address1": "Burley Park Medical Centre"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS19 7JN",
+    "phone": "0113 3911950",
+    "partial_postcode": "LS19",
+    "parent_o_d_s_code": "02V",
+    "parent_name": "NHS Leeds North CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4326",
+    "organisation_code": "B86070",
+    "name": "Aireborough Family Practice",
+    "longitude": "-1.6846842765808105",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6846842765808105,
+        53.86663818359375
+      ]
+    },
+    "latitude": "53.86663818359375",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2503298",
+    "email": "aireboroughfamilypractice@nhs.net",
+    "county": "",
+    "city": "Yeadon",
+    "address3": "Silver Lane",
+    "address2": "Suffolk Court",
+    "address1": "Silver Lane Surgery"
+  },
+  {
+    "website": "www.gpNHS.net",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS12 5SG",
+    "phone": "0113 3058150",
+    "partial_postcode": "LS12",
+    "parent_o_d_s_code": "03C",
+    "parent_name": "NHS Leeds West CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4327",
+    "organisation_code": "B86071",
+    "name": "Dr Robinson A S A & Partners",
+    "longitude": "-1.6011930704116821",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6011930704116821,
+        53.782470703125
+      ]
+    },
+    "latitude": "53.782470703125",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 3058151",
+    "email": "",
+    "county": "",
+    "city": "",
+    "address3": "Leeds",
+    "address2": "Wortley Beck Health Centre",
+    "address1": "Whitehall Surgery "
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS12 5DR",
+    "phone": "0113 2954370",
+    "partial_postcode": "LS12",
+    "parent_o_d_s_code": "03C",
+    "parent_name": "NHS Leeds West CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4328",
+    "organisation_code": "B86071",
+    "name": "Dr Robinson A S A & Partners",
+    "longitude": "-1.6242234706878662",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6242234706878662,
+        53.776466369628906
+      ]
+    },
+    "latitude": "53.776466369628906",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "",
+    "address3": "Leeds",
+    "address2": "6 West End",
+    "address1": "New Farnley Surgery"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS18 4JY",
+    "phone": "0113 2953410",
+    "partial_postcode": "LS18",
+    "parent_o_d_s_code": "03C",
+    "parent_name": "NHS Leeds West CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4329",
+    "organisation_code": "B86074",
+    "name": "Fieldhead Surgery",
+    "longitude": "-1.6394240856170654",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6394240856170654,
+        53.831817626953125
+      ]
+    },
+    "latitude": "53.831817626953125",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2953417",
+    "email": "",
+    "county": "",
+    "city": "West Yorkshire",
+    "address3": "Leeds",
+    "address2": "Horsforth",
+    "address1": "65 New Road Side"
+  },
+  {
+    "website": "http://www.coltonmill-thegrange.nhs.uk/",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS15 9JH",
+    "phone": "0113 2951802",
+    "partial_postcode": "LS15",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4330",
+    "organisation_code": "B86075",
+    "name": "Colton Mill Medical Centre",
+    "longitude": "-1.4318946599960327",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.4318946599960327,
+        53.79192352294922
+      ]
+    },
+    "latitude": "53.791923522949219",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2951798",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "Leeds",
+    "address2": "Stile Hill Way",
+    "address1": "Colton Mill Medical Centre"
+  },
+  {
+    "website": "http://www.coltonmill-thegrange.nhs.uk",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS14 6NX",
+    "phone": "0113 2951800",
+    "partial_postcode": "LS14",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4331",
+    "organisation_code": "B86075",
+    "name": "The Grange Medical Centre",
+    "longitude": "-1.459032416343689",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.459032416343689,
+        53.82054138183594
+      ]
+    },
+    "latitude": "53.820541381835938",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2951799",
+    "email": "secretaries.coltonmillandthegrange1@nhs.net",
+    "county": "",
+    "city": "Leeds",
+    "address3": "Seacroft",
+    "address2": "999 York Road",
+    "address1": "The Grange Medical Centre"
+  },
+  {
+    "website": "http://www.grangemedicare.co.uk/",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS26 0UE",
+    "phone": "0113 467 7511",
+    "partial_postcode": "LS26",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4332",
+    "organisation_code": "B86077",
+    "name": "Grange Medicare - New Cross Surgery",
+    "longitude": "-1.4849960803985596",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.4849960803985596,
+        53.7470703125
+      ]
+    },
+    "latitude": "53.7470703125",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2829195",
+    "email": "",
+    "county": "",
+    "city": "Rothwell",
+    "address3": "Stone Brig Lane",
+    "address2": "Rothwell Health Centre",
+    "address1": "New Cross Surgery"
+  },
+  {
+    "website": "http://www.bellbrookesurgery.co.uk",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS9 6AU",
+    "phone": "0113 8879565",
+    "partial_postcode": "LS9",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4333",
+    "organisation_code": "B86081",
+    "name": "Dr Boonin A S & Partners",
+    "longitude": "-1.5058572292327881",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.505857229232788,
+        53.80867385864258
+      ]
+    },
+    "latitude": "53.808673858642578",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2484993",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "Harehills",
+    "address2": "Bellbrooke Avenue",
+    "address1": "Bellbrooke Surgery"
+  },
+  {
+    "website": "http://www.laurelbank.gpsurgery.net",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS6 3DS",
+    "phone": "0113 2953900",
+    "partial_postcode": "LS6",
+    "parent_o_d_s_code": "03C",
+    "parent_name": "NHS Leeds West CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4334",
+    "organisation_code": "B86086",
+    "name": "Dr. Samuel & Partners",
+    "longitude": "-1.5876806974411011",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.587680697441101,
+        53.817100524902344
+      ]
+    },
+    "latitude": "53.817100524902344",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2953901",
+    "email": "lbs.reception@nhs.net",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "216b Kirkstall Lane",
+    "address1": "Laurel Bank Surgery"
+  },
+  {
+    "website": "kippaxhallsurgery.co.uk",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS25 7AB",
+    "phone": "0113 3854558",
+    "partial_postcode": "LS25",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4337",
+    "organisation_code": "B86092",
+    "name": "Dr Pearlman A D & Partners",
+    "longitude": "-1.3690057992935181",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.369005799293518,
+        53.766544342041016
+      ]
+    },
+    "latitude": "53.766544342041016",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2873970",
+    "email": "kippaxhall.reception@nhs.net",
+    "county": "",
+    "city": "Leeds",
+    "address3": "Kippax",
+    "address2": "54 High Street",
+    "address1": "Kippax Hall Surgery"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS14 1HX",
+    "phone": "0113 2954650",
+    "partial_postcode": "LS14",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4338",
+    "organisation_code": "B86093",
+    "name": "Park Edge Practice - Dr Muncer & Partners",
+    "longitude": "-1.4836400747299194",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.4836400747299194,
+        53.82551193237305
+      ]
+    },
+    "latitude": "53.825511932373047",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2954663",
+    "email": "",
+    "county": "",
+    "city": "",
+    "address3": "Leeds",
+    "address2": "Asket Drive",
+    "address1": "Park Edge Practice"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS28 9AW",
+    "phone": "0113 2574730",
+    "partial_postcode": "LS28",
+    "parent_o_d_s_code": "03C",
+    "parent_name": "NHS Leeds West CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4339",
+    "organisation_code": "B86094",
+    "name": "Dr S M Chen  & Partners",
+    "longitude": "-1.6519087553024292",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6519087553024292,
+        53.801231384277344
+      ]
+    },
+    "latitude": "53.801231384277344",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2558644",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "Pudsey",
+    "address2": "Swinnow Green",
+    "address1": "The Gables Surgery"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS11 9RE",
+    "phone": "01132056561",
+    "partial_postcode": "LS11",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4340",
+    "organisation_code": "B86095",
+    "name": "Dr Bhandary L V & Partners",
+    "longitude": "-1.5635224580764771",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.563522458076477,
+        53.785682678222656
+      ]
+    },
+    "latitude": "53.785682678222656",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "False",
+    "fax": "01132954390",
+    "email": "lseccg.shaftonlanesurgery@nhs.net",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "Holbeck",
+    "address1": "20a Shafton Lane"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS10 2JJ",
+    "phone": "0113 3852180",
+    "partial_postcode": "LS10",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4341",
+    "organisation_code": "B86096",
+    "name": "The Arthington Medical Centre",
+    "longitude": "-1.5329840183258057",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5329840183258057,
+        53.77212905883789
+      ]
+    },
+    "latitude": "53.772129058837891",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2700927",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "Hunslet",
+    "address2": "5 Moor Road",
+    "address1": "The Arthington Medical Centre"
+  },
+  {
+    "website": "http://www.stmartinspracticeleeds.nhs.uk",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS7 3JT",
+    "phone": "0113 262 1013",
+    "partial_postcode": "LS7",
+    "parent_o_d_s_code": "02V",
+    "parent_name": "NHS Leeds North CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4342",
+    "organisation_code": "B86100",
+    "name": "St Martin’s Practice",
+    "longitude": "-1.5329544544219971",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.532954454421997,
+        53.8212776184082
+      ]
+    },
+    "latitude": "53.821277618408203",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 237 4747",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "319 Chapeltown Road",
+    "address1": "319 Chapeltown Road"
+  },
+  {
+    "website": "www.gildersomehealthcentre.nhs.uk",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS27 7HL",
+    "phone": "0113 2535134",
+    "partial_postcode": "LS27",
+    "parent_o_d_s_code": "03C",
+    "parent_name": "NHS Leeds West CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4343",
+    "organisation_code": "B86101",
+    "name": "Dr R Batra",
+    "longitude": "-1.6292085647583008",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6292085647583008,
+        53.75661087036133
+      ]
+    },
+    "latitude": "53.756610870361328",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "Gildersome",
+    "address2": "Finkle Lane",
+    "address1": "Gildersome Health Centre"
+  },
+  {
+    "website": "http://www.conwaymedicalcentre.co.uk/",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS8 5DE",
+    "phone": "0113 391 8100",
+    "partial_postcode": "LS8",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4345",
+    "organisation_code": "B86103",
+    "name": "Dr S Mansoor & Partner",
+    "longitude": "-1.5134459733963013",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5134459733963013,
+        53.81113052368164
+      ]
+    },
+    "latitude": "53.811130523681641",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 391 8109",
+    "email": "conway.medicalcentre@nhs.net",
+    "county": "",
+    "city": "W Yorks",
+    "address3": "Leeds",
+    "address2": "51-53 Conway Place",
+    "address1": "Conway Medical Centre"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS13 2BL",
+    "phone": "0113 2563250",
+    "partial_postcode": "LS13",
+    "parent_o_d_s_code": "03C",
+    "parent_name": "NHS Leeds West CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4346",
+    "organisation_code": "B86104",
+    "name": "Dr Singh H & Partner",
+    "longitude": "-1.6229864358901978",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6229864358901978,
+        53.8078498840332
+      ]
+    },
+    "latitude": "53.807849884033203",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2360606",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "Bramley",
+    "address2": "Highfield Road",
+    "address1": "Highfield Medical Centre"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS14 6GG",
+    "phone": "0113 2951200",
+    "partial_postcode": "LS14",
+    "parent_o_d_s_code": "02V",
+    "parent_name": "NHS Leeds North CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4347",
+    "organisation_code": "B86106",
+    "name": "Dr Pearson R E & Partners",
+    "longitude": "-1.4714462757110596",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.4714462757110596,
+        53.81059265136719
+      ]
+    },
+    "latitude": "53.810592651367188",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "False",
+    "fax": "0113 2951210",
+    "email": "foundry.lane@nhs.net",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "",
+    "address1": "95 Moresdale Lane"
+  },
+  {
+    "website": "www.moorcroftsurgery.co.uk",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS17 7AN",
+    "phone": "0113 2952750",
+    "partial_postcode": "LS17",
+    "parent_o_d_s_code": "02V",
+    "parent_name": "NHS Leeds North CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4348",
+    "organisation_code": "B86107",
+    "name": "Dr Hall G I & Partners",
+    "longitude": "-1.5574080944061279",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.557408094406128,
+        53.853267669677734
+      ]
+    },
+    "latitude": "53.853267669677734",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2952761",
+    "email": "moorcroftsurgery@nhs.net",
+    "county": "",
+    "city": "",
+    "address3": "Leeds",
+    "address2": "646 King Lane",
+    "address1": "Moorcroft Surgery"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS7 4BB",
+    "phone": "0113 2407000",
+    "partial_postcode": "LS7",
+    "parent_o_d_s_code": "02V",
+    "parent_name": "NHS Leeds North CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4349",
+    "organisation_code": "B86108",
+    "name": "Chapeltown Family Surgery",
+    "longitude": "-1.5261991024017334",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5261991024017334,
+        53.81146240234375
+      ]
+    },
+    "latitude": "53.81146240234375",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2408623",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "Leeds",
+    "address2": "Spencer Place",
+    "address1": "Chapeltown Health Centre"
+  },
+  {
+    "website": "http://www.kirkstalllanemedicalcentre.co.uk/",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS6 3DS",
+    "phone": "0113 2953666",
+    "partial_postcode": "LS6",
+    "parent_o_d_s_code": "03C",
+    "parent_name": "NHS Leeds West CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4350",
+    "organisation_code": "B86109",
+    "name": "Kirkstall Lane Medical Centre",
+    "longitude": "-1.5876806974411011",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.587680697441101,
+        53.817100524902344
+      ]
+    },
+    "latitude": "53.817100524902344",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2953650",
+    "email": "kirkstall.lane@nhs.net",
+    "county": "",
+    "city": "West Yorkshire",
+    "address3": "Leeds",
+    "address2": "216 Kirkstall Lane",
+    "address1": "Kirkstall Lane Medical Centre"
+  },
+  {
+    "website": "www.leedsstudentmedicalpractice.co.uk",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS2 9AE",
+    "phone": "0113 2954488",
+    "partial_postcode": "LS2",
+    "parent_o_d_s_code": "03C",
+    "parent_name": "NHS Leeds West CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4351",
+    "organisation_code": "B86110",
+    "name": "Dr Greenway J & Partners",
+    "longitude": "-1.549930214881897",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.549930214881897,
+        53.8077507019043
+      ]
+    },
+    "latitude": "53.807750701904297",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2954499",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "Blenheim Walk",
+    "address2": "4 Blenheim Court",
+    "address1": "Leeds Student Medical Practice"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS8 5BS",
+    "phone": "0113 2953880",
+    "partial_postcode": "LS8",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4352",
+    "organisation_code": "B86623",
+    "name": "Dr Y F S Wong",
+    "longitude": "-1.5157426595687866",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5157426595687866,
+        53.809513092041016
+      ]
+    },
+    "latitude": "53.809513092041016",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "False",
+    "fax": "0113 2953881",
+    "email": "",
+    "county": "",
+    "city": "",
+    "address3": "Leeds",
+    "address2": "7 Ashton View",
+    "address1": "Ashton View Medical Centre"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS22 6JS",
+    "phone": "01937 585669",
+    "partial_postcode": "LS22",
+    "parent_o_d_s_code": "02V",
+    "parent_name": "NHS Leeds North CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4353",
+    "organisation_code": "B86625",
+    "name": "Wetherby Surgery",
+    "longitude": "-1.3788803815841675",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.3788803815841675,
+        53.93100357055664
+      ]
+    },
+    "latitude": "53.931003570556641",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "False",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "",
+    "address3": "Wetherby",
+    "address2": "Hallfield Lane",
+    "address1": "Wetherby Surgery"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS17 9LQ",
+    "phone": "0113 2886210",
+    "partial_postcode": "LS17",
+    "parent_o_d_s_code": "02V",
+    "parent_name": "NHS Leeds North CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4354",
+    "organisation_code": "B86625",
+    "name": "Harewood Surgery",
+    "longitude": "-1.5126367807388306",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5126367807388306,
+        53.90053176879883
+      ]
+    },
+    "latitude": "53.900531768798828",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "False",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "Harewood",
+    "address3": "Harewood",
+    "address2": "69 The Square",
+    "address1": "69 The Square"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS10 2PT",
+    "phone": "0113 2705620",
+    "partial_postcode": "LS10",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4355",
+    "organisation_code": "B86633",
+    "name": "Dr Khan & Partner",
+    "longitude": "-1.5265845060348511",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.526584506034851,
+        53.77992248535156
+      ]
+    },
+    "latitude": "53.779922485351563",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "False",
+    "fax": "0113 2765595",
+    "email": "",
+    "county": "",
+    "city": "",
+    "address3": "Leeds",
+    "address2": "24 Church Street",
+    "address1": "Hunslet Health Centre"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS9 7RD",
+    "phone": "0113 2480268",
+    "partial_postcode": "LS9",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4356",
+    "organisation_code": "B86638",
+    "name": "Dr Sooltan A R",
+    "longitude": "-1.5154522657394409",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.515452265739441,
+        53.79780960083008
+      ]
+    },
+    "latitude": "53.797809600830078",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "",
+    "address3": "",
+    "address2": "Leeds",
+    "address1": "179 York Road"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS10 2PE",
+    "phone": "0113 2711884",
+    "partial_postcode": "LS10",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4357",
+    "organisation_code": "B86642",
+    "name": "Dr S Hussain",
+    "longitude": "-1.525922417640686",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.525922417640686,
+        53.77942657470703
+      ]
+    },
+    "latitude": "53.779426574707031",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "False",
+    "fax": "0113 2720008",
+    "email": "",
+    "county": "",
+    "city": "",
+    "address3": "West Yorkshire",
+    "address2": "Hunslet Leeds",
+    "address1": "57 Church Street"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS8 5AN",
+    "phone": "(0113) 2350379",
+    "partial_postcode": "LS8",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4358",
+    "organisation_code": "B86643",
+    "name": "Dr A Rai",
+    "longitude": "-1.5207195281982422",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5207195281982422,
+        53.81387710571289
+      ]
+    },
+    "latitude": "53.813877105712891",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "False",
+    "fax": "(0113) 2489597",
+    "email": "arun.rai@nhs.net",
+    "county": "",
+    "city": "West Yorkshire",
+    "address3": "",
+    "address2": "Leeds",
+    "address1": "173 Roundhay Road"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS15 8NN",
+    "phone": "0113 2602262",
+    "partial_postcode": "LS15",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4359",
+    "organisation_code": "B86648",
+    "name": "Dr C A Clyde",
+    "longitude": "-1.4409183263778687",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.4409183263778687,
+        53.79825973510742
+      ]
+    },
+    "latitude": "53.798259735107422",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "False",
+    "fax": "0113 2328090",
+    "email": "",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "Whitkirk",
+    "address2": "5 Austhorpe View",
+    "address1": "The Family Doctors"
+  },
+  {
+    "website": "http://www.onemedicalgroup.co.uk/hilton-road-surgery-leeds",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS8 4HA",
+    "phone": "0113 2392557",
+    "partial_postcode": "LS8",
+    "parent_o_d_s_code": "02V",
+    "parent_name": "NHS Leeds North CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4360",
+    "organisation_code": "B86651",
+    "name": "Hilton Road Surgery",
+    "longitude": "-1.5205168724060059",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5205168724060059,
+        53.81965255737305
+      ]
+    },
+    "latitude": "53.819652557373047",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "hiltonroad@nhs.net",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "Chapletown",
+    "address2": "67 Hilton Road",
+    "address1": "Hilton Road Surgery"
+  },
+  {
+    "website": "www.oakwoodsurgeryleeds.nhs.uk",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS8 4AA",
+    "phone": "0113 295 1515",
+    "partial_postcode": "LS8",
+    "parent_o_d_s_code": "02V",
+    "parent_name": "NHS Leeds North CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4362",
+    "organisation_code": "B86654",
+    "name": "Oakwood Surgery",
+    "longitude": "-1.5071274042129517",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5071274042129517,
+        53.82675552368164
+      ]
+    },
+    "latitude": "53.826755523681641",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 295 1500",
+    "email": "",
+    "county": "",
+    "city": "",
+    "address3": "",
+    "address2": "Leeds",
+    "address1": "Gledhow Rise"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS13 4JH",
+    "phone": "0113 263 0112",
+    "partial_postcode": "LS13",
+    "parent_o_d_s_code": "03C",
+    "parent_name": "NHS Leeds West CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4363",
+    "organisation_code": "B86655",
+    "name": "Beech Tree Medical Centre",
+    "longitude": "-1.6213977336883545",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6213977336883545,
+        53.79708480834961
+      ]
+    },
+    "latitude": "53.797084808349609",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 224 4857",
+    "email": "",
+    "county": "",
+    "city": "",
+    "address3": "Leeds",
+    "address2": "",
+    "address1": "178 Henconner Lane"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS25 1AN",
+    "phone": "0113 2862214",
+    "partial_postcode": "LS25",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4364",
+    "organisation_code": "B86658",
+    "name": "Dr Davis Sm & Partner",
+    "longitude": "-1.3901857137680054",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.3901857137680054,
+        53.79575729370117
+      ]
+    },
+    "latitude": "53.795757293701172",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2874371",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "Garforth",
+    "address2": "11 Wakefield Road",
+    "address1": "Moorfield House Surgery"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS7 3JT",
+    "phone": "01132953737",
+    "partial_postcode": "LS7",
+    "parent_o_d_s_code": "02V",
+    "parent_name": "NHS Leeds North CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4366",
+    "organisation_code": "B86666",
+    "name": "NEWTON SURGERY",
+    "longitude": "-1.5329544544219971",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.532954454421997,
+        53.8212776184082
+      ]
+    },
+    "latitude": "53.821277618408203",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "False",
+    "fax": "01132953738",
+    "email": "newton.surgery@nhs.net",
+    "county": "",
+    "city": "",
+    "address3": "Leeds",
+    "address2": "305 Chapeltown Road",
+    "address1": "Newton Surgery"
+  },
+  {
+    "website": "http://www.beestonvillagesurgery.co.uk/",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS11 8PN",
+    "phone": "0113 2720720",
+    "partial_postcode": "LS11",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4367",
+    "organisation_code": "B86667",
+    "name": "Dr G S Randhawa",
+    "longitude": "-1.5691676139831543",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5691676139831543,
+        53.77242660522461
+      ]
+    },
+    "latitude": "53.772426605224609",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2777778",
+    "email": "info.bvs@nhs.net",
+    "county": "",
+    "city": "Leeds",
+    "address3": "Town Street",
+    "address2": "James Reed House",
+    "address1": "Beeston Village Surgery"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS14 2EH",
+    "phone": "0113 2953295",
+    "partial_postcode": "LS14",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4368",
+    "organisation_code": "B86670",
+    "name": "Dr Mossad M G",
+    "longitude": "-1.4569867849349976",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.4569867849349976,
+        53.836605072021484
+      ]
+    },
+    "latitude": "53.836605072021484",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2953291",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "Whinmoor",
+    "address2": "White Laithe Approach",
+    "address1": "Whinmoor Surgery"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS12 5SG",
+    "phone": "0113 2954770",
+    "partial_postcode": "LS12",
+    "parent_o_d_s_code": "03C",
+    "parent_name": "NHS Leeds West CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4369",
+    "organisation_code": "B86672",
+    "name": "Dr Shevlin P V & Partner",
+    "longitude": "-1.5990686416625977",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5990686416625977,
+        53.782310485839844
+      ]
+    },
+    "latitude": "53.782310485839844",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "False",
+    "fax": "0113 2954771",
+    "email": "",
+    "county": "",
+    "city": "West Yorkshire",
+    "address3": "Leeds",
+    "address2": "Wortley Beck Health Centre, Ring Road,",
+    "address1": "Hawthorn Surgery"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS23 6RN",
+    "phone": "01937 845854",
+    "partial_postcode": "LS23",
+    "parent_o_d_s_code": "02V",
+    "parent_name": "NHS Leeds North CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4370",
+    "organisation_code": "B86673",
+    "name": "Bramham Medical Centre",
+    "longitude": "-1.354338526725769",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.354338526725769,
+        53.88299560546875
+      ]
+    },
+    "latitude": "53.88299560546875",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "False",
+    "fax": "01937 844480",
+    "email": "",
+    "county": "",
+    "city": "West Yorkshire",
+    "address3": "Wetherby",
+    "address2": "Bramham",
+    "address1": "Clifford Road"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS7 3QB",
+    "phone": "0113 2401234",
+    "partial_postcode": "LS7",
+    "parent_o_d_s_code": "02V",
+    "parent_name": "NHS Leeds North CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4371",
+    "organisation_code": "B86674",
+    "name": "Dr M I Gould",
+    "longitude": "-1.5389869213104248",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5389869213104248,
+        53.8307991027832
+      ]
+    },
+    "latitude": "53.830799102783203",
+    "is_pims_managed": "False",
+    "is_e_p_s_enabled": "False",
+    "fax": "0113 2179988",
+    "email": "",
+    "county": "",
+    "city": "LEEDS",
+    "address3": "LEEDS",
+    "address2": "CHAPEL ALLERTON",
+    "address1": "DYNELEY HOUSE"
+  },
+  {
+    "website": "www.thepracticeplc.com/lincolngreen",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS9 7TA",
+    "phone": "0113 2211900",
+    "partial_postcode": "LS9",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4372",
+    "organisation_code": "B86675",
+    "name": "The Practice Lincoln Green ",
+    "longitude": "-1.5251809358596802",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5251809358596802,
+        53.802101135253906
+      ]
+    },
+    "latitude": "53.802101135253906",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2404113",
+    "email": "",
+    "county": "",
+    "city": "West Yorkshire",
+    "address3": "Leeds",
+    "address2": "Cromwell Mount",
+    "address1": "Burmantofts Health Centre"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS10 4HT",
+    "phone": "0113 467 7522",
+    "partial_postcode": "LS10",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4374",
+    "organisation_code": "B86682",
+    "name": "Grange Medicare - Middleton Park Surgery",
+    "longitude": "-1.5474109649658203",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5474109649658203,
+        53.74409484863281
+      ]
+    },
+    "latitude": "53.744094848632813",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 277 1747",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "Middleton Park Avenue",
+    "address2": "Middleton Clinic",
+    "address1": "Middleton Park Surgery"
+  },
+  {
+    "website": "http://www.drbanceandpartners.nhs.uk",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS26 9AA",
+    "phone": "01977 664141",
+    "partial_postcode": "LS26",
+    "parent_o_d_s_code": "03R",
+    "parent_name": "NHS Wakefield CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "4412",
+    "organisation_code": "B87023",
+    "name": "Dr Bance & Partners - Pinfold Surgery",
+    "longitude": "-1.3935408592224121",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.393540859222412,
+        53.73676681518555
+      ]
+    },
+    "latitude": "53.736766815185547",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "01977 664506",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "Methley",
+    "address2": "Pinfold Lane",
+    "address1": "Pinfold Surgery"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS11 0HJ",
+    "phone": "0113 2954388",
+    "partial_postcode": "LS11",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "44353",
+    "organisation_code": "Y00025",
+    "name": "Dr H U Pai",
+    "longitude": "-1.5812841653823853",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5812841653823853,
+        53.76848602294922
+      ]
+    },
+    "latitude": "53.768486022949219",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "False",
+    "fax": "0113 2953571",
+    "email": "",
+    "county": "",
+    "city": "",
+    "address3": "Leeds",
+    "address2": "115 Cottingley Approach",
+    "address1": "Cottingley Community Centre"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS26 8DZ",
+    "phone": "0113 2871444",
+    "partial_postcode": "LS26",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "44461",
+    "organisation_code": "Y00683",
+    "name": "Grange Medicare - Swillington Health Practice ",
+    "longitude": "-1.4251867532730103",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.4251867532730103,
+        53.76847839355469
+      ]
+    },
+    "latitude": "53.768478393554687",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 287 7203",
+    "email": "",
+    "county": "",
+    "city": "Swillington",
+    "address3": "Hillcrest Close",
+    "address2": "Swillington Clinic",
+    "address1": "Swillington Health Practice"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS8 4HA",
+    "phone": "0113 2007999",
+    "partial_postcode": "LS8",
+    "parent_o_d_s_code": "02V",
+    "parent_name": "NHS Leeds North CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "44465",
+    "organisation_code": "Y00848",
+    "name": "Leeds Safe Haven Service",
+    "longitude": "-1.5205168724060059",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5205168724060059,
+        53.81965255737305
+      ]
+    },
+    "latitude": "53.819652557373047",
+    "is_pims_managed": "False",
+    "is_e_p_s_enabled": "False",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "",
+    "address3": "Leeds",
+    "address2": "67 Hilton Road",
+    "address1": "Hilton Road Surgery"
+  },
+  {
+    "website": "http://www.onemedicalgroup.co.uk/the-light-surgery-leeds-city-centre",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS1 8TL",
+    "phone": "0113 242 7425",
+    "partial_postcode": "LS1",
+    "parent_o_d_s_code": "02V",
+    "parent_name": "NHS Leeds North CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "44531",
+    "organisation_code": "Y02002",
+    "name": "The Light NHS GP Surgery",
+    "longitude": "-1.545624852180481",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.545624852180481,
+        53.800048828125
+      ]
+    },
+    "latitude": "53.800048828125",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0844 8151142",
+    "email": "thelight@nhs.net",
+    "county": "Yorkshire(West Riding)",
+    "city": "Leeds",
+    "address3": "The Headrow",
+    "address2": "The Light",
+    "address1": "Balcony Level 7"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS15 4DR",
+    "phone": "01132645414",
+    "partial_postcode": "LS15",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "864471",
+    "organisation_code": "B86009",
+    "name": "Dr P D  Lewis & Partners",
+    "longitude": "-1.4276742935180664",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.4276742935180664,
+        53.82429885864258
+      ]
+    },
+    "latitude": "53.824298858642578",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "Leeds",
+    "address3": "",
+    "address2": "",
+    "address1": "96 Main Street"
+  },
+  {
+    "website": "http://www.mhshakespeare.co.uk",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS9 7TA",
+    "phone": "0113 295 1132",
+    "partial_postcode": "LS9",
+    "parent_o_d_s_code": "03G",
+    "parent_name": "NHS Leeds South And East CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "1819837",
+    "organisation_code": "Y02494",
+    "name": "Shakespeare Medical Practice",
+    "longitude": "-1.5251809358596802",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.5251809358596802,
+        53.802101135253906
+      ]
+    },
+    "latitude": "53.802101135253906",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "0113 2494489",
+    "email": "",
+    "county": "West Yorkshire",
+    "city": "Leeds",
+    "address3": "Cromwell Mount",
+    "address2": "Burmantofts Health Centre",
+    "address1": "Shakespeare Medical Practice and Walk-In-Centre"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS20 8AY",
+    "phone": "",
+    "partial_postcode": "LS20",
+    "parent_o_d_s_code": "02V",
+    "parent_name": "NHS Leeds North CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "3995616",
+    "organisation_code": "B86032",
+    "name": "Charles Street Surgery",
+    "longitude": "-1.7107119560241699",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.71071195602417,
+        53.867523193359375
+      ]
+    },
+    "latitude": "53.867523193359375",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "Otley",
+    "address3": "",
+    "address2": "",
+    "address1": "Charles Street"
+  },
+  {
+    "website": "",
+    "sub_type": "UNKNOWN",
+    "postcode": "LS21 1BJ",
+    "phone": "",
+    "partial_postcode": "LS21",
+    "parent_o_d_s_code": "02V",
+    "parent_name": "NHS Leeds North CCG",
+    "organisation_type": "GP",
+    "organisation_status": "Visible",
+    "organisation_id": "3995617",
+    "organisation_code": "B86032",
+    "name": "Charles Street Surgery",
+    "longitude": "-1.6912026405334473",
+    "latlong": {
+      "type": "Point",
+      "crs": {
+        "type": "name",
+        "properties": {
+          "name": "EPSG4326"
+        }
+      },
+      "coordinates": [
+        -1.6912026405334473,
+        53.904537200927734
+      ]
+    },
+    "latitude": "53.904537200927734",
+    "is_pims_managed": "True",
+    "is_e_p_s_enabled": "True",
+    "fax": "",
+    "email": "",
+    "county": "",
+    "city": "Otley",
+    "address3": "",
+    "address2": "",
+    "address1": "Charles Street"
+  }
+]

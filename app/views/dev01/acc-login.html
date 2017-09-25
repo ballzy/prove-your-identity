@@ -1,0 +1,34 @@
+{% extends '_layouts/layout_2-3.html' %}
+
+{% block page_title %}Create an NHS Account{{serviceName}}{% endblock %}
+
+{% block pageTitle %}Create an NHS Account{% endblock %}
+
+{% block content %}
+
+<div class="first-item">
+  <form>
+    <fieldset>
+
+      <h1><legend>Login to your NHS Account</legend></h1>
+
+      <div class="form-group">
+        <label class="form-label" for="field3">Email Address</label>
+        <input class="form-control" id="field3" name="field3" type="text">
+      </div>
+      <div class="form-group">
+        <label class="form-label" for="field2">Password</label>
+        <input class="form-control" id="field2" name="field2" type="text">
+      </div>
+
+    </fieldset>
+
+    <a class="button" href="dashboard">Login</a>
+
+    <p><a href="forgotten-password">Forgotten your password?</a></p>
+  </form>
+</div>
+
+{% endblock %}
+
+{% block footer %}{% endblock %}

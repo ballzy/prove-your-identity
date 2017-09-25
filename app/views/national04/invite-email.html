@@ -1,0 +1,20 @@
+{% extends '_layouts/layout_email.html' %}
+
+{% block page_title %}NHS account{{serviceName}}{% endblock %}
+
+
+
+{% block content %}
+
+<div class="first-item" style="padding-bottom: 250px; width: 66%;" >
+  <h2 class="heading-large">Validate your email address</h2>
+  <p>Before you can use your NHS account you need to validate your email address.</p>
+
+  <p>If you didn't create an NHS account using this email address please ignore this email and we will delete the NHS account after 48 hours.</p>
+  <p><a class="button" href="verified-email">Validate my email</a></p>
+  <p>Or verify using this link:<br><a href="verified-email">http://prove-my-identity.herokuapp.com/national03/verified-email</a></p>
+</div>
+
+{% endblock %}
+
+{% block footer %}{% endblock %}

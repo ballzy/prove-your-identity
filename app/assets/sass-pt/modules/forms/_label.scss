@@ -1,0 +1,42 @@
+label {
+  display: block;
+  width: 100%;
+  font-weight: $bodyweight;
+}
+
+.form-label-bold {
+  font-weight: bold;
+}
+
+.form-hint {
+  display: block;
+  clear: both;
+  font-size: $smallprint;
+  font-weight: $bodyweight;
+  line-height: $leading*2;
+  color: #5C6770;
+}
+
+label .form-hint {
+  margin: $leading/2 0 0 0;
+}
+
+.primary {
+  @extend h1;
+
+  margin-top: 0;
+  display: block;
+}
+
+.secondary {
+  @extend h2;
+
+  font-weight: $bodyweight;
+  display: block;
+}
+
+.block-label-legend {
+  display: block;
+  width: 100%;
+  font-weight: bold;
+}

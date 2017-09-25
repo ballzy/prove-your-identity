@@ -1,0 +1,15 @@
+details {
+  margin: 24px 0;
+
+  summary {
+    text-decoration: underline;
+    display: inline-block;
+
+    &:focus {
+      outline: 0;
+      -webkit-box-shadow: 0 0 0 5px $focus-colour;
+      -moz-box-shadow: 0 0 0 5px $focus-colour;
+      box-shadow: 0 0 0 5px $focus-colour;
+    }
+  }
+}

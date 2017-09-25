@@ -1,0 +1,38 @@
+{% extends '_layouts/archive/layout_mvp-v1.html' %}
+
+{% block page_title %}
+ Parkside Surgery
+{% endblock page_title %}
+
+{% block pageTitle %}
+ Parkside Surgery
+{% endblock pageTitle %}
+
+{% block leftHalf %}
+  {% include '_includes/archive/mvp-v1_3_4/address.html' %}
+{% endblock %}
+
+{% block rightHalf %}
+  {% include '_includes/archive/mvp-v1_3_4/contact.html' %}
+{% endblock %}
+
+<!-- Main content here -->
+{% block content %}
+  {% include '_includes/archive/mvp-v1_3_4/anchor-links.html' %}
+  <hr/>
+  <div id="when-the-reception-is-open">{% include '_includes/archive/mvp-v1_3_4/when-the-reception-is-open.html' %}</div>
+  <hr/>
+  <div id="when-to-see-a-gp">{% include '_includes/archive/mvp-v1_3_4/when-gp-see-patients.html' %}</div>
+  <hr/>
+  <div id="tasks">{% include '_includes/archive/mvp-v1_3_4/tasks.html' %}</div>
+  <hr/>
+  <div id="patients-stats">{% include '_includes/archive/mvp-v1_3_4/what-patients-say-about-this-surgery.html' %}</div>
+  <hr/>
+  <div id="healthcare-staff">{% include '_includes/archive/mvp-v1_3_4/healthcare-staff-at-this-surgery.html' %}</div>
+  <hr/>
+  <div id="specialied-services">{% include '_includes/archive/mvp-v1_3_4/specialised-services.html' %}</div>
+  <hr/>
+  <div id="facilities">{% include '_includes/archive/mvp-v1_3_4/facilities.html' %}</div>
+  <hr/>
+  <div id="register">{% include '_includes/archive/mvp-v1_3_4/register-as-patient.html' %}
+{% endblock content %}

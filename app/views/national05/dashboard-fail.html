@@ -1,0 +1,47 @@
+{% extends '_layouts/layout_1-2-signed-in.html' %}
+
+{% block page_title %}Your NHS Account{{serviceName}}{% endblock %}
+
+{% block content %}
+
+<div>
+	<h1>Welcome to your NHS</h1>
+
+	<h3 id="conditions">Common conditions</h2>
+	<ul>
+		<li><a href="https://beta.nhs.uk/conditions/common-cold/">Common cold</a></li>
+		<li><a href="https://beta.nhs.uk/conditions/diabetes/">Diabetes</a></li>
+		<li><a href="https://beta.nhs.uk/conditions/chickenpox/">Chickenpox</a></li>
+		<li><a href="https://beta.nhs.uk/conditions/blisters/">Blisters</a></li>
+	</ul>
+	<h3 id="symptoms">Your conditions</h3>
+	<ul>
+		<li><a href="https://beta.nhs.uk/conditions/glandular-fever">Glandular fever</a></li>
+		<li><a href="https://beta.nhs.uk/conditions/hay-fever">Hay fever</a></li>
+	</ul>
+	<h3 id="symptoms">Your medicines</h3>
+	<ul>
+		<li><a href="https://beta.nhs.uk/medicines/citalopram">Citalopram</a></li>
+		<li><a href="https://beta.nhs.uk/medicines/ibuprofen-for-children">Ibuprofen for children</a></li>
+	</ul>
+</div>
+
+
+{% endblock %}
+
+{% block rightcol %}
+<div class="reading-width">
+	<h3>NHS Services</h3>
+	<ul>
+		<li><a href="acc-details">Book a GP appointment online</a></li>
+		<li><a href="get-address-fail">View your medical record online</a></li>
+		<li><a href="#">Manage your child's health record</a></li>
+		<li><a href="service-level-4">Manage and view my health information</a></li>
+	</ul>
+</div>
+
+
+{% endblock %}
+
+{% block footer %}{% endblock %}
+

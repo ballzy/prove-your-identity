@@ -1,0 +1,31 @@
+.heading-xxlarge {
+  @extend h1;
+}
+
+.heading-xlarge {
+  @extend h2;
+}
+
+.heading-large {
+  @extend h3;
+}
+
+.heading-body {
+  @extend h4;
+}
+
+/* remove undelines for a tags used as anchors */
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a {
+  text-decoration: none;
+}
+
+.heading--h2__beta {
+  font-size: 36px;
+  line-height: 48px;
+  font-weight: bold;
+}
