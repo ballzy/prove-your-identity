@@ -18,21 +18,21 @@ var v2 = require('./app/routes/v2');
 var app = express()
 
 // Grab environment variables specified in Procfile or as Heroku config vars
-// var username = process.env.USERNAME
-// var password = process.env.PASSWORD
-// var appEnvironment = process.env.NODE_ENV || 'development'
-// var useAuth = process.env.USE_AUTH || config.useAuth
-// var useHttps = process.env.USE_HTTPS || config.useHttps
+var username = process.env.USERNAME
+var password = process.env.PASSWORD
+var appEnvironment = process.env.NODE_ENV || 'development'
+var useAuth = process.env.USE_AUTH || config.useAuth
+var useHttps = process.env.USE_HTTPS || config.useHttps
 
-// appEnvironment = appEnvironment.toLowerCase()
-// useAuth = useAuth.toLowerCase()
-// useHttps = useHttps.toLowerCase()
+appEnvironment = appEnvironment.toLowerCase()
+useAuth = useAuth.toLowerCase()
+useHttps = useHttps.toLowerCase()
 
 // Authenticate against the environment-provided credentials, if running
 // the app in production (Heroku, effectively)
-// if (appEnvironment === 'production' && useAuth === 'true') {
-//   app.use(utils.basicAuth(username, password))
-// }
+if (appEnvironment === 'production' && useAuth === 'true') {
+  app.use(utils.basicAuth(username, password))
+}
 
 // Add variables that are available in all views
 app.use(function (req, res, next) {
