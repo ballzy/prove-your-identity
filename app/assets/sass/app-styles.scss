@@ -246,8 +246,8 @@ span.section-header {
 }
 
 .inline div {
-  float: left;
-  width: 20%;
+  display: inline-block;
+  margin-right: 50px;
 }
 // end radio check styles //
 .header-panel {
