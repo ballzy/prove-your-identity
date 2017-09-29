@@ -1,32 +1,48 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="utf-8">
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+    <!--[if IE]><link rel="shortcut icon" href="images/favicon.ico"><![endif]-->
+    <!-- Touch Icons - iOS and Android 2.1+ 180x180 pixels in size. -->
+    <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+    <!-- Firefox, Chrome, Safari, IE 11+ and Opera. 192x192 pixels in size. -->
+    <link rel="icon" href="images/favicon.png">
 
     <title>{% block page_title %}{% endblock %}</title>
-    <link rel="stylesheet" type="text/css" href="/stylesheets/app.css">
-    <link rel="stylesheet" type="text/css" href="https://assets.nhs.uk/fonts/nhsuk-fonts-1.1.0.css">
-    {% block html_head %}{% endblock %}
+    <link rel="stylesheet" type="text/css" href="/stylesheets/app-styles.css">
+    <!--[if gt IE 8]><!--><link rel="stylesheet" href="nhsuk.css" media="screen" type="text/css"><!--<![endif]-->
+    <!--[if IE 6]><link rel="stylesheet" href="nhsuk-ie6.css" media="screen" type="text/css"><![endif]-->
+    <!--[if IE 7]><link rel="stylesheet" href="nhsuk-ie7.css" media="screen" type="text/css"><![endif]-->
+    <!--[if IE 8]><link rel="stylesheet" href="nhsuk-ie8.css" media="screen" type="text/css"><![endif]-->
+    <link rel="stylesheet" href="nhsuk-print.css" media="print" type="text/css">
+
+    <script>
+(function(d) {
+  d.className = d.className.replace(/\bno-js\b/, 'js-enabled')
+})(document.documentElement)
+    </script>
+
   </head>
 
   <body class="{% block body_css_classes %}{% endblock %}" style="background-color: #768692;">
     <script>document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script>
 
 
-    <main id="content" role="main" class="content">
+    <main id="content" role="main">
+      <div class="page-section">
 
+        <div class="grid-row" style="border: 1px solid #425563; background: #fff;">
+          
+          <div class="column--three-quarters">
+            {% include '_includes/masthead.html' %}
+            {% block content %}{% endblock %}
+          </div>
 
-
-    <div class="grid-row" style="border: 1px solid #425563; background: #fff;">
-      
-      <div class="grid-3-3">
-        {% include '_includes/masthead.html' %}
-        {% block content %}{% endblock %}
+        </div>
       </div>
-
-    </div>
-
 
     </main>
 
