@@ -2853,7 +2853,11 @@ h1, h1 > legend {
 
 p.small, li.small {
   font-size: 16px;
-  line-height: 1em;
+  line-height: 1.1em;
+}
+
+p.small {
+  line-height: 1.2em;
 }
 
 input[type='text'],
