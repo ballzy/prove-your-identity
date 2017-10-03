@@ -262,3 +262,26 @@ span.section-header {
   color: #fff;
 background-color: #005EB8;
 }
+
+.account {
+  width: 100%;
+  border-top: 1px solid #ababab;
+}
+.account-row {
+  padding: 0 10px;
+}
+.account-row.zebra {
+  background-color: #e6e6e6;
+}
+.account .acc-name {
+  display: inline-block;
+  width: 70%;
+}
+.account .acc-connect {
+display: inline-block;
+width: 29%;
+}
+.account .acc-connect img {
+  float: right;
+  margin-top: 5px;
+}
