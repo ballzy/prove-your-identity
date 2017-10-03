@@ -285,3 +285,16 @@ width: 29%;
   float: right;
   margin-top: 5px;
 }
+.-date div {
+  float: left;
+  padding-right: 1em;
+}
+
+.-date .day,
+.-date .month {
+  width: 3em;
+}
+
+.-date .year {
+  width: 4em;
+}
