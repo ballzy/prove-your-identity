@@ -1,5 +1,5 @@
 {
-  "name": "ballzy/prove-your-identity",
+  "name": "prove-your-identity",
   "version": "1.0.0",
   "description": "prove-your-identity",
   "main": "server.js",
