@@ -785,7 +785,7 @@ table th {
 
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
   .global-header__link {
-    background-image: url("/images/hello/logotype-nhs-colour__reverse@2x.png");
+    background-image: url("/images/logotype-nhs-colour__reverse@2x.png");
     background-size: 79px 32px;
   }
 }
