@@ -4,13 +4,23 @@ Design prototypes for one page per GP feature.
 Note this is prototype code. Not intended for production use.
 
 ## Getting started
-Make sure you have Grunt installed first.
+Make sure you have Node.js installed first.
 
-Clone this repo:
-`git clone git@github.com:nhsuk/c2s-page-per-gp-prototype.git`
+[Download the LTS version here](https://nodejs.org/en/download/)
+NPM (Node package manager) will also be installed.
+
+Clone this repo and cd into the folder:
+
+`git clone git@github.com:ballzy/prove-your-identity.git`
+
+`cd prove-your-identity`
 
 Install the dependencies:
+
 `npm install`
 
-Start local development (Sass and Nodemon watching):
+Start local development server (Sass and Nodemon watching):
+
 `grunt`
+
+Go to http://localhost:8000/ to view the prototype.
