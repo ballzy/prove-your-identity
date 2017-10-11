@@ -1,7 +1,10 @@
 {
-  "name": "ballzy/prove-your-identity",
+  "name": "prove-your-identity",
   "version": "1.0.0",
   "description": "prove-your-identity",
+  "engines": {
+    "node": "6.11.4"
+  },
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
