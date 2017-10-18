@@ -1,30 +1,29 @@
 {% extends '_layouts/layout_2-3.html' %}
 
-{% block page_title %}Connect to NHS Wifi{{serviceName}}{% endblock %}
+{% block page_title %}Offline Vouching Identity Service{{serviceName}}{% endblock %}
 
-{% block pageTitle %}Connect to NHS Wifi{% endblock %}
+{% block pageTitle %}Offline Vouching Identity Service{% endblock %}
 
 {% block content %}
 
-<div class="first-item">
-  <form>
-    <div class="form-group">
+<div class="header-panel">
+  <h1>
+    Offline Vouching Identity Service (OVIS)
+  </h1>
 
-      <h1><legend>Connect to NHS Wifi</legend></h1>
+</div>
 
-      <p>To connect to NHS Wifi you need to give us your email address.</p>
+<p>This service is for clinicians.</p>
 
-      
-      <div class="form-group">
-        <label class="form-label" for="field3">Email address</label>
-        <input class="form-control" id="field3" name="field3" type="email">
-      </div>
+<p>Use this service to:</p>
+<ul>
+  <li>Generate a token of trust for a patient</li>
+</ul>
 
-      <p>We will not to send you any spam or share your details.</p>
+<div class="cta shunt">
+  <a href="national07/vouching-1" class="button">Start</a>
+</div>
 
-    </div>
-    <a class="button" href="wifi-success">Continue</a>
-  </form>
 </div>
 
 {% endblock %}

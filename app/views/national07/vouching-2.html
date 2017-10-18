@@ -1,0 +1,60 @@
+{% extends '_layouts/layout_2-3.html' %}
+
+{% block page_title %}Offline Vouching Identity Service{{serviceName}}{% endblock %}
+
+{% block pageTitle %}Offline Vouching Identity Service{% endblock %}
+
+{% block content %}
+
+<div class="first-item">
+  <form>
+    <div class="form-group">
+      <fieldset class="">
+        <h1><legend>How often do you see this person?</legend></h1>
+        
+        <div>
+          <label class="block-label selection-button-radio" for="radio-inline-1">
+            <input id="radio-inline-1" type="radio" name="radio-inline-group" value="/national06/gponline-login">
+            No very often (once every 6 months)
+          </label>
+        </div>
+        
+        <div>
+          <label class="block-label selection-button-radio" for="radio-inline-2">
+            <input id="radio-inline-2" type="radio" name="radio-inline-group" value="https://nhs-id-2.herokuapp.com/sign-in">
+            Often (once a month)
+          </label>
+        </div>
+
+        <div>
+          <label class="block-label selection-button-radio" for="radio-inline-2">
+            <input id="radio-inline-2" type="radio" name="radio-inline-group" value="https://nhs-id-2.herokuapp.com/sign-in">
+            Frequently (every week)
+          </label>
+        </div>
+
+        <div>
+          <label class="block-label selection-button-radio" for="radio-inline-2">
+            <input id="radio-inline-2" type="radio" name="radio-inline-group" value="https://nhs-id-2.herokuapp.com/sign-in">
+            Never
+          </label>
+        </div>
+      </fieldset>
+
+      <div class="form-group">
+        <label class="form-label" for="field2">Additional information (role etc)</label>
+        <input class="form-control" id="field2" name="field2" type="text">
+      </div>
+
+
+    </div>
+    <div class="form-group">
+      <a class="button" href="#" id="continue">Continue</a>
+    </div>
+    
+  </form>
+</div>
+
+{% endblock %}
+
+{% block footer %}{% endblock %}
