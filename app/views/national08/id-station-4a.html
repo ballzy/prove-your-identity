@@ -1,0 +1,45 @@
+{% extends '_layouts/layout_ids.html' %}
+
+{% block page_title %}Manage and view your health information{{serviceName}}{% endblock %}
+
+{% block pageTitle %}Manage and view your health information{% endblock %}
+
+{% block content %}
+
+<div class="first-item">
+  <form>
+    <div class="form-group">
+      <fieldset class="">
+        <h1><legend>Your Doc has been successfually checked. Please take a photo of yourself now</legend></h1>
+       <div style="float:left; width: 50%">
+         <p>Make sure you...</p>
+        <ul >
+          <li>instruction 1</li>
+          <li>Instruction 2</li>
+          <li>Instruction 3</li>
+        </ul>
+       </div>
+        
+        <img style="float:right;width:50%;" src="/images/id-station-scan-photo.jpg" />
+
+</fieldset>
+    </div>
+    <div class="form-group">
+      <a class="button" href="id-station-4a-scanning" id="continue">Go</a>
+    </div>
+    
+  </form>
+</div>
+
+<script>
+  
+   setTimeout(function () {
+       window.location.href = "id-station-4a"; //will redirect to your blog page (an ex: blog.html)
+    }, 2000); //will call the function after 2 secs.
+
+
+</script>
+
+{% endblock %}
+
+{% block footer %}{% endblock %}

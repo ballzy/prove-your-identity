@@ -1,0 +1,39 @@
+{% extends '_layouts/layout_ids.html' %}
+
+{% block page_title %}Manage and view your health information{{serviceName}}{% endblock %}
+
+{% block pageTitle %}Manage and view your health information{% endblock %}
+
+{% block content %}
+
+<div class="first-item">
+  <form>
+    <div class="form-group">
+      <fieldset class="">
+        <h1><legend>Scanning your Photo ID</legend></h1>
+       <div>
+         <p>please wait</p>
+        
+       </div>
+        
+        <img src="/images/ajax-loader.gif" />
+
+</fieldset>
+    </div>
+    
+  </form>
+</div>
+
+
+<script>
+  
+   setTimeout(function () {
+       window.location.href = "id-station-5"; //will redirect to your blog page (an ex: blog.html)
+    }, 2000); //will call the function after 2 secs.
+
+
+</script>
+
+{% endblock %}
+
+{% block footer %}{% endblock %}
