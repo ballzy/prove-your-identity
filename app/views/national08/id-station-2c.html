@@ -10,25 +10,22 @@
   <form>
     <div class="form-group">
       <fieldset class="">
-          <p>100% complete</p>
-          
-        <h1><legend>Your photo and doc have been successfully checked</legend></h1>
+        <h1><legend>Please enter your security code</legend></h1>
+        <p>To contine proving your ID, please enter the mobile number</p>
         
-
-</fieldset>
+        <div class="form-group">
+          <label class="form-label" for="field3">Mobile Phone</label>
+          <input class="form-control" id="field3" name="field3" type="text">
+        </div>
+        
+      </fieldset>
     </div>
     <div class="form-group">
-      <a class="button" href="id-station-1" id="continue">End Session</a>
+      <a class="button" href="id-station-4a" id="continue">Continue</a>
     </div>
-    
   </form>
 </div>
 
-<script>
-setTimeout(function () {
-  window.location.href = "id-station-1"; //will redirect to your blog page (an ex: blog.html)
-}, 5000); //will call the function after 2 secs.
-</script>
 {% endblock %}
 
 {% block footer %}{% endblock %}
