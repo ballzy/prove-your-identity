@@ -3292,3 +3292,11 @@ button.button-twitter {
 p.help-links {
   text-align: center;
 }
+
+.form-date-field {
+  margin-top: 0 !important;
+}
+
+.form-hint {
+  clear: both;
+}
