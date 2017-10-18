@@ -5,19 +5,36 @@
 {% block content %}
 
 <div>
-	<h1>Your NHS account</h1>
-	<h3 id="conditions" class="heading-large">Personal details</h3>
-	<!-- <p><b>Name:</b><br>John Maurice King</p>
-	<p><b>Address:</b><br>
-		72 Tong Road,<br>
-		Pudsey,<br>
-		Leeds<br>
-		LS12 3QK</p>
-	<p><b>Phone number:</b><br>
-		07779 000333</p> -->
-	<p><b>Email:</b><br>johnmaurice93@hotmail.com</p>
-	<h3 id="conditions" class="heading-large">Password</h3>
-	<p><a href="two-step-code-password">Change password</a></p>
+	<h2>Your Care Information Exchange service</h2>
+	<p>Current Services</p>
+	<ul>
+		<li>Book GP Online</li>
+	</ul>
+
+	<h3>Verify your identity to get the most out of your Care Information Exchange</h2>
+	<div>
+		<label class="block-label selection-button-radio" for="radio-inline-1">
+		  <input id="radio-inline-1" type="radio" name="radio-inline-group" value="https://nhs-id-2.herokuapp.com/intro">
+		  Create a GOV.UK Verify account       
+		</label>
+		<p style="clear: both; font-size: 12pt; opacity: .75;">Select this option if you have access to a mobile phone and you can download apps.</p>          
+	  </div>
+	  <div>
+		<label class="block-label selection-button-radio" for="radio-inline-2">
+		  <input id="radio-inline-2" type="radio" name="radio-inline-group" value="hub-offline-choices">
+		  I prefer to go somewhere in person    
+		</label>
+		<p style="clear: both; font-size: 12pt; opacity: .75;">Select this option if you do not have access to a mobile phone.</p>          
+	  </div>
+	  <div class="form-group">
+			<a class="button" href="#" id="continue">Continue</a>
+		  </div>
+<!--
+
+	<a href="" class="button">Create a GOV.UK Verify account</a>
+	<a href="">I already have a GOV.UK Verify account</a>
+-->
+
 
 	
 

@@ -1,0 +1,33 @@
+{% extends '_layouts/layout_email.html' %}
+
+{% block page_title %}NHS account{{serviceName}}{% endblock %}
+
+
+
+{% block content %}
+
+<div class="first-item" style="padding-bottom: 250px;" >
+  <p>Dear Mr Smith,</p>
+  <p>Your next appointment is on 3rd July 2018 at London GP</p>
+  <p>If you can not make your appointment please call 33880088335</p>
+  <br><br><br><br><br><br><br><br>
+  <h2>Care Information Exchange - Sign Up</h2>
+  <ul>
+    <li>Gain access to your medical records</li>
+    <li>book online</li>
+    <li>monitor your health</li>
+    <li>And more</li>
+  </ul>
+  <h3>What do i need to do:</h3>
+  <p>You will need a valid passport/driving licence or a medical professional who can prove you are you.</p>
+  <p>You can choose to join at your next appointment, whether at the desk or kiosk, or you can sign up right now.</p>
+  <p>To get the best out of the Care Information Exchange and to keep things nice and secure we need to prove who you are and verify your indentity.</p>
+  <ul>
+    <li><a href="hub-login">http://www.cie.co.uk/sign-up</a></li>
+    <li>Sign up at your next appointment</li>
+  </ul>
+</div>
+
+{% endblock %}
+
+{% block footer %}{% endblock %}
