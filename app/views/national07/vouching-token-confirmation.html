@@ -1,0 +1,40 @@
+{% extends '_layouts/layout_2-3.html' %}
+
+{% block page_title %}Offline Vouching Identity Service{{serviceName}}{% endblock %}
+
+{% block pageTitle %}Offline Vouching Identity Service{% endblock %}
+
+{% block content %}
+
+<div class="first-item">
+  <form>
+    <div class="form-group">
+      <fieldset class="">
+        <h1><legend>Confirm that you are happy to issue the patient with a token</legend></h1>
+        <h2> Disclaimer: by issuing this token, you are agreeing that blah blah blah....</h2>
+        
+        <div>
+          <label class="block-label selection-button-radio" for="radio-inline-1">
+            <input id="radio-inline-1" type="radio" name="radio-inline-group" value="vouching-token-delivery-method">
+            Yes
+          </label>
+        </div>
+        
+        <div>
+          <label class="block-label selection-button-radio" for="radio-inline-2">
+            <input id="radio-inline-2" type="radio" name="radio-inline-group" value="vouching-process-cancelled">
+            No
+          </label>
+        </div>
+      </fieldset>
+    </div>
+    <div class="form-group">
+      <a class="button" href="#" id="continue">Continue</a>
+    </div>
+    
+  </form>
+</div>
+
+{% endblock %}
+
+{% block footer %}{% endblock %}
