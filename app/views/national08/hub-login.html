@@ -15,28 +15,24 @@
         <p>To access your medical record, we need to be sure that it's you, and not someone pretending to be you.</p>
         
         <div>
-          <label class="block-label selection-button-radio" for="radio-inline-2">
-            <input id="radio-inline-2" type="radio" name="radio-inline-group" value="https://nhs-id-2.herokuapp.com/intro">
-            Create a GOV.UK Verify account       
-          </label>
-          <p style="clear: both; font-size: 12pt; opacity: .75;">Select this option if you are not currently using a healthcare system or if you are unsure. Verify is a government system for proving identity.</p>          
-        </div>
-
-        <!--
-        <div>
           <label class="block-label selection-button-radio" for="radio-inline-1">
             <input id="radio-inline-1" type="radio" name="radio-inline-group" value="/national08/gponline-login">
-            Create a GP online services account
+            GP online services account
           </label>
-          <p style="clear: both; font-size: 12pt; opacity: .75;">Select this option if you already book GP appointments or order repeat prescriptions online using Patient Access, Evergreen Life, Patient Knows Best, SystemOnline, Wiggly Amps, Patient Online, DIMEC, iPlato or ECHO.</p>
+          <p style="clear: both; font-size: 12pt; opacity: .75;">Select this option if you book GP appointments or order repeat prescriptions online using Patient Access, Evergreen Life, Patient Knows Best, SystemOnline, Wiggly Amps, Patient Online, DIMEC, iPlato or ECHO.</p>
         </div>
-      -->
-
         
         <div>
+          <label class="block-label selection-button-radio" for="radio-inline-2">
+            <input id="radio-inline-2" type="radio" name="radio-inline-group" value="https://nhs-id-2.herokuapp.com/sign-in">
+            GOV.UK Verify           
+          </label>
+        </div>
+
+        <div>
           <label class="block-label selection-button-radio" for="radio-inline-3">
-            <input id="radio-inline-3" type="radio" name="radio-inline-group" value="cie-login">
-            I can already access Care Information Exchange            
+            <input id="radio-inline-3" type="radio" name="radio-inline-group" value="https://nhs-id-2.herokuapp.com/intro">
+            I don't have either of these            
           </label>
         </div>
       </fieldset>
