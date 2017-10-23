@@ -17,11 +17,18 @@
 
 <p>Use this service to:</p>
 <ul>
-  <li>Generate a token of trust for a patient</li>
+  <li>Generate a token of trust for a patient to access online medical records</li>
+  {% if userAccess == 2 %}
+  <li>Remove token access for a patients identity</li>
+  {% endif %}
 </ul>
 
 <div class="cta shunt">
-  <a href="vouching-nhs-no" class="button">Start</a>
+  {% if userAccess == 2 %}
+  <a href="vouching-service-select{{formQuery}}" class="button">Start</a>
+  {% else %}
+  <a href="vouching-nhs-no{{formQuery}}" class="button">Start</a>
+  {% endif %}
 </div>
 
 </div>
