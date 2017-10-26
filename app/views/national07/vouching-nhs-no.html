@@ -1,0 +1,71 @@
+{% extends '_layouts/layout_2-3.html' %}
+
+{% block page_title %}Offline Vouching Identity Service{{serviceName}}{% endblock %}
+
+{% block pageTitle %}Offline Vouching Identity Service{% endblock %}
+
+{% block content %}
+
+<div class="first-item">
+  <form>
+    <div class="form-group">
+      <!--<fieldset class="inline">-->
+
+        <h1><legend>Patient's details</legend></h1>
+        <p>Registered with practice details:</p>
+
+        <div class="form-group">
+          <label class="form-label" for="field1">First name</label>
+          <input class="form-control" id="field1" name="field1" type="text">
+        </div>
+        <div class="form-group">
+          <label class="form-label" for="field2">Middle name</label>
+          <input class="form-control" id="field2" name="field2" type="text">
+        </div>
+        <div class="form-group">
+          <label class="form-label" for="field3">Surname</label>
+          <input class="form-control" id="field3" name="field3" type="text">
+        </div>
+
+        <div class="form-group">
+          <label class="form-label" for="field4">Patient's NHS Number</label>
+          <input class="form-control" id="field4" name="field4" type="text">
+        </div>
+
+      <!--</fieldset>-->
+
+      <fieldset>
+        <legend class="form-label">
+          What is their date of birth?
+        </legend>
+        <div class="form-group -date">
+          <div class="form-date-field">
+            <label for="dob-day">Day</label>
+            <input type="text" id="dob-day" name="dob-day" value="{{ session.dob.day }}" class="day" maxlength="2">
+          </div>
+          <div class="form-date-field">
+            <label for="dob-month">Month</label>
+            <input type="text" id="dob-month" name="dob-month" value="{{ session.dob.month }}" class="month" maxlength="2">
+          </div>
+          <div class="form-date-field">
+            <label for="dob-year">Year</label>
+            <input type="text" id="dob-year" name="dob-year" value="{{ session.dob.year }}" class="year" maxlength="4">
+          </div>
+          <p class="form-hint">
+            For example, 31 / 12 / 1980
+          </p>
+        </div>
+      </fieldset>
+
+    </div>
+
+
+    <div class="form-group">
+      <a class="button" href="vouching-1" id="continue">Continue</a>
+    </div>
+  </form>
+</div>
+
+{% endblock %}
+
+{% block footer %}{% endblock %}

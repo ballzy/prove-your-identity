@@ -1,0 +1,34 @@
+{% extends '_layouts/layout_ids.html' %}
+
+{% block page_title %}Manage and view your health information{{serviceName}}{% endblock %}
+
+{% block pageTitle %}Manage and view your health information{% endblock %}
+
+{% block content %}
+
+<div class="first-item">
+  <form>
+    <div class="form-group">
+      <fieldset class="">
+          <p>100% complete</p>
+          
+        <h1><legend>Your photo and doc have been successfully checked</legend></h1>
+        
+
+</fieldset>
+    </div>
+    <div class="form-group">
+      <a class="button" href="id-station-1" id="continue">End Session</a>
+    </div>
+    
+  </form>
+</div>
+
+<script>
+setTimeout(function () {
+  window.location.href = "id-station-1"; //will redirect to your blog page (an ex: blog.html)
+}, 5000); //will call the function after 2 secs.
+</script>
+{% endblock %}
+
+{% block footer %}{% endblock %}

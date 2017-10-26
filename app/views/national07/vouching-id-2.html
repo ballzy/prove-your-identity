@@ -1,0 +1,67 @@
+{% extends '_layouts/layout_2-3.html' %}
+
+{% block page_title %}Offline Vouching Identity Service{{serviceName}}{% endblock %}
+
+{% block pageTitle %}Offline Vouching Identity Service{% endblock %}
+
+{% block content %}
+
+<div class="first-item">
+  <form>
+    <div class="form-group">
+      <fieldset class="">
+        <h1><legend>Input the patient's Passport details</legend></h1>
+
+        <div class="form-group">
+          <label class="form-label" for="field1">Passport number</label>
+          <input class="form-control" id="field1" name="field2" type="text">
+        </div>
+        <!--<h2 id="reveal">What is the passport number</h2>-->
+        <details class="" role="group">
+          <summary data-analytics="summary" role="button" aria-controls="details-content-0" aria-expanded="true">
+            <span class="details__summary">What is the passport number?</span>
+          </summary>
+
+          <div class="details__content" id="details-content-0" aria-hidden="false">
+            <div class="reading-width">
+              <p><img src="/images/passport.jpg" height="157" width="234" style="display: block;margin-right:10px;"/></p>
+            </div>
+          </div>
+        </details>
+        <hr />
+
+      </fieldset>
+
+
+
+      <fieldset class="">
+        <h2><legend>Does the passport photo have a true likeness to the person infront of you?</legend></h2>
+
+        <div>
+          <label class="block-label selection-button-radio" for="radio-inline-1">
+            <input id="radio-inline-1" type="radio" name="radio-inline-group" value="vouching-token-confirmation">
+            Yes
+          </label>
+        </div>
+
+        <div>
+          <label class="block-label selection-button-radio" for="radio-inline-2">
+            <input id="radio-inline-2" type="radio" name="radio-inline-group" value="vouching-qanda-1">
+            No
+          </label>
+        </div>
+      </fieldset>
+
+
+
+    </div>
+    <div class="form-group">
+      <a class="button" href="#" id="continue">Continue</a>
+    </div>
+    
+  </form>
+</div>
+
+{% endblock %}
+
+{% block footer %}{% endblock %}

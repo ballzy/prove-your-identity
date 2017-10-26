@@ -1,0 +1,33 @@
+{% extends '_layouts/layout_2-3.html' %}
+
+{% block page_title %}Connect to NHS Wifi{{serviceName}}{% endblock %}
+
+{% block pageTitle %}Connect to NHS Wifi{% endblock %}
+
+{% block content %}
+
+<div class="first-item">
+  <form>
+    <div class="form-group">
+
+      <h1><legend>your login details are being checked...</legend></h1>
+
+      <p>Please wait...</p>
+      <img src="/images/ajax-loader.gif" />
+   
+
+  </form>
+</div>
+
+<script>
+  
+   setTimeout(function () {
+       window.location.href = "gponline-login-3a"; //will redirect to your blog page (an ex: blog.html)
+    }, 2000); //will call the function after 2 secs.
+
+
+</script>
+
+{% endblock %}
+
+{% block footer %}{% endblock %}

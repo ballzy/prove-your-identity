@@ -1,0 +1,38 @@
+{% extends '_layouts/layout_2-3.html' %}
+
+{% block page_title %}Offline Vouching Identity Service{{serviceName}}{% endblock %}
+
+{% block pageTitle %}Offline Vouching Identity Service{% endblock %}
+
+{% block content %}
+
+<div class="header-panel">
+  <h1>
+    Offline Vouching Identity Service
+  </h1>
+
+</div>
+
+<p>This service is for clinicians.</p>
+
+<p>Use this service to:</p>
+<ul>
+  <li>Generate a token of trust for a patient to access online medical records</li>
+  {% if userAccess == 2 %}
+  <li>Remove token access for a patients identity</li>
+  {% endif %}
+</ul>
+
+<div class="cta shunt">
+  {% if userAccess == 2 %}
+  <a href="vouching-service-select{{formQuery}}" class="button">Start</a>
+  {% else %}
+  <a href="vouching-nhs-no{{formQuery}}" class="button">Start</a>
+  {% endif %}
+</div>
+
+</div>
+
+{% endblock %}
+
+{% block footer %}{% endblock %}

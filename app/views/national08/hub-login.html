@@ -1,0 +1,49 @@
+{% extends '_layouts/layout_2-3.html' %}
+
+{% block page_title %}Manage and view your health information{{serviceName}}{% endblock %}
+
+{% block pageTitle %}Manage and view your health information{% endblock %}
+
+{% block content %}
+
+<div class="first-item">
+  <form>
+    <div class="form-group">
+      <fieldset class="">
+        <h1><legend>Care Information Exchance - Sign Up?</legend></h1>
+
+        <p>To access your medical record, we need to be sure that it's you, and not someone pretending to be you.</p>
+        
+        <div>
+          <label class="block-label selection-button-radio" for="radio-inline-1">
+            <input id="radio-inline-1" type="radio" name="radio-inline-group" value="/national08/gponline-login">
+            GP online services account
+          </label>
+          <p style="clear: both; font-size: 12pt; opacity: .75;">Select this option if you book GP appointments or order repeat prescriptions online using Patient Access, Evergreen Life, Patient Knows Best, SystemOnline, Wiggly Amps, Patient Online, DIMEC, iPlato or ECHO.</p>
+        </div>
+        
+        <div>
+          <label class="block-label selection-button-radio" for="radio-inline-2">
+            <input id="radio-inline-2" type="radio" name="radio-inline-group" value="https://nhs-hack-2.herokuapp.com/sign-in">
+            GOV.UK Verify           
+          </label>
+        </div>
+
+        <div>
+          <label class="block-label selection-button-radio" for="radio-inline-3">
+            <input id="radio-inline-3" type="radio" name="radio-inline-group" value="https://nhs-hack-2.herokuapp.com/intro">
+            I don't have either of these            
+          </label>
+        </div>
+      </fieldset>
+    </div>
+    <div class="form-group">
+      <a class="button" href="#" id="continue">Continue</a>
+    </div>
+    
+  </form>
+</div>
+
+{% endblock %}
+
+{% block footer %}{% endblock %}

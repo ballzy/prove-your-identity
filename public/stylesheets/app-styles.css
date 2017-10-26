@@ -3292,3 +3292,54 @@ button.button-twitter {
 p.help-links {
   text-align: center;
 }
+
+.form-date-field {
+  margin-top: 0 !important;
+}
+
+.form-hint {
+  clear: both;
+}
+
+.notice {
+  position: relative;
+  margin: 35px 0;
+}
+
+.notice .icon {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  margin-top: -17px;
+}
+
+.notice strong {
+  display: block;
+  padding-left: 65px;
+  margin-left: -15px;
+}
+
+.icon-important {
+  width: 35px;
+  height: 35px;
+  background-image: url("/images/icon-important.png");
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 20 / 10), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+  .icon-important {
+    background-image: url("/images/icon-important-2x.png");
+    background-size: 100%;
+  }
+}
+
+.visually-hidden,
+.visuallyhidden {
+  position: absolute;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  width: 1px;
+  margin: -1px;
+  padding: 0;
+  border: 0;
+}
